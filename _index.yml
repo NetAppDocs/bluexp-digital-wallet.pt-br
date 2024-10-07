@@ -1,0 +1,29 @@
+---
+indexpage:
+  title: Documentação da carteira digital BlueXP 
+  summary: A carteira digital BlueXP  fornece gerenciamento e monitoramento centralizados
+    de suas licenças e assinaturas.
+  keywords: bluexp, documentation, bluexp-family
+  lead: A carteira digital BlueXP  fornece gerenciamento e monitoramento centralizados
+    de suas licenças e assinaturas.
+  tiles:
+  - title: Comece agora
+    links:
+    - title: Saiba mais sobre a carteira digital BlueXP 
+      url: concept-digital-wallet.html
+  - title: Gerencie suas licenças
+    links:
+    - title: Gerenciar licenças baseadas em capacidade para Cloud Volumes ONTAP
+      url: task-manage-capacity-licenses.html
+    - title: Gerenciar licenças para serviços de dados do BlueXP 
+      url: task-manage-data-services-licenses.html
+    - title: Gerencie assinaturas e contratos PAYGO
+      url: task-manage-subscriptions.html
+  - title: Blogs & comunidade
+    links:
+    - title: Comunidade NetApp
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: BlueXP  blog
+      url: https://bluexp.netapp.com/blog
+    - title: Webinars na nuvem
+      url: https://bluexp.netapp.com/events

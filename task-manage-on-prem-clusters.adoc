@@ -1,0 +1,90 @@
+---
+sidebar: sidebar 
+permalink: task-manage-on-prem-clusters.html 
+keywords: digital wallet, cluster, on-prem ontap cluster, onprem cluster, contract, licensing, ontap licensing, ontap contract, bluexp digital wallet 
+summary: A carteira digital da BlueXP  permite visualizar os detalhes do contrato de cada um dos clusters do ONTAP no local. Se você ainda não descobriu um cluster no BlueXP , você também pode fazer isso a partir da carteira digital. 
+---
+= Gerenciar licenças para clusters ONTAP on-premises
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+A carteira digital da BlueXP  permite visualizar os detalhes do contrato de cada um dos clusters do ONTAP no local. Se você ainda não descobriu um cluster no BlueXP , você também pode descobri-los na carteira digital.
+
+.Antes de começar
+A carteira digital do BlueXP  exibe detalhes sobre os clusters do ONTAP no local descobertos como um ambiente de trabalho ou associados a uma conta do site de suporte da NetApp que você adicionou ao BlueXP .
+
+* https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Saiba como descobrir um cluster ONTAP no local"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Saiba como gerenciar credenciais NSS associadas à sua organização ou conta do BlueXP "^]
+
+
+
+
+== Exibir informações do cluster e detalhes do contrato
+
+Visualizar o status dos contratos de hardware e software dos clusters ONTAP no local para que você possa renová-los antes que eles expirem.
+
+.Passos
+. No menu de navegação BlueXP , selecione *Governança > carteira digital*.
+. Selecione *ONTAP on-premises*.
++
+As datas de expiração do Contrato de Software e do Contrato de hardware aparecem na linha para cada cluster.
+
++
+Se você for solicitado a inserir as credenciais da conta do site de suporte da NetApp (NSS) primeiro, selecione *Adicionar conta NSS*. Depois de adicionar a conta, os clusters associados a essa conta do NSS serão exibidos.
+
+. Se o contrato estiver próximo da data de expiração ou tiver expirado, você poderá selecionar o ícone de bate-papo no canto inferior direito do console do BlueXP  para solicitar uma extensão do contrato.
+. Para ver mais detalhes, image:button_down_caret.png["Um ícone de baixo-cuidado"]selecione para expandir as informações do cluster.
++
+image:screenshot_digital_wallet_license_info.png["Uma captura de tela de expansão dos detalhes do cluster para que você possa exibir as informações da licença do cluster."]
+
+
+
+
+
+== Descubra os clusters
+
+Se você ainda não descobriu um cluster ONTAP no local como um ambiente de trabalho, pode fazer isso a partir da carteira digital da BlueXP . Uma vez descoberto, um cluster estará disponível como um ambiente de trabalho no BlueXP  para que você possa gerenciá-lo.
+
+.Antes de começar
+Você deve entender suas opções de descoberta e gerenciamento (descoberta usando um conetor ou descoberta direta sem um conetor), bem como os requisitos de descoberta.
+
+https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Saiba mais sobre opções e requisitos de descoberta"^].
+
+.Passos
+. No menu de navegação BlueXP , selecione *Governança > carteira digital*.
+. Selecione *ONTAP on-premises*.
++
+image:screenshot_digital_wallet_onprem_main.png["Uma captura de tela da página carteira digital para clusters ONTAP on-premises."]
+
++
+Os clusters do ONTAP são exibidos com o status de saber se eles foram descobertos no BlueXP .
+
++
+Se você for solicitado a inserir as credenciais da conta do site de suporte da NetApp (NSS) primeiro, selecione *Adicionar conta NSS*. Depois de adicionar a conta, os clusters associados a essa conta do NSS serão exibidos.
+
+. Selecione *Discover* para o cluster que você deseja gerenciar por meio do BlueXP .
+. Na página _Discover ONTAP Cluster_, digite a senha da conta de usuário admin e selecione *Discover*.
++
+image:screenshot_discover_ontap_wallet.png["Uma captura de tela que mostra um exemplo da página Detalhes do cluster do ONTAP: O endereço IP de gerenciamento de cluster, nome de usuário e senha."]
+
++
+Observe que o endereço IP de gerenciamento de cluster é preenchido com base nas informações da conta do site de suporte da NetApp.
+
+
+
+.Resultado
+BlueXP  descobre o cluster e o adiciona como um ambiente de trabalho no Canvas. O status do cluster passa para *descoberto* na página _on-premises ONTAP_. Observe que o nome do ambiente de trabalho é o nome do cluster.
+
+image:screenshot_onprem_cluster.png["Uma captura de tela de um cluster ONTAP on-premise no Canvas."]
+
+Agora você pode começar a gerenciar o cluster.
+
+* https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-manage-ontap-connector.html["Saiba como gerenciar clusters descobertos com um conetor"^]
+* https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-manage-ontap-direct.html["Saiba como gerenciar clusters descobertos diretamente"^]
+

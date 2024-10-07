@@ -1,0 +1,45 @@
+---
+sidebar: sidebar 
+permalink: concept-digital-wallet.html 
+keywords: digital wallet, bluexp digital wallet, licensing, licenses, services, supported services 
+summary: 'A carteira digital da BlueXP  permite que você gerencie e monitore as licenças BlueXP  adquiridas na NetApp (BYOL), nas assinaturas do marketplace da BlueXP  e no NetApp Keystone.' 
+---
+= Saiba mais sobre a carteira digital BlueXP 
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+A carteira digital da BlueXP  permite que você gerencie e monitore as licenças BlueXP  adquiridas na NetApp (BYOL), nas assinaturas do marketplace da BlueXP  e no NetApp Keystone.
+
+
+
+== Caraterísticas
+
+* Gerenciar licenças baseadas em capacidade e baseadas em nós para o Cloud Volumes ONTAP
+* Adicionar e gerenciar licenças para serviços de dados do BlueXP 
+* Gerencie assinaturas para PAYGO e contratos anuais associados à sua organização BlueXP  e ao Astra Control
+* Gerencie os serviços do Keystone Subscription para uso com Cloud Volumes ONTAP e clusters ONTAP no local e solicite alterações na capacidade comprometida
+* Veja as informações de status do contrato de hardware e software para clusters ONTAP on-premises
+
+
+
+
+== Serviços compatíveis
+
+A carteira digital BlueXP  permite-lhe gerir licenças para os seguintes serviços:
+
+* https://docs.netapp.com/us-en/bluexp-backup-recovery/index.html["Backup e recuperação"^]
+* https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html["Cloud Volumes ONTAP"^]
+* https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html["Recuperação de desastres"^] (Apenas BYOL)
+* https://docs.netapp.com/us-en/bluexp-ransomware-protection/index.html["Proteção contra ransomware"^]
+* https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html["Clusters ONTAP no local"^]
+* https://docs.netapp.com/us-en/bluexp-tiering/index.html["Disposição em camadas"^]
+
+
+
+TIP: A carteira digital BlueXP  também permite gerenciar licenças para classificação BlueXP . No entanto, a classificação BlueXP  está agora disponível como uma capacidade principal dentro do BlueXP  sem nenhum custo adicional. Uma licença ou assinatura não é mais necessária. https://docs.netapp.com/us-en/bluexp-classification/concept-cloud-compliance.html["Saiba mais sobre a classificação BlueXP"^]

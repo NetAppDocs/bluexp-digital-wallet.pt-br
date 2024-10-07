@@ -1,0 +1,49 @@
+---
+settings:
+  name: BlueXP digital wallet
+  platform: cloud
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: pt-br,us-en,ja-jp,ko-kr,zh-cn,zh-tw,de-de,es-es,fr-fr,it-it
+sidebar:
+  entries:
+  - title: Carteira digital BlueXP  docs
+    url: "/index.html"
+  - title: Notas de lançamento
+    entries:
+    - title: O que há de novo
+      url: "/whats-new.html"
+  - title: Comece agora
+    entries:
+    - title: Saiba mais sobre a carteira digital BlueXP 
+      url: "/concept-digital-wallet.html"
+  - title: Utilize a carteira digital BlueXP 
+    entries:
+    - title: Gerenciar licenças para Cloud Volumes ONTAP
+      entries:
+      - title: Licenças baseadas em capacidade
+        url: "/task-manage-capacity-licenses.html"
+      - title: Licenças baseadas em nós
+        url: "/task-manage-node-based-licenses.html"
+    - title: Gerenciar licenças para serviços de dados do BlueXP 
+      url: "/task-manage-data-services-licenses.html"
+    - title: Gerencie assinaturas e contratos PAYGO
+      url: "/task-manage-subscriptions.html"
+    - title: Gerenciar assinaturas do Keystone
+      url: "/task-manage-keystone.html"
+    - title: Gerenciar licenças para clusters ONTAP no local
+      url: "/task-manage-on-prem-clusters.html"
+  - title: Conhecimento e apoio
+    entries:
+    - title: Registre-se para obter suporte
+      url: "/task-support-registration.html"
+    - title: Obtenha ajuda
+      url: "/task-get-help.html"
+  - title: Avisos legais
+    url: "/legal-notices.html"
+product-family:
+  name: BlueXP
+  repo: bluexp-family
