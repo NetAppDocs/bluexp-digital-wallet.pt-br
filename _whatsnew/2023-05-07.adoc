@@ -1,0 +1,23 @@
+= Ofertas privadas do Google Cloud
+:allow-uri-read: 
+
+
+
+
+=== Ofertas privadas do Google Cloud
+
+A carteira digital da BlueXP  agora identifica as assinaturas do Google Cloud Marketplace associadas a uma oferta privada e mostra a data e o prazo de término da assinatura. Esta melhoria permite-lhe verificar se aceitou com sucesso a oferta privada e validar os seus termos.
+
+
+
+=== Avaria na utilização de carregamento
+
+Agora você pode descobrir o que você está sendo cobrado quando você está inscrito em licenças baseadas em capacidade. Os seguintes tipos de relatórios de utilização estão disponíveis para transferência a partir da carteira digital BlueXP . Os relatórios de uso fornecem detalhes de capacidade de suas assinaturas e informam como você está sendo cobrado pelos recursos em suas assinaturas do Cloud Volumes ONTAP. Os relatórios transferíveis podem ser facilmente partilhados com outras pessoas.
+
+* Uso do pacote Cloud Volumes ONTAP
+* Uso de alto nível
+* Utilização de VMs de storage
+* Utilização de volumes
+
+
+Para obter mais informações sobre os relatórios de uso, https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html#download-usage-reports["Transfira relatórios de utilização"] consulte .

@@ -1,0 +1,11 @@
+= Recuperação de desastres da BlueXP
+:allow-uri-read: 
+
+
+
+
+=== Recuperação de desastres da BlueXP
+
+A carteira digital BlueXP  agora permite gerenciar licenças para recuperação de desastres do BlueXP . Você pode adicionar licenças, atualizar licenças e exibir detalhes sobre a capacidade licenciada.
+
+https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-data-services-licenses.html["Saiba como gerenciar licenças para serviços de dados do BlueXP"]
