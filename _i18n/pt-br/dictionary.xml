@@ -2,14 +2,7 @@
 <blocks>
   <block id="885d83848cc69da53e81865263b93e9b" category="summary">A carteira digital da BlueXP  permite que você gerencie e monitore as licenças BlueXP  adquiridas na NetApp (BYOL), nas assinaturas do marketplace da BlueXP  e no NetApp Keystone.</block>
   <block id="3d6f73228ead0d62be228ed7b18d0d05" category="doc">Saiba mais sobre a carteira digital BlueXP </block>
-  <block id="98f770b0af18ca763421bac22b4b6805" category="section-title">Caraterísticas</block>
-  <block id="012ae05db65bea80da7b7050b5d96f9e" category="list-text">Gerenciar licenças baseadas em capacidade e baseadas em nós para o Cloud Volumes ONTAP</block>
-  <block id="62d9aca3bac1caa2d9cff120588c3e35" category="list-text">Adicionar e gerenciar licenças para serviços de dados do BlueXP </block>
-  <block id="3f4fba3deacd5b0acac06291dbdcdb43" category="list-text">Gerencie assinaturas para PAYGO e contratos anuais associados à sua organização BlueXP  e ao Astra Control</block>
-  <block id="d0f4a98872ff48fd92ead596c5f85c7e" category="list-text">Gerencie os serviços do Keystone Subscription para uso com Cloud Volumes ONTAP e clusters ONTAP no local e solicite alterações na capacidade comprometida</block>
-  <block id="385b7e85ac73053263ffe4f49784da13" category="list-text">Veja as informações de status do contrato de hardware e software para clusters ONTAP on-premises</block>
   <block id="ea22f9957523103248d84695e98b17ba" category="section-title">Serviços compatíveis</block>
-  <block id="7665a7ac6a94a4b78d28cc5c7fc692e6" category="paragraph">A carteira digital BlueXP  permite-lhe gerir licenças para os seguintes serviços:</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="inline-link">Backup e recuperação</block>
   <block id="79ce4013f1223c98134fc4786fafb114" category="list-text"><block ref="79ce4013f1223c98134fc4786fafb114" category="inline-link-rx"></block></block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="inline-link">Cloud Volumes ONTAP</block>
@@ -22,8 +15,6 @@
   <block id="19a1ee48ff4a757e699cf87a3f0b593d" category="list-text"><block ref="19a1ee48ff4a757e699cf87a3f0b593d" category="inline-link-rx"></block></block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="inline-link">Disposição em camadas</block>
   <block id="5ef4f6a3330e077263f2f73cd00474dc" category="list-text"><block ref="5ef4f6a3330e077263f2f73cd00474dc" category="inline-link-rx"></block></block>
-  <block id="726d1cad4d0527532460d1a853919ebc" category="inline-link">Saiba mais sobre a classificação BlueXP</block>
-  <block id="4b030d95eaf018c403b947f6e8c086b2" category="admonition">A carteira digital BlueXP  também permite gerenciar licenças para classificação BlueXP . No entanto, a classificação BlueXP  está agora disponível como uma capacidade principal dentro do BlueXP  sem nenhum custo adicional. Uma licença ou assinatura não é mais necessária.<block ref="f37549d88d23259dc9470e2f2bfbbbf0" category="inline-link-rx"></block></block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
   <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">Avisos legais</block>
   <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">Avisos legais fornecem acesso a declarações de direitos autorais, marcas registradas, patentes e muito mais.</block>
@@ -130,7 +121,6 @@
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">Uma captura de tela que mostra as ações que você pode realizar depois de selecionar o menu na última coluna da tabela.</block>
   <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
   <block id="3346762ff8f7a33c4ab0e7fa6f5ae4bf" category="summary">Gerencie suas licenças baseadas em capacidade da carteira digital para garantir que sua conta NetApp tenha capacidade suficiente para seus sistemas Cloud Volumes ONTAP.</block>
-  <block id="56a50532d8da2bebb09d6190c126140c" category="doc">Gerenciar licenças baseadas em capacidade</block>
   <block id="4112533811706ae9c45d956e68299f46" category="paragraph">Gerencie suas licenças baseadas em capacidade da carteira digital BlueXP  para garantir que sua conta NetApp tenha capacidade suficiente para seus sistemas Cloud Volumes ONTAP.</block>
   <block id="93ed65a89f306426be7980ddc22595e8" category="paragraph">_Licenças baseadas em capacidade_ permitem que você pague por Cloud Volumes ONTAP por TIB de capacidade.</block>
   <block id="b37ea3f4c93245969c515634c741e9bf" category="paragraph">A carteira digital _BlueXP _ permite gerenciar licenças para Cloud Volumes ONTAP a partir de um único local. Você pode adicionar novas licenças e atualizar as licenças existentes.</block>
@@ -145,38 +135,18 @@
   <block id="03021ab228ad1d1c921bbf536e2913a4" category="section-title">Veja a capacidade consumida na sua conta</block>
   <block id="70998cc9a7ddc4592ecb1e8fc59e0b63" category="paragraph">A carteira digital BlueXP  mostra a capacidade total consumida na sua conta e a capacidade consumida pelo pacote de licenciamento. Isso pode ajudá-lo a entender como você está sendo cobrado e se você precisa comprar capacidade adicional.</block>
   <block id="43bfd35e9b57eaace0eafa6750af5ff7" category="list-text">No menu de navegação BlueXP , selecione *Governança &gt; carteira digital*.</block>
-  <block id="e83a5b2754cd537ac6467dc025115726" category="list-text">Na guia *Cloud Volumes ONTAP*, mantenha *licenças baseadas em capacidade* selecionadas.</block>
-  <block id="2bd469c6a2a1a44818909050205d416b" category="list-text">Veja o resumo dos pacotes, que mostra a capacidade consumida, a capacidade pré-comprometida total e a capacidade PAYGO total.</block>
-  <block id="29f9c9781f75b695cb6c7c93910280cd" category="list-text">_Capacidade total consumida_ é a capacidade total provisionada de todos os sistemas Cloud Volumes ONTAP em sua conta do NetApp. O carregamento é baseado no tamanho provisionado de cada volume, independentemente do espaço local, usado, armazenado ou efetivo dentro do volume.</block>
-  <block id="def968f0e18d0f7aed6421ac81039272" category="list-text">_Capacidade total pré-comprometida_ é a capacidade total licenciada (BYOL ou Contrato de mercado) que você comprou na NetApp.</block>
-  <block id="40e697bd547f9c2f3cb7042d204e6b9b" category="list-text">_Total PAYGO_ é a capacidade total provisionada usando assinaturas do mercado de nuvem. O carregamento via PAYGO é usado somente se a capacidade consumida for superior à capacidade licenciada ou se não houver licença BYOL disponível na carteira digital BlueXP .</block>
-  <block id="34a724e7d15854ada8926f52e44a3cdb" category="paragraph">Aqui está um exemplo de um resumo dos pacotes do Cloud Volumes ONTAP na carteira digital do BlueXP :</block>
-  <block id="ef932e9542b570b1aebe25543e12d641" category="inline-image-macro">Uma captura de tela que mostra um resumo dos pacotes do Cloud Volumes ONTAP, incluindo a capacidade total consumida, a capacidade total pré-comprometida (contratos BYOL e Marketplace) e a capacidade total do PAYGO ou provisionada na carteira digital da BlueXP .</block>
-  <block id="7d6ebd560dc2c66d5d0db57db21f3c2e" category="paragraph"><block ref="7d6ebd560dc2c66d5d0db57db21f3c2e" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="ea7c202c277e5ccf92e08be29b4a64e9" category="list-text">No resumo, visualize a capacidade consumida para cada um dos seus pacotes de licenciamento.</block>
-  <block id="af61e314a8c2484dfcfef0afc2e5b8b9" category="list-text">_Capacidade consumida_ mostra a capacidade dos volumes para esse pacote. Para obter mais detalhes sobre um pacote específico, passe o Mouse sobre a dica de ferramenta.</block>
   <block id="d30bc4bd5cee7ac23a1df54311d1f4b3" category="inline-link">Saiba mais sobre o carregamento do pacote Essentials</block>
   <block id="b2678f2b003e23f7f5f3a7cd8451a26b" category="paragraph">Para compreender melhor as capacidades apresentadas para o pacote Essentials, deve estar familiarizado com o funcionamento do carregamento.<block ref="8d04d0643798fbb69d5260f477ea213c" category="inline-link-rx"></block>.</block>
-  <block id="cfc852810f89c13febd473e12117d828" category="list-text">_Capacidade pré-comprometida_ é a capacidade licenciada (BYOL ou Contrato de mercado) que você comprou na NetApp.</block>
-  <block id="b35741916171a2b4d1210c1ccf6e3920" category="list-text">_BYOL_ mostra a capacidade licenciada que você comprou da NetApp para esse tipo de pacote.</block>
-  <block id="59bdc4172870791ff34a990174b34a66" category="list-text">_Marketplace Contracts_ mostra a capacidade licenciada que você comprou com um contrato de mercado para este tipo de pacote.</block>
-  <block id="e733f8e4574a8639831d6df796e6a0eb" category="list-text">_PAYGO_ mostra a capacidade consumida pelo modelo de consumo de licença.</block>
-  <block id="bbb170bfbf4105204b0dbe4292724d6e" category="paragraph">Aqui está um exemplo para uma conta que tem vários pacotes de licenciamento:</block>
-  <block id="b0980f4f35d961e95a685e0af8bda7e4" category="inline-image-macro">Uma captura de tela que mostra capacidade consumida, capacidade pré-comprometida e PAYGO, ou provisionada, capacidade para os pacotes essenciais e profissionais.</block>
-  <block id="71b669d4d19df676d975ef4911ded7af" category="paragraph"><block ref="71b669d4d19df676d975ef4911ded7af" category="inline-image-macro-rx" type="image"></block></block>
   <block id="37532cd27e3c53471b1caed0ba1f90ed" category="section-title">Transfira relatórios de utilização</block>
   <block id="bcb02fe5bf814bc0d9811e97deeace94" category="paragraph">Pode transferir quatro relatórios de utilização da carteira digital BlueXP . Esses relatórios de uso fornecem detalhes de capacidade de suas assinaturas e informam como você está sendo cobrado pelos recursos em suas assinaturas do Cloud Volumes ONTAP. Os relatórios transferíveis captam dados num momento e podem ser facilmente partilhados com outras pessoas.</block>
   <block id="c2b73e18a5b530a547ba48a8177d13c3" category="inline-image-macro">A captura de tela mostra a página de licenças baseadas na capacidade do Cloud Volumes ONTAP da carteira digital e destaca o botão de relatório de uso.</block>
   <block id="a1a4a48254cf8eb8962fbd995f5e7ea8" category="paragraph"><block ref="a1a4a48254cf8eb8962fbd995f5e7ea8" category="inline-image-macro-rx" type="image"></block></block>
   <block id="d11dcbec58d47bd13de1dcccfbd640ff" category="paragraph">Os seguintes relatórios estão disponíveis para download. Os valores de capacidade mostrados estão em TIB.</block>
-  <block id="ad73e4897304c80496a4f15e033cefa7" category="list-text">*Uso de alto nível*: Este relatório mostra exatamente o que está no cartão "Resumo de Pacotes Cloud Volumes ONTAP" na carteira digital. Inclui as seguintes informações:</block>
   <block id="c596c9291f76a11af1aefc235c262de6" category="list-text">Capacidade total consumida</block>
   <block id="8dd7541d6c4e83402d88448119068a02" category="list-text">Capacidade total pré-comprometida</block>
   <block id="b01a146aed01aa8af61e034befc116ce" category="list-text">Capacidade BYOL total</block>
   <block id="109323142d354af9ccc7eb636b1dcbce" category="list-text">Capacidade total dos contratos do mercado</block>
   <block id="baf09c6c43fd26effd8f15e252649384" category="list-text">Capacidade total PAYGO</block>
-  <block id="76101a2de96d735db21249323914bc6c" category="list-text">* Uso do pacote Cloud Volumes ONTAP*: Este relatório mostra exatamente o que está nos cartões de pacote na carteira digital. Inclui as seguintes informações para cada pacote, exceto o pacote de e/S otimizado:</block>
-  <block id="c01bbdbe6721d80a74779e943243486b" category="list-text">*Uso de VMs de armazenamento*: Este relatório mostra como a capacidade carregada é dividida em sistemas Cloud Volumes ONTAP e máquinas virtuais de armazenamento (SVMs). Esta informação não está disponível em qualquer ecrã da carteira digital. Inclui as seguintes informações:</block>
   <block id="4a9ebfe4f0e3302083955176f47a9519" category="list-text">ID e nome do ambiente de trabalho (aparece como UUID)</block>
   <block id="c8e2277ecfb1427838c488c217f99466" category="list-text">Nuvem</block>
   <block id="4736cd35bf5b3fe63e1b1785fb2aa664" category="list-text">ID da conta NetApp</block>
@@ -195,50 +165,26 @@
   <block id="fc18634852d4299cd5f8c7ad55ddefbe" category="list-text">Tipo de volume</block>
   <block id="3756f66a273f440893f16ee968ce3450" category="list-text">Capacidade provisionada de volume</block>
   <block id="8b3da2ed858ee5c956acde26c9ef7dd0" category="admonition">Os volumes do FlexClone não estão incluídos neste relatório porque esses tipos de volumes não incorrem em cobranças.</block>
-  <block id="a4bad4f350632a2078a6d795984ee60f" category="list-text">Na guia *Cloud Volumes ONTAP*, mantenha *licenças baseadas em capacidade* selecionadas e clique em *Relatório de uso*.</block>
   <block id="23e918e9f1c9f1bb5769dcc236489de2" category="paragraph">O relatório de uso é baixado.</block>
   <block id="05655bb3cbd3604d6c71a1db823ad94f" category="list-text">Abra o arquivo baixado para acessar os relatórios.</block>
-  <block id="b2dfe525c9a6bec7392826fba889fe07" category="section-title">Adicione licenças compradas à sua conta</block>
-  <block id="665d621a7dca67edde62a7208c097db9" category="paragraph">Se você não vir suas licenças compradas na carteira digital BlueXP , precisará adicionar as licenças ao BlueXP  para que a capacidade esteja disponível para o Cloud Volumes ONTAP.</block>
-  <block id="d59db7846bd10b6d60d21543df9faa9e" category="list-title">O que você vai precisar</block>
-  <block id="160caa44a14b9421593597c51ec2a7e8" category="list-text">Você precisa fornecer ao BlueXP  o número de série da licença ou do arquivo de licença.</block>
   <block id="04b14ae402c3ab4f87916eed6238424b" category="inline-link">Adicione sua conta do site de suporte da NetApp ao BlueXP</block>
   <block id="fa4ae0264bd8c2dfafbe1d03e4bc2b9a" category="list-text">Se pretender introduzir o número de série, primeiro tem de<block ref="c7616a3371ef10b7d4b9bba9548cea1f" category="inline-link-rx"></block>. Esta é a conta do site de suporte da NetApp que está autorizada a acessar o número de série.</block>
-  <block id="666ac747a8d5a1aa317496f8add413a6" category="list-text">Na guia *Cloud Volumes ONTAP*, mantenha *licenças baseadas em capacidade* selecionadas e clique em *Adicionar licença*.</block>
-  <block id="5c55b043854250a04085395d6b5a3a9d" category="list-text">Introduza o número de série da sua licença com base na capacidade ou carregue o ficheiro de licença.</block>
   <block id="204d2b4625a88f2700ea6c08a4f85014" category="paragraph">Se você inseriu um número de série, também precisará selecionar a conta do site de suporte da NetApp autorizada a acessar o número de série.</block>
   <block id="ea9a2b9ac34c9aab133f21aa5b67976e" category="list-text">Clique em *Adicionar licença*.</block>
-  <block id="89046e28df67df094886562aac624243" category="section-title">Atualizar uma licença baseada em capacidade</block>
-  <block id="2a54172f7bcef3f83da68a9aefc194ea" category="paragraph">Se você adquiriu capacidade adicional ou estendeu o prazo de sua licença, o BlueXP  atualizará automaticamente a licença na carteira digital. Não há nada que você precise fazer.</block>
-  <block id="2144c137b123de98ab20d5bfa9677b33" category="paragraph">No entanto, se você implantou o BlueXP  em um local que não tem acesso à Internet, precisará atualizar manualmente a licença no BlueXP .</block>
-  <block id="e02250fabfba9f2d7325403663479a43" category="paragraph">O arquivo de licença (ou _Files_ se você tiver um par de HA).</block>
   <block id="bed8ee00b54ae810def15122c80a9dba" category="inline-link">Obtenha um ficheiro de licença do sistema</block>
-  <block id="5dcdcf1a61f65bad54f6365fe59bf745" category="admonition">Para obter mais informações sobre como obter um arquivo de licença,<block ref="c65aa3342130b0295e06cd938a12ad5e" category="inline-link-rx"></block> consulte .</block>
-  <block id="ecdf6ba3b837de5910abdabc360df552" category="list-text">Na guia *Cloud Volumes ONTAP*, clique no menu de ação ao lado da licença e selecione *Atualizar licença*.</block>
-  <block id="f591dbc4232b149ea0792178559405f9" category="list-text">Carregue o ficheiro de licença.</block>
-  <block id="034f6db5181ab87d962e69b9b7b5a995" category="list-text">Clique em *Upload License*.</block>
   <block id="662442d32a5fd91298fcf8b6391fdf17" category="section-title">Alterar os métodos de carregamento</block>
   <block id="970af11c442d109ac4d016f7c57f63fb" category="paragraph">O licenciamento baseado em capacidade está disponível na forma de um _pacote_. Ao criar um ambiente de trabalho Cloud Volumes ONTAP, você pode escolher entre vários pacotes de licenciamento com base nas necessidades da sua empresa. Se suas necessidades mudarem depois de criar o ambiente de trabalho, você pode alterar o pacote a qualquer momento. Por exemplo, você pode mudar do pacote Essentials para o pacote Professional.</block>
   <block id="58dcfad3183b701a8f1b8781a5644d09" category="inline-link">Saiba mais sobre pacotes de licenciamento baseados em capacidade</block>
   <block id="6b5c2460f150173d3723de8a857a4d33" category="paragraph"><block ref="179c8a3ed717f2c4de3149f0e9edf685" category="inline-link-rx"></block>.</block>
   <block id="bbe48fb854ea022537208eeeff822f91" category="list-title">Sobre esta tarefa</block>
-  <block id="3e4729f0b91cf008c10b8ab719ea9e99" category="list-text">Alterar o método de cobrança não afeta se você é cobrado por uma licença comprada da NetApp (BYOL) ou pelo mercado do seu provedor de nuvem (pagamento conforme o uso).</block>
   <block id="07456d1e170e8be27eaff1e39e1ccdf6" category="paragraph">O BlueXP  sempre tenta cobrar uma licença primeiro. Se uma licença não estiver disponível, ela cobra contra uma assinatura do mercado. Nenhuma "conversão" é necessária para a assinatura BYOL para o mercado ou vice-versa.</block>
   <block id="cfdb32f80009b1e5c5c0468dda9f013d" category="list-text">Se você tiver uma oferta privada ou contrato do mercado do seu provedor de nuvem, mudar para um método de cobrança que não esteja incluído no seu contrato resultará em cobrança contra BYOL (se você comprou uma licença da NetApp) ou PAYGO.</block>
-  <block id="3397777d22d2d5f746157ca31f0d8460" category="list-text">No separador *Cloud Volumes ONTAP*, clique em *Change Charging Method* (alterar método de carregamento).</block>
   <block id="325ef46eb3d6b63c4d60ef08cdd6176f" category="inline-image-macro">Uma captura de tela da página Cloud Volumes ONTAP na carteira digital do BlueXP , onde o botão alterar método de carregamento está logo acima da tabela.</block>
   <block id="bdc5814154b1b181ca8722ef08ed8a28" category="paragraph"><block ref="bdc5814154b1b181ca8722ef08ed8a28" category="inline-image-macro-rx" type="image"></block></block>
   <block id="de4b4e176958ea7181911ce715504321" category="list-text">Selecione um ambiente de trabalho, escolha o novo método de carregamento e, em seguida, confirme que a alteração do tipo de pacote afetará as taxas de serviço.</block>
   <block id="b0d246ceb3cd290ace3abd509e982f73" category="inline-image-macro">Uma captura de tela da caixa de diálogo alterar método de carregamento, na qual você escolhe um novo método de carregamento para um ambiente de trabalho do Cloud Volumes ONTAP.</block>
   <block id="6e594f7cd72195c88515a50fcfc2397e" category="paragraph"><block ref="6e594f7cd72195c88515a50fcfc2397e" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="5331b4ea3bd1ef32d06c003e7e8f1c3d" category="list-text">Clique em *alterar método de carregamento*.</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">Resultado</block>
-  <block id="a3f83af733570f5c2a5b63c7087e6164" category="paragraph">O BlueXP  altera o método de carregamento do sistema Cloud Volumes ONTAP.</block>
-  <block id="d592a4e1d68c1047f1f5e39639bee6bf" category="paragraph">Você também pode notar que a carteira digital da BlueXP  atualiza a capacidade consumida para cada tipo de pacote para contabilizar a alteração que você acabou de fazer.</block>
-  <block id="8f79a5bc1b9725ce4036eb2d94c60de9" category="section-title">Remova uma licença baseada em capacidade</block>
-  <block id="78a946dc090d511b993ffbe9803dff06" category="paragraph">Se uma licença baseada em capacidade expirou e não estiver mais em uso, você poderá removê-la a qualquer momento.</block>
-  <block id="5ca97f84ee577fbacf355fc75d23921d" category="list-text">Na guia *Cloud Volumes ONTAP*, clique no menu de ação ao lado da licença e selecione *Remover licença*.</block>
-  <block id="40b851aafab82c78484c46169f816fd2" category="list-text">Clique em *Remover* para confirmar.</block>
   <block id="a269d93abb509861d65de68891092f13" category="summary">A carteira digital da BlueXP  permite gerenciar as licenças adquiridas diretamente no NetApp (BYOL) para uso com backup e recuperação do BlueXP , recuperação de desastres e disposição em camadas. Você pode ver a capacidade de licença usada, a quantidade de capacidade livre que você deixou e verá notificações se você atingiu o limite de capacidade ou a data de expiração.</block>
   <block id="e9598339aeb07702e2b24ef63fca36cc" category="doc">Gerenciar licenças para serviços de dados do BlueXP </block>
   <block id="9733849463a86c6a043ab58c8ddf1ac4" category="paragraph">As instruções nesta página fornecem informações que se aplicam a cada serviço. Para obter informações mais específicas sobre o licenciamento desses serviços, consulte as páginas a seguir:</block>
@@ -251,7 +197,6 @@
   <block id="8202299929ccdfe388049a03c2c36d60" category="inline-link">Configurar o licenciamento para a disposição em camadas do BlueXP</block>
   <block id="417c925b54c33cc7099af481238f8dde" category="list-text"><block ref="417c925b54c33cc7099af481238f8dde" category="inline-link-rx"></block></block>
   <block id="73acd586df3bf9938d39f0e738d5c161" category="section-title">Obter um ficheiro de licença</block>
-  <block id="f11bf973a6c8039ecfd0152979db21be" category="paragraph">Depois de adquirir uma licença, pode ativar a licença no BlueXP  introduzindo o número de série e a conta NSS ou carregando o ficheiro de licença NetApp (NLF). As etapas abaixo mostram como obter o arquivo de licença NLF se você planeja usar esse método.</block>
   <block id="e53331a3231a958d20a4871d8efc35d8" category="list-text">Encontre o ID da sua conta BlueXP :</block>
   <block id="e0e8a7d90375792efecad34c0c923e32" category="inline-image-macro">O ícone de configurações que é exibido no canto superior direito do console da Web do BlueXP .</block>
   <block id="cd42e1c1af0a908f68d68ae6103b5c30" category="list-text">No canto superior direito do console BlueXP , <block ref="32173ab85f1c68a28384d1a40cf387db" category="inline-image-macro-rx" type="image"></block>selecione &gt; *Gerenciamento de identidade e acesso*.</block>
@@ -265,38 +210,14 @@
   <block id="24586b03da03249c22a79822574b4e88" category="list-text">Inicie sessão no<block ref="fcc52edac3ce57829c48ee35d97a295d" category="inline-link-rx"></block> e selecione *sistemas &gt; licenças de software*.</block>
   <block id="5f734fc198c7d1b1aaf7c6893cc13cd2" category="list-text">Introduza o número de série da sua licença.</block>
   <block id="5190e9ec018f5e661ec4b31ff1b34423" category="inline-image-macro">Uma captura de tela que mostra uma tabela de licenças depois de pesquisar por número de série.</block>
-  <block id="193bccfc2cf277cad00678895e527b35" category="paragraph"><block ref="193bccfc2cf277cad00678895e527b35" category="inline-image-macro-rx" type="image"></block></block>
   <block id="929a00c33ff1e797afba661a33f187d7" category="list-text">Na coluna *chave de licença*, selecione *obter ficheiro de licença NetApp*.</block>
   <block id="33aed260657d37613aeee43d3e2173f8" category="list-text">Introduza a sua ID de conta do BlueXP  (chamada ID do locatário no site de suporte) e selecione *Enviar* para transferir o ficheiro de licença.</block>
   <block id="b2ca6ef178712312d4798385b0f225aa" category="inline-image-macro">Uma captura de tela que mostra a caixa de diálogo obter licença onde você insere seu ID de locatário e, em seguida, selecione Enviar para baixar o arquivo de licença.</block>
-  <block id="dd7d821dbf8e495a16f2e05e456de274" category="paragraph"><block ref="dd7d821dbf8e495a16f2e05e456de274" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ec01ce5d7a75843507cddc0f1e980f6a" category="section-title">Adicione uma licença</block>
-  <block id="e57e44bf22e7fb35d0bc0ba9f8593a5b" category="paragraph">Depois de adquirir uma licença para um serviço de dados BlueXP , você precisa adicionar a licença ao BlueXP .</block>
-  <block id="519fe268f292c638e02a4e5bb7ab4dc1" category="list-text">No menu BlueXP , selecione *Governança &gt; carteira digital* e, em seguida, selecione a guia *licenças de serviços de dados*.</block>
-  <block id="c8508c0ce4da6dc634b7c66b1df15681" category="list-text">Selecione *Adicionar licença*.</block>
-  <block id="07a27581558b890ee2ba077c2fa844c8" category="list-text">Na caixa de diálogo _Adicionar licença_, insira as informações da licença e selecione *Adicionar licença*:</block>
-  <block id="929bfeada83228e2a76020a5050a605e" category="list-text">Se tiver o número de série e souber a sua conta NSS, selecione a opção *introduzir número de série* e introduza essas informações.</block>
   <block id="bae190eec3db4a0dd635ae72756acde8" category="inline-link">Adicione a conta NSS ao BlueXP</block>
   <block id="33d6a436af3ae3b14d8c7687f2687c5c" category="paragraph">Se a conta do site de suporte da NetApp não estiver disponível na lista suspensa,<block ref="06a3bc9d474b5d4e44d1a2733cac785a" category="inline-link-rx"></block></block>
-  <block id="6e2573cea3af840a0c24f94975047370" category="list-text">Se você tiver o arquivo de licença (necessário ao usar o BlueXP  no modo privado), selecione a opção *carregar arquivo de licença* e siga as instruções para anexar o arquivo.</block>
-  <block id="f5b39d30a98c93c6a597de76a3901496" category="inline-image-macro">Uma captura de tela que mostra a página para adicionar a licença BYOL.</block>
-  <block id="2ab8c9555cb0a7278c9c119126d09972" category="paragraph"><block ref="2ab8c9555cb0a7278c9c119126d09972" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="9f7100a1f5980a935ee73427b4e84228" category="paragraph">O BlueXP  adiciona a licença.</block>
   <block id="6c1c5737355a8b30e87ad5d7c6da9553" category="section-title">Atualizar uma licença</block>
-  <block id="8d16d75f7a68c03867a9fa6a0c1e8e53" category="paragraph">Se o seu prazo licenciado estiver próximo da data de expiração ou se a sua capacidade licenciada estiver atingindo o limite, você será notificado na carteira digital da BlueXP . Você pode atualizar sua licença antes que ela expire para que não haja interrupção na sua capacidade de usar o serviço de dados do BlueXP .</block>
-  <block id="89ec6475bcd2a52ce9ca1c8fa843339e" category="inline-image-macro">Uma captura de tela que mostra uma licença expirando na página carteira digital.</block>
-  <block id="b16535eaa5694c59eb7ff71777c5cd59" category="paragraph"><block ref="b16535eaa5694c59eb7ff71777c5cd59" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="4b70edd030d1f35b77e145be7305309a" category="list-text">Selecione o ícone de bate-papo no canto inferior direito do BlueXP  ou entre em Contato com o suporte para solicitar uma extensão do seu prazo ou capacidade adicional para sua licença para o número de série específico.</block>
-  <block id="1b87732cda1ee77b5952013e06e1ac10" category="paragraph">Depois de pagar a licença e ela estiver registrada no site de suporte da NetApp, a BlueXP  atualiza automaticamente a licença na carteira digital e a página licenças de serviços de dados refletirá a alteração em 5 a 10 minutos.</block>
-  <block id="b74318cb9e5cf2bae938953860aade06" category="list-text">Se o BlueXP  não puder atualizar automaticamente a licença (por exemplo, ao usar o BlueXP  no modo privado), você precisará fazer o upload manual do arquivo de licença.</block>
-  <block id="b2b168bd64a341a85c749cb61bba40cb" category="inline-xref">Obtenha o arquivo de licença no site de suporte da NetApp</block>
-  <block id="5281a9b97c306047dc796d618670919d" category="list-text">Você pode <block ref="2ee9df93e68c4a0ffa870dc00950ab97" category="inline-xref-macro-rx"></block>.</block>
   <block id="8f0a75d2d5a82f31f2cf069c3b0ee684" category="inline-image-macro">Ícone mais</block>
-  <block id="bc5195c689315aceff2de5448f6b4288" category="list-text">Na guia _licenças de serviços de dados_, <block ref="50acd719b1954eb4890c002b3b5e71a6" category="inline-image-macro-rx" type="image"></block>selecione para o número de série do serviço que você está atualizando e selecione *Atualizar licença*.</block>
-  <block id="3ce750f001c2369e23b68f3210d9f100" category="inline-image-macro">Uma captura de tela da seleção do botão Atualizar Licença para um serviço específico.</block>
-  <block id="9d37072f5a1b76b16e647a14826ade70" category="paragraph"><block ref="9d37072f5a1b76b16e647a14826ade70" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="48b5477be67ccdb4b19274cd4f66193d" category="list-text">Na página _Atualizar Licença_, carregue o arquivo de licença e selecione *Atualizar Licença*.</block>
-  <block id="34674441113c2bf2e8f3d38a0e8276bb" category="paragraph">O BlueXP  atualiza a licença.</block>
   <block id="c27b8e6a4f797d237583ca6d38a92cd6" category="summary">Gerencie suas assinaturas do Keystone a partir da carteira digital BlueXP  habilitando assinaturas para uso com o Cloud Volumes ONTAP e solicitando alterações na capacidade comprometida dos níveis de serviço da sua assinatura. A solicitação de capacidade adicional para um nível de serviço fornece mais storage para clusters ONTAP no local ou para sistemas Cloud Volumes ONTAP.</block>
   <block id="52ba144dbaac8239e9b6d8e287db93dc" category="doc">Gerenciar assinaturas do Keystone</block>
   <block id="a3b1d6e06d4fd8ccc20c61ce51e45853" category="paragraph">O NetApp Keystone é um serviço flexível baseado em subscrição com pagamento conforme o uso que oferece uma experiência de nuvem híbrida para clientes que preferem despesas operacionais a despesas operacionais de capital ou leasing.</block>
@@ -307,7 +228,6 @@
   <block id="492847bcbc9ec0bd3075b612aa43e4a7" category="list-text">Selecione *Keystone*.</block>
   <block id="daf4ae396784c74ec2cbf002eaaa25f4" category="list-text">Se você vir a página *bem-vindo ao NetApp Keystone*, envie um e-mail para o endereço listado na página.</block>
   <block id="16692c26ca4528e651bbb36d93c465c7" category="paragraph">Um representante da NetApp processará o seu pedido autorizando a sua conta de utilizador a aceder às subscrições.</block>
-  <block id="5da6315cfe65abaef2d0e00c90898ddc" category="list-text">Volte para a *Keystone Subscription* para ver suas assinaturas.</block>
   <block id="3d6aabe991edb10f282fd60995e725ca" category="inline-image-macro">Uma captura de tela que mostra uma lista de assinaturas do Keystone.</block>
   <block id="6fd94fda3665b39867817d4700d184e8" category="paragraph"><block ref="6fd94fda3665b39867817d4700d184e8" category="inline-image-macro-rx" type="image"></block></block>
   <block id="06f358c39bc3b4633cefd78beb67e671" category="section-title">Vincular uma assinatura</block>
@@ -330,18 +250,15 @@
   <block id="20ea4c62f4c9e4254314fe7fbbef0319" category="inline-link">Saiba mais sobre como monitorar o uso de assinaturas</block>
   <block id="d7105dd212dc96a8b292b6b48f84916f" category="paragraph"><block ref="d7105dd212dc96a8b292b6b48f84916f" category="inline-link-rx"></block></block>
   <block id="0c0401d1e9169d6dd38462b1e0d04126" category="section-title">Desvincular uma assinatura</block>
-  <block id="28ca5cda5cdef790c457097830d81ca5" category="paragraph">Se você não quiser mais usar uma assinatura do Keystone com BlueXP , pode desvincular a assinatura. Observe que você só pode desvincular uma assinatura que não esteja anexada a uma assinatura Cloud Volumes ONTAP existente.</block>
   <block id="a666a430e484ea214384aefaa30da852" category="list-text">Para a assinatura que você deseja desvincular, clique <block ref="c9c50c6d591d91ccce1ee232fa490fb4" category="inline-image-macro-rx" type="image"></block> e selecione *Unlink*.</block>
   <block id="287c693dd0bc6ec48aa0fc3f4b950a9e" category="paragraph">A assinatura é desvinculada da sua organização ou conta do BlueXP  e não está mais disponível para selecionar ao criar um ambiente de trabalho do Cloud Volumes ONTAP.</block>
   <block id="7e3a4c0ec1aee45acf094839bb9c449f" category="summary">Gerencie suas licenças baseadas em nós na carteira digital para garantir que cada sistema Cloud Volumes ONTAP tenha uma licença válida com a capacidade necessária.</block>
   <block id="de94398a333e3b7bdafad2ddf3232331" category="doc">Gerenciar licenças baseadas em nós</block>
   <block id="990d530a36683451e6ac666b1b224270" category="paragraph">Gerencie licenças baseadas em nós na carteira digital BlueXP  para garantir que cada sistema Cloud Volumes ONTAP tenha uma licença válida com a capacidade necessária.</block>
   <block id="4627bd080634e9380c75a1cc04a09486" category="paragraph">_Licenças baseadas em nós_ são o modelo de licenciamento da geração anterior (e não disponível para novos clientes):</block>
-  <block id="81f9d97336a30fb7be6f8d770fee25eb" category="list-text">Licenças BYOL adquiridas na NetApp</block>
   <block id="17ac9e85cf5b6f7b77acf61fb7721242" category="list-text">Assinaturas de pagamento conforme o uso (PAYGO) por hora a partir do mercado do seu provedor de nuvem</block>
   <block id="9426b05d2fc423b761e34f9d75b4066d" category="section-title">Gerenciar licenças do PAYGO</block>
   <block id="755544cd7e451192e8f70ab60b76986b" category="paragraph">A página da carteira digital da BlueXP  permite-lhe ver detalhes sobre cada um dos seus sistemas PAYGO Cloud Volumes ONTAP, incluindo o número de série e o tipo de licença PAYGO.</block>
-  <block id="5844b24c31c1897efda5443d984702f8" category="list-text">Na guia *Cloud Volumes ONTAP*, selecione *licenças baseadas em nós* na lista suspensa.</block>
   <block id="87089bacab591352ad6ad6579e34d93e" category="list-text">Clique em *PAYGO*.</block>
   <block id="82be8e06ac169a3de0fce42cd01f5760" category="list-text">Veja detalhes na tabela sobre cada uma das suas licenças PAYGO.</block>
   <block id="0ad53d9b2c46069812124453e75f768d" category="inline-image-macro">Uma captura de tela que mostra uma tabela na página da carteira digital do BlueXP  com três licenças paygo. Cada linha mostra o nome, tipo de sistema, número de série, pacote e um link para gerenciar a licença.</block>
@@ -361,7 +278,6 @@
   <block id="82330159ba1b86113008185841af38f9" category="paragraph">A troca da licença revoga a licença Cloud Volumes ONTAP e cria uma licença equivalente a dólar para o serviço:</block>
   <block id="9df8e0785445964e646ecf922e67b378" category="list-text">O licenciamento de um par de HA do Cloud Volumes ONTAP é convertido para uma licença de serviço de dados TIB de 51 TB</block>
   <block id="fc9771c21d913259d9cc1605db9e67fc" category="list-text">O licenciamento para um nó único do Cloud Volumes ONTAP é convertido em uma licença de serviço de dados TIB de 32 TB</block>
-  <block id="0f4fe815dba79cae727d101224b259f6" category="paragraph">A licença convertida tem a mesma data de validade que a licença Cloud Volumes ONTAP.</block>
   <block id="fff69e388498c7da2216c0a49587cbc8" category="list-text">Clique em *Licença de Troca*.</block>
   <block id="25abdaf706ab9bbfe1775de2626f958f" category="inline-image-macro">Uma captura de tela da opção Licença do Exchange que aparece na página Licença não atribuída.</block>
   <block id="59069c86e2c388bcb56b4ec04ba7c1b1" category="paragraph"><block ref="59069c86e2c388bcb56b4ec04ba7c1b1" category="inline-image-macro-rx" type="image"></block></block>
@@ -419,7 +335,6 @@
   <block id="2464ba8f7f97ce117f749b75a1c60906" category="inline-link">Saiba como excluir um ambiente de trabalho do Cloud Volumes ONTAP</block>
   <block id="f870932f389b07a18c35e61ebc668c91" category="paragraph"><block ref="161ab28684c427e4961f0c360c1dbce7" category="inline-link-rx"></block>.</block>
   <block id="94fd71e366753efc2c71fcdd0fc3afd4" category="summary">A carteira digital da BlueXP  permite visualizar os detalhes do contrato de cada um dos clusters do ONTAP no local. Se você ainda não descobriu um cluster no BlueXP , você também pode fazer isso a partir da carteira digital.</block>
-  <block id="dc8526e1d318113e071717b2a8bb27b7" category="doc">Gerenciar licenças para clusters ONTAP on-premises</block>
   <block id="b2483d10bcc14093a8053b8770aba9d5" category="paragraph">A carteira digital da BlueXP  permite visualizar os detalhes do contrato de cada um dos clusters do ONTAP no local. Se você ainda não descobriu um cluster no BlueXP , você também pode descobri-los na carteira digital.</block>
   <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">Antes de começar</block>
   <block id="2b474be1d4faf7d5e70a3977fa183a0a" category="paragraph">A carteira digital do BlueXP  exibe detalhes sobre os clusters do ONTAP no local descobertos como um ambiente de trabalho ou associados a uma conta do site de suporte da NetApp que você adicionou ao BlueXP .</block>
@@ -460,15 +375,8 @@
   <block id="e82c60430ac236acfc954acd22ea737d" category="list-text"><block ref="e82c60430ac236acfc954acd22ea737d" category="inline-link-rx"></block></block>
   <block id="682e041ff00069faf1e43f1e418221a6" category="summary">Quando você se inscreve no BlueXP  a partir do mercado de um provedor de nuvem, você é redirecionado para o site da BlueXP , onde você precisa salvar sua assinatura e associá-la a contas específicas. Depois de se inscrever, cada assinatura estará disponível para gerenciar a partir da carteira digital BlueXP .</block>
   <block id="b01b1be092b95233172f870dc729234b" category="doc">Gerencie assinaturas e contratos PAYGO</block>
-  <block id="3982145b9641373c27bb8d4756883699" category="inline-link">Saiba como se inscrever no BlueXP  (modo padrão)</block>
-  <block id="7f5bf22f42b3df7661bb90a8ee910f75" category="list-text"><block ref="7f5bf22f42b3df7661bb90a8ee910f75" category="inline-link-rx"></block></block>
-  <block id="7d546f7fc3c445881a171d5c7ee674c2" category="inline-link">Saiba como se inscrever no BlueXP  (modo restrito)</block>
-  <block id="69dd33041899bf8cb4fdb69e6f455142" category="list-text"><block ref="69dd33041899bf8cb4fdb69e6f455142" category="inline-link-rx"></block></block>
   <block id="e858f445394700e621aa67dd8e3fe958" category="section-title">Ver as suas subscrições</block>
-  <block id="343db25ecff212a0d088e939e917acea" category="paragraph">A carteira digital da BlueXP  fornece detalhes sobre cada assinatura PAYGO e contrato anual associados à sua organização ou conta da BlueXP  e ao Astra Control (o Astra Control usa o serviço de cobrança da BlueXP ).</block>
   <block id="76631958e748db22b905b65fb2cba5d2" category="paragraph">Para o Google Cloud, você também pode identificar assinaturas de mercado associadas a uma oferta privada, o que permite verificar se você aceitou a oferta com sucesso.</block>
-  <block id="8c3682e85d7f4dbe8a46485082335dec" category="list-text">Selecione *Subscrições*.</block>
-  <block id="1422eb9c77ef6c74d6abe35beedc5d64" category="paragraph">Você só verá as assinaturas associadas à conta que você está visualizando no momento.</block>
   <block id="572e470335e0a6d55da05c732a01aed3" category="list-text">À medida que você visualiza as informações sobre suas assinaturas, você pode interagir com os detalhes da tabela da seguinte forma:</block>
   <block id="6a1de13d318f22872902849cd26467b4" category="list-text">Expanda uma linha para ver mais detalhes.</block>
   <block id="69cda14c45037fc1c766e6b7626c706b" category="inline-image-macro">Uma captura de tela da guia assinaturas na carteira digital, onde você pode selecionar a seta no final de uma linha para expandi-la.</block>
@@ -489,12 +397,6 @@
   <block id="def1d5f1d4a6db4b59f941bed287221d" category="list-text">Se você tiver um contrato da AWS e alterar qualquer uma das opções do contrato após a data de início, certifique-se de validar suas opções de contrato no AWS Marketplace.</block>
   <block id="3b3f3f7253f4c57a7eb145d69d119e28" category="list-text">Se você tiver uma oferta privada do Google Cloud, as opções de contrato não estarão disponíveis.</block>
   <block id="6942b724002d90bb0f705f478cdd6bf3" category="section-title">Gerencie suas assinaturas</block>
-  <block id="c2e2efadf42aef45b4e8e6b176f32df0" category="paragraph">Você pode gerenciar suas assinaturas na carteira digital do BlueXP  renomeando uma assinatura e escolhendo as contas associadas à assinatura.</block>
-  <block id="0c3ef8839b737ed6600351348aace81b" category="paragraph">Por exemplo, digamos que você tem duas contas e cada uma é cobrada através de assinaturas separadas. Você pode desassociar uma assinatura de uma das contas para que os usuários dessa conta não escolham acidentalmente a assinatura errada ao criar um ambiente de trabalho do Cloud Volumes ONTAP.</block>
-  <block id="e97d1d1134e32a84fb4d6d796e3e56a9" category="list-text">Selecione o menu de ação na linha que corresponde à assinatura que você deseja gerenciar.</block>
-  <block id="1dea06c0cd8c3b77e4597670a860c155" category="inline-image-macro">Uma captura de tela do menu de ação para uma assinatura.</block>
-  <block id="23531331db8be0d13d9ce3c0685c0c8e" category="paragraph"><block ref="23531331db8be0d13d9ce3c0685c0c8e" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="1857ec7d8bf266184255083ab9e4370e" category="list-text">Escolha para renomear a assinatura ou gerenciar as organizações ou contas do BlueXP  associadas à assinatura.</block>
   <block id="243263104c829e77835d632f591230d5" category="summary">Antes de poder abrir um caso de suporte com o suporte técnico da NetApp, você precisa adicionar uma conta do site de suporte da NetApp à BlueXP  e, em seguida, Registrar-se para suporte.</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">Registre-se para obter suporte</block>
   <block id="ece19bab46695021f109a5e50f08bebe" category="paragraph">O Registro de suporte é necessário para receber suporte técnico específico da BlueXP  e de suas soluções e serviços de storage. O Registro de suporte também é necessário para habilitar fluxos de trabalho importantes para sistemas Cloud Volumes ONTAP.</block>
@@ -646,8 +548,179 @@
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">O que há de novo</block>
   <block id="8bb544128c435d0dd9901ce772f7beb9" category="sidebar">Utilize a carteira digital BlueXP </block>
   <block id="fbf5bb26f6374732410ccc529ef29ffa" category="sidebar">Gerenciar licenças para Cloud Volumes ONTAP</block>
-  <block id="f52ead6bbf1fb1c871d206603e5a2347" category="sidebar">Licenças baseadas em capacidade</block>
-  <block id="d56bf07ec8cd4e9f29339d605ffef95c" category="sidebar">Licenças baseadas em nós</block>
-  <block id="064ff692e4b4a468969f66368c68e2c8" category="sidebar">Gerenciar licenças para clusters ONTAP no local</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Conhecimento e apoio</block>
+  <block id="a52d65f3839199e04d1925a40469777d" category="paragraph">As informações da licença são exibidas automaticamente na carteira digital quando a conta do BlueXP  associada à licença também é uma conta do site de suporte da NetApp e o BlueXP  tem acesso à Internet. Se você usou uma conta do BlueXP  que não está associada à sua conta do NSS, precisará adicionar manualmente uma licença.</block>
+  <block id="cbb4f0e1a501c6c19666681fbeca0825" category="paragraph">Pode adicionar a licença no BlueXP  introduzindo o número de série e a conta NSS associada ou carregando o ficheiro de licença NetApp (NLF). Você deve obter um arquivo de licença NetApp para carregar se o BlueXP  não tiver acesso à Internet (instalações em modo privado).</block>
+  <block id="e4da416e4783a9b97eecd8ddbd39ca5b" category="paragraph">Depois de adquirir uma licença do seu representante de vendas da NetApp, a NetApp envia-lhe um e-mail com o número de série e os detalhes de licenciamento adicionais. Você precisará desse número de série para adicionar ou atualizar a respetiva licença na carteira digital.</block>
+  <block id="359aa3841e5418fafbad09669e55c993" category="list-text">No menu BlueXP , selecione *Governança &gt; carteira digital* e, em seguida, selecione a guia *licenças de serviços de dados*.</block>
+  <block id="37fcb8e7d30cc5903f7318cd979d8ae4" category="list-text">Selecione *Adicionar licença*.</block>
+  <block id="b969961bd169c5e07234d15767633a3b" category="list-text">Na caixa de diálogo _Adicionar licença_, insira as informações da licença e selecione *Adicionar licença*:</block>
+  <block id="b20365c7ce019b6e1f4c2c98af493327" category="list-text">Se tiver o número de série e souber a sua conta NSS, selecione *introduzir número de série* e introduza essas informações.</block>
+  <block id="35fd13a00c72b3fd309e43ac193350c5" category="list-text">Se você tiver o arquivo de licença (necessário ao usar o BlueXP  no modo privado), selecione a opção *carregar arquivo de licença* e siga as instruções para anexar o arquivo.</block>
+  <block id="795e8aad20c59de2abf761308d935415" category="paragraph">Você deve obter um arquivo de licença NetApp para carregar se o BlueXP  não tiver acesso à Internet (instalações em modo privado).</block>
+  <block id="260cba7e7ecc8f8a588a531e6097e2f5" category="paragraph">Depois de adquirir uma licença do seu representante de vendas da NetApp, a NetApp envia-lhe um e-mail com o número de série e os detalhes de licenciamento adicionais. No caso em que você não vê suas licenças automaticamente, você precisará desse número de série para obter o respetivo arquivo de licença.</block>
+  <block id="a4cc88bf13b04c1b08c64d45d1d64be7" category="paragraph"><block ref="a4cc88bf13b04c1b08c64d45d1d64be7" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="11a3984090cc59171902cacf2d466fa8" category="paragraph"><block ref="11a3984090cc59171902cacf2d466fa8" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="5487cb60154687cf86305bcf27dcdfa6" category="paragraph">Se o seu prazo licenciado estiver prestes a expirar, ou se a sua capacidade licenciada estiver atingindo o limite, você será notificado na carteira digital da BlueXP . Você pode atualizar sua licença antes que ela expire para que não haja interrupção na sua capacidade de usar um serviço de dados BlueXP  ou Cloud Volumes ONTAP.</block>
+  <block id="717468aec6a4f9b2c529c928873bd82d" category="paragraph">Depois de adquirir capacidade adicional da NetApp ou prolongar o prazo da sua licença, a BlueXP  atualiza automaticamente a licença na carteira digital quando a conta BlueXP  associada à licença também é uma conta do site de suporte da NetApp e a BlueXP  tem acesso à Internet.</block>
+  <block id="7416ddc285206d8d8958e74f1f79eea8" category="paragraph">Se a sua conta BlueXP  não estiver associada à sua conta NSS, será necessário atualizar manualmente uma licença.</block>
+  <block id="496eadbb25ec6a253c30a9f555549e85" category="paragraph">Você pode atualizar manualmente sua licença no BlueXP  inserindo o número de série e a conta NSS associada ou carregando o arquivo de licença do NetApp (ou _Files_ se você tiver um par de HA do Cloud Volumes ONTAP). Você deve obter um arquivo de licença NetApp para carregar se o BlueXP  não tiver acesso à Internet (instalações em modo privado).</block>
+  <block id="379dad0f18d68789867e193b48643375" category="list-text">Entre em Contato com seu representante da NetApp para comprar uma nova licença.</block>
+  <block id="5ebf99ee813e440150ec86c75a891b13" category="paragraph">Depois de pagar a licença e esta ser registada no site de suporte da NetApp, a BlueXP  atualiza automaticamente a licença na carteira digital da BlueXP  e a página de licenças de serviço de dados refletirá a alteração em 5 a 10 minutos.</block>
+  <block id="5a25c9da253ea71b2f8779b02afe0ab3" category="inline-xref">Saiba como obter um arquivo de licença.</block>
+  <block id="05ee1a0f0e0943d6cf0066b6754bddd3" category="list-text">Se o BlueXP  não conseguir atualizar automaticamente a licença (por exemplo, ao usar o BlueXP  no modo privado), você precisará obter um arquivo de licença do NetApp do suporte e fazer o upload manual do arquivo de licença. <block ref="19f08aed796241a6f1136d21f3565562" category="inline-xref-macro-rx"></block></block>
+  <block id="dc645aed622f4988d777551bcc3d7aa4" category="list-text">Na guia _licenças de serviço de dados_, <block ref="c2d801cfb83353ade7055f5accb1a490" category="inline-image-macro-rx" type="image"></block>selecione para o número de série que você está atualizando e selecione *Atualizar licença*.</block>
+  <block id="1485ebb78de4d89be89ebe9a91c558f8" category="list-text">Na página _Atualizar licença_, carregue o arquivo de licença e selecione *Atualizar licença*.</block>
+  <block id="abbf3397e656c62394e67cdc1337be3c" category="doc">Novo painel de visão geral</block>
+  <block id="3aff149422876e5f443408fd802b4fb2" category="paragraph">A carteira digital BlueXP  foi redesenhada para facilitar o uso e agora fornece gerenciamento adicional de assinaturas e licenças.</block>
+  <block id="890f7a0157ba95ff799f6f457d82439a" category="paragraph">A página inicial da carteira digital tem um painel atualizado das suas licenças do NetApp e subscrições do Marketplace, com a capacidade de detalhar serviços específicos, tipos de licença e ações necessárias.</block>
+  <block id="f0d1256b3b97280543cbb16be1fea4b3" category="section-title">Configurando assinaturas para credenciais</block>
+  <block id="a2aa4487721a3b63f1893d33bdb67c28" category="paragraph">A carteira digital BlueXP  agora permite configurar suas assinaturas para credenciais de provedor. Normalmente, você faz isso quando você se inscreve pela primeira vez em uma assinatura do Marketplace ou em um contrato anual. A alteração das credenciais da assinatura anteriormente só poderia ser feita na página credenciais.</block>
+  <block id="175fca0ca5f306258c490378dc2367db" category="section-title">Associar assinaturas às organizações</block>
+  <block id="a5f7678a307b711643d239d80564147c" category="paragraph">Agora você pode atualizar a organização à qual uma assinatura está associada diretamente da carteira digital.</block>
+  <block id="e8545e234450bbc06ae95bfd7828cfcd" category="section-title">Gerenciamento de licenças do Cloud volume ONTAP</block>
+  <block id="78ab02ef4a4fa36c21e9d7181ab77517" category="paragraph">Agora você gerencia licenças do Cloud Volumes ONTAP através da página inicial ou da guia *licenças de serviço de dados*. Use a guia *assinaturas do Marketplace* para exibir suas informações de assinatura.</block>
+  <block id="90929795d9664576087005f35ed4c0dc" category="paragraph">A carteira digital da BlueXP  permite que você gerencie e monitore as licenças BlueXP  adquiridas na NetApp (BYOL), assinaturas do mercado de serviços de dados da BlueXP  (incluindo NetApp Cloud Volumes ONTAP) e NetApp Keystone.</block>
+  <block id="a67b2f9752b2d88ce6e38f260686ae69" category="section-title">Como as licenças e assinaturas são exibidas na carteira digital</block>
+  <block id="1efe9efa98048a473a6092d3c9947337" category="paragraph">Ambas as licenças e assinaturas são exibidas automaticamente na carteira digital quando a conta BlueXP  usada para assinar também é uma conta do site de suporte da NetApp. Se você usou uma conta do BlueXP  que não está associada à sua conta do site de suporte da NetApp (NSS), precisará adicionar e atualizar manualmente as licenças e não verá a alteração de uso, capacidade e outros detalhes.</block>
+  <block id="9580872900e76ee4520c6615ec39af1a" category="paragraph">Se o BlueXP  não conseguir adicionar a licença, você precisará adicioná-la manualmente à carteira digital. Por exemplo, se sua conta de usuário do BlueXP  não estiver associada à conta do site de suporte da NetApp, você precisará adicionar as licenças por conta própria.</block>
+  <block id="cc753c5772458f8de040b295cc8f438c" category="inline-link">Saiba como adicionar sua conta do site de suporte da NetApp às credenciais de usuário do BlueXP </block>
+  <block id="6358a2efe191682df7056adbc8b11292" category="paragraph"><block ref="066da9393416116b2a5d66016084bca9" category="inline-link-rx"></block>.</block>
+  <block id="9dc18f77a209cf10e724df7a103f365d" category="paragraph">A carteira digital BlueXP  permite-lhe gerir licenças e subscrições para os seguintes serviços:</block>
+  <block id="eed873470aba7b03ecb0432722cedff9" category="summary">Obtenha uma visão geral de todas as assinaturas e licenças para sua organização na página inicial digital.</block>
+  <block id="1422a70676b07393dc91f1692eb84c3a" category="doc">Use a visão geral do painel</block>
+  <block id="73425ed9c907d605a9609b7b048f8857" category="paragraph">Use o painel *Visão geral* na carteira digital para monitorar a integridade de suas licenças e assinaturas para garantir que você possa gerenciar custos e manter o serviço à medida que as assinaturas atingem datas de expiração ou limites de capacidade.</block>
+  <block id="5603c12dc16cab253081a2a4f6f1402b" category="paragraph">Você pode visualizar informações específicas de licença e assinatura sobre cada um dos seus serviços de dados (incluindo o Cloud Volumes ONTAP) e detalhar os detalhes de cada um deles.</block>
+  <block id="08101f34e43d83aeb4f8cca226c41d9f" category="paragraph">Também será alertado para os próximos limites de capacidade ou expirações e ser-lhe-á pedido que tome medidas.</block>
+  <block id="f32e0dc1a8e546cf508129c8548de21e" category="section-title">Exibir detalhes sobre um serviço de dados específico</block>
+  <block id="8397511044b115b3dd34fa8f18d89d47" category="paragraph">O painel da carteira digital *Visão geral* fornece a capacidade de visualizar detalhes sobre os seguintes serviços de dados:</block>
+  <block id="611c1d49f8e2191d65453ebba4a2a51a" category="paragraph">Por exemplo, os administradores encarregados de gerenciar recursos do Cloud Volumes ONTAP podem visualizar a capacidade atual de cada licença ou assinatura, o que lhes dá uma visão focada dos recursos dentro do escopo.</block>
+  <block id="d1efea7fae373246b24ec3b48cba5704" category="paragraph">Observação: Embora você possa atualizar e remover licenças do painel, não é possível adicionar uma nova licença ou assinatura.</block>
+  <block id="5e61525870b8ecb7cda0015f4b7208db" category="inline-link-macro">Saiba mais sobre como gerenciar licenças</block>
+  <block id="0bfbd2ad670f16ca87b68145ca0b64cf" category="inline-link-macro">Saiba mais sobre como gerenciar assinaturas</block>
+  <block id="483b8e46eb21b512550083b13a6ba1de" category="paragraph"><block ref="f5d9875e96b8ed7153bab8f22c840330" category="inline-link-macro-rx"></block>. <block ref="f050330f0428b7d1c9a33b47b1e41be1" category="inline-link-macro-rx"></block>.</block>
+  <block id="32790cf377a1a575eece70f624d64118" category="list-text">Selecione *Visão geral*.</block>
+  <block id="de9c819c70af50797f21116704502cee" category="list-text">Selecione *Exibir* para o respetivo serviço de dados (incluindo Cloud Volumes ONTAP) para visualizar detalhes e gerenciar licenças e assinaturas.</block>
+  <block id="f2900320586b6454b48843852d2c9cd6" category="paragraph">Cada bloco fornece uma visão geral gráfica do status da capacidade, enquanto a página de detalhes permite que você veja e gerencie métodos de pagamento para essa capacidade.</block>
+  <block id="d3a8f85cb0b390c3875d9014a9f0e6a1" category="list-text">Selecione a guia *licenças* ou *assinaturas*.</block>
+  <block id="661d4023a402ca9354d866c7cb4a3bf7" category="list-text">Filtre a tabela selecionando um filtro de coluna e um valor para filtrar. Por exemplo, na guia *assinaturas*, você pode filtrar a coluna tipo por Contrato Anual ou assinatura.</block>
+  <block id="e079053622b71496829bde7eae702aa6" category="inline-image-macro">Ação de filtro na tabela de subscrição</block>
+  <block id="327b1c0b128564e29e2060bd2c4ca978" category="paragraph"><block ref="327b1c0b128564e29e2060bd2c4ca978" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="169b50970986d18dea7b02feeadb180d" category="list-text">Personalize as colunas mostradas na tabela. Você pode adicionar e remover colunas da tabela selecionando o ícone de coluna indicando quais colunas você deseja exibir ou ocultar. A captura de tela a seguir indica que somente as colunas tipo, Data de término, Status e Configuração.</block>
+  <block id="cf44bd43ea5e0e4180c911de11e7fc50" category="inline-image-macro">screenshot fornece um exemplo de como mostrar ou ocultar colunas</block>
+  <block id="b04f4a30838d70bc9423c5bcc2a9d78b" category="paragraph"><block ref="b04f4a30838d70bc9423c5bcc2a9d78b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="57cba9caf80ab7bb6590dd12a1c40e9a" category="list-text">Expanda qualquer linha para ver detalhes sobre o que a assinatura ou licença inclui, a capacidade comprada e os termos.</block>
+  <block id="a4bee04006bf7e006f35bb8a6a3f32ae" category="list-text">Use o menu ações para gerenciar uma licença ou assinatura específica, como atualizar uma licença ou associar uma assinatura a uma organização diferente.</block>
+  <block id="24a529315ea2d732361e5d6769f85ff8" category="paragraph">Você não pode adicionar novas licenças ou assinaturas da página *Visão geral* para um serviço específico. Você só pode adicionar licenças ou assinaturas da guia *licenças de serviço de dados* ou da guia *assinaturas do Marketplace*, respetivamente.</block>
+  <block id="ca23b039c5d1d583cc53022c31a54485" category="inline-link-macro">Saiba mais sobre como gerenciar licenças.</block>
+  <block id="4b2167e14a21898c791009b50b46ec9e" category="inline-link-macro">Saiba mais sobre como gerenciar assinaturas.</block>
+  <block id="edf4dbcbd1200ec7acd2d146b799e81e" category="paragraph"><block ref="1126b2e5fef6a9209f75e5a91faff8ca" category="inline-link-macro-rx"></block> <block ref="841d65307797c9e89f68fecb565ac37f" category="inline-link-macro-rx"></block></block>
+  <block id="fbd2684546a6cae5f9a894684eaa9c6a" category="section-title">Resolver problemas de licença ou assinatura</block>
+  <block id="39cc53a4b658b6eadd0d5b6dba23db59" category="paragraph">Você pode ver problemas de licença e assinatura que precisam ser resolvidos. Os problemas incluem licenças e assinaturas que estão expirando ou alcançando capacidade.</block>
+  <block id="fdb3cd76365d10541e994c269891f6c6" category="list-text">Selecione *resolve* para o mosaico *requires action* para ver os problemas que precisam ser ajustados. Se *resolve* não for exibido, não há problemas que exijam ação neste momento.</block>
+  <block id="4c125d30e12a1337de6a4ebc48befa04" category="list-text">Na página *exigir ação*, selecione a guia *licenças* ou a guia *assinaturas*.</block>
+  <block id="d5c3fe7346de5a9be8b4c71cbdc0e269" category="list-text">Use o menu de ação para resolver o problema.</block>
+  <block id="43c4357f2e2861af46d95bae9c7873e1" category="doc">Gerenciar licenças do Cloud volume ONTAP baseadas em capacidade</block>
+  <block id="a495aa39c60dc5d48d7bb146e6f7265a" category="list-text">Na guia *Visão geral*, o bloco Cloud Volumes ONTAP exibe a capacidade atual provisionada para sua conta.</block>
+  <block id="260fa7c60a4b141a99b00056d3d429d3" category="inline-image-macro">Uma captura de tela exibindo o resumo de capacidade para suas licenças e assinaturas do Cloud Volumes ONTAP.</block>
+  <block id="e0e863a6ab1f77fce34b0885510033de" category="paragraph"><block ref="e0e863a6ab1f77fce34b0885510033de" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bea623ba2f203df6f2cad1b5d6c826c6" category="list-text">_Licença de serviço de dados_ é a capacidade total provisionada de todos os sistemas Cloud Volumes ONTAP em sua conta do NetApp. O carregamento é baseado no tamanho provisionado de cada volume, independentemente do espaço local, usado, armazenado ou efetivo dentro do volume.</block>
+  <block id="80495a5c91b6e7cae60c8c5c750734bc" category="list-text">_Contrato anual_ é a capacidade total licenciada (traga sua própria licença (BYOL) ou Contrato de mercado) que você comprou da NetApp.</block>
+  <block id="e55807174fe6f2d9f15f9e357ee0d63e" category="list-text">_PAYGO_ é a capacidade total provisionada usando assinaturas do mercado de nuvem. O carregamento via PAYGO é usado somente se a capacidade consumida for superior à capacidade licenciada ou se não houver licença BYOL disponível na carteira digital BlueXP .</block>
+  <block id="d02d58b5b8770f720f9d912913a80f1a" category="list-text">Selecione *View* para ver a capacidade consumida para cada um dos seus pacotes de licenciamento.</block>
+  <block id="a4f95858d82d890dcc9a5123e1f315e6" category="list-text">Selecione a guia *licenças* para ver os detalhes de cada licença de pacote que você comprou.</block>
+  <block id="452cf2122664eef3e8c620ec413c8d43" category="list-text">Selecione a guia *assinaturas* para ver a capacidade consumida pelo modelo de consumo de licença. Este separador inclui licenças PAYGO e contratos anuais.</block>
+  <block id="a6fd7fff8d44ac917f29be623cc64da2" category="paragraph">Você verá apenas as assinaturas associadas à organização que você está visualizando no momento.</block>
+  <block id="2eab7ff26639a8d2e45cece515ff781f" category="list-text"><block ref="98b11313fea6c4106e5a3c018f0ffbc9" category="inline-image-macro-rx" type="image"></block>Selecione para escolher quais colunas aparecem na tabela. Observe que as colunas termo e renovação automática não aparecem por padrão. A coluna renovação automática exibe informações de renovação apenas para contratos do Azure.</block>
+  <block id="8ac1ecc7ceb7a49d071b4f1b71f0e176" category="section-title">Visualização dos detalhes do pacote</block>
+  <block id="f88e8fee4b6b78cbc9779b73098653b5" category="paragraph">Você pode exibir detalhes sobre a capacidade usada por pacote, alternando para o modo legado na página Cloud Volumes ONTAP.</block>
+  <block id="4a95292c803539c8cf72591c54db0644" category="list-text">Selecione *View* para ver a capacidade provisionada para cada um dos seus pacotes de licenciamento.</block>
+  <block id="28db6f5e86482ae58b9becef415d1abc" category="list-text">Selecione *mudar para a visualização Legacy*.</block>
+  <block id="13bb1907bdca20408e78b483332beab6" category="inline-image-macro">Uma captura de tela do botão mudar para a exibição Legacy</block>
+  <block id="ad8dd0162f38eb308d880b20d20ab47e" category="paragraph"><block ref="ad8dd0162f38eb308d880b20d20ab47e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="31ccaa5879eee7a69ef3c48f1004c59c" category="list-text">A alteração do método de cobrança não afeta se você é cobrado por meio de uma licença comprada da NetApp (BYOL) ou da assinatura do mercado do seu provedor de nuvem de pagamento conforme o uso (PAYGO).</block>
+  <block id="2daabc6822724771970f17e8ae6a4cee" category="list-text">Selecione a guia *Visão geral*.</block>
+  <block id="5b37c7034b369fcc6d9b931180eef46f" category="list-text">No mosaico Cloud Volumes ONTAP, selecione *Exibir*.</block>
+  <block id="1cd5a7f8284f11c93e9f7bd64be49b8a" category="list-text">Role para baixo até a tabela *Licença baseada em capacidade* e selecione *alterar método de carregamento*.</block>
+  <block id="08755db7952950f790eaa52809aad08e" category="list-text">Selecione *alterar método de carregamento*.</block>
+  <block id="a9bcc09a5114887c29b3f365ee72e9e5" category="list-text">*Uso de alto nível*: Este relatório inclui as seguintes informações:</block>
+  <block id="4600869c8040d8603fe9dbe6d56a2b2a" category="list-text">*Uso do pacote Cloud Volumes ONTAP*: Este relatório inclui as seguintes informações para cada pacote, exceto o pacote de e/S otimizado:</block>
+  <block id="a65d4ec7ff2941ad2ea2bc688a6dbbb3" category="list-text">*Uso de VMs de armazenamento*: Este relatório mostra como a capacidade carregada é dividida em sistemas Cloud Volumes ONTAP e máquinas virtuais de armazenamento (SVMs). Esta informação só está disponível no relatório. Contém as seguintes informações:</block>
+  <block id="b2b74732b80350970fadfac4db3ba17e" category="list-text">Na guia *Visão geral*, selecione *Exibir* no bloco Cloud Volumes ONTAP.</block>
+  <block id="f4c2ce2a853a74c3742ccc54482c074e" category="list-text">Selecione *Relatório de uso*.</block>
+  <block id="1df0076b49b993598a996d2d7eb46dd2" category="paragraph">A carteira digital da BlueXP  permite que você gerencie as licenças adquiridas diretamente do NetApp (BYOL) para uso com serviços de dados da BlueXP , incluindo o Cloud volumes for ONTAP. Você pode ver a capacidade de licença usada, a quantidade de capacidade livre que você deixou e verá notificações se você atingiu o limite de capacidade ou a data de expiração.</block>
+  <block id="bac99350c8b9abdf51c8cb6c7a0467fd" category="inline-link-macro">Saiba mais sobre o painel Visão geral</block>
+  <block id="7b372c62933632ddd06313e5973ab678" category="admonition">A página *licenças de serviço de dados* lista todas as licenças. Se você quiser detalhes de licença para um serviço de dados específico, use os blocos de serviço de dados no painel *Visão geral*. <block ref="9a2921323c53c040741c05db9c27525e" category="inline-link-macro-rx"></block>.</block>
+  <block id="353c347239342af7353680135c05995b" category="inline-link">Configure o licenciamento para o Cloud Volumes ONTAP</block>
+  <block id="a44e51eede13b57e35e18c372d5ef72e" category="list-text"><block ref="a44e51eede13b57e35e18c372d5ef72e" category="inline-link-rx"></block></block>
+  <block id="1ce97cc664bad2b8b354b3220e6331e7" category="list-text">Selecione *Keystone Subscriptions*.</block>
+  <block id="23698106a2d9dc1f2df20e97a71a625c" category="list-text">Volte para a aba *Keystone Subscriptions* para ver suas assinaturas.</block>
+  <block id="436fa170392050162dd4653f969cf048" category="paragraph">Se você não quiser mais usar uma assinatura do Keystone com BlueXP , pode desvincular a assinatura. Observe que você só pode desvincular uma assinatura que não esteja anexada a uma assinatura Cloud Volumes ONTAP existente.</block>
+  <block id="0d4e36aae457a1001b3373de2fd510f1" category="list-text">Traga suas próprias licenças de licença (BYOL) adquiridas na NetApp</block>
+  <block id="343c7ed77049523f4d99e8d4c436a330" category="list-text">Selecione *licenças baseadas em nós* na lista suspensa.</block>
+  <block id="89f1c05b91f27a0ccc4736c51deee49f" category="paragraph">A licença convertida tem a mesma data de validade que a licença Cloud Volumes ONTAP.</block>
+  <block id="e0225acc5a75bb0346dd94ed24206c81" category="inline-link-macro">Veja o passo a passo sobre como trocar licenças baseadas em nós.</block>
+  <block id="d82de0388f091aa9d43371708eb95310" category="paragraph"><block ref="b4c22b5293d3ee433dee9c4b3632dbee" category="inline-link-macro-rx"></block></block>
+  <block id="f6bd0d7447ff66cc6b859603a88fbde9" category="paragraph-title">Links relacionados</block>
+  <block id="90df487d076cd9295a7192268b4439ee" category="inline-link-macro">Término da disponibilidade de licenças baseadas em nós</block>
+  <block id="342dcce6bda294bb4b60fc9333bcafbe" category="inline-link-macro">Converta licenças baseadas em nós em capacidade</block>
+  <block id="cb90b48918ed9cd8ea355c04c171177b" category="paragraph">link: <block ref="7f9a8649ca2d86db235ba56502d14f92" category="inline-link-macro-rx"></block> <block ref="431f655d5a9ac309b561fc62a4c619ea" category="inline-link-macro-rx"></block></block>
+  <block id="7b157739a85d3d5c67c903118518835e" category="doc">Gerenciar licenças para ONTAP no local</block>
+  <block id="f16d19684b9354a3ecf9e3c75eac6e56" category="paragraph">Quando você assina os serviços de dados do BlueXP  (incluindo o Cloud Volumes ONTAP) do mercado de um fornecedor de nuvem, você é redirecionado para o site do BlueXP , onde você precisa salvar sua assinatura e associá-la à sua organização do BlueXP . Depois de se inscrever, cada assinatura estará disponível para gerenciar a partir da carteira digital BlueXP .</block>
+  <block id="e8412cc61f8ccbcafe1221a068028d66" category="inline-link">Saiba como se inscrever nos serviços de dados do BlueXP  (modo padrão)</block>
+  <block id="58d010378da1178bfb20c6b9cbf84389" category="list-text"><block ref="58d010378da1178bfb20c6b9cbf84389" category="inline-link-rx"></block></block>
+  <block id="eaedec9b0997a93bbd0ea2a7b86cc808" category="inline-link">Saiba como se inscrever em serviços de dados do BlueXP  (modo restrito)</block>
+  <block id="b812cf600318a6a29f38a15319f080c0" category="list-text"><block ref="b812cf600318a6a29f38a15319f080c0" category="inline-link-rx"></block></block>
+  <block id="0f64b5e4e96c806c952a7fe65cc3a7fc" category="admonition">A página *assinaturas do Marketplace* lista todas as licenças. Se você quiser detalhes de licença para um serviço de dados específico, use os blocos de serviço de dados no painel *Visão geral*. <block ref="9a2921323c53c040741c05db9c27525e" category="inline-link-macro-rx"></block>.</block>
+  <block id="6b3b2e7d11135df1e863606d78fd54a2" category="paragraph">A carteira digital BlueXP  fornece detalhes sobre cada assinatura PAYGO e contrato anual associado à sua organização ou conta BlueXP .</block>
+  <block id="2be16f237d558bd6b00788d28d21b37e" category="list-text">Selecione *assinaturas do Marketplace*.</block>
+  <block id="6268ea02ae4b48eea3ef45f07245d996" category="list-text">Use Pesquisa avançada e filtragem para determinar quais assinaturas são mostradas na tabela. Você pode pesquisar por um nome específico de uma assinatura e filtrar por uma variedade de parâmetros de assinatura, como tipo e configuração.</block>
+  <block id="900feaf6f8a2d7d036666533c1550150" category="section-title">Renomeie uma assinatura</block>
+  <block id="2622884440d014079929e3014fe71814" category="paragraph">Você pode renomear uma assinatura para identificar melhor como ela é usada em sua organização.</block>
+  <block id="a7e01e0b69feaf199648e7f429726c19" category="list-text">Selecione o menu de ação na linha que corresponde à assinatura que você deseja gerenciar e escolha *Renomear*.</block>
+  <block id="8d327300f6e4dae8bed5e0c63a622205" category="inline-image-macro">Uma captura de tela da opção Renomear para uma assinatura.</block>
+  <block id="2138574716616d2709577bdc59a945e7" category="paragraph"><block ref="2138574716616d2709577bdc59a945e7" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8c7ebaed40d327a704a96ce939d99c1c" category="section-title">Configurar uma assinatura com uma credencial do provedor</block>
+  <block id="7fa25600555376fa34dc4212523ac8a0" category="paragraph">Normalmente, as assinaturas são configuradas com a credencial do provedor que você criou quando você se inscreveu. Em alguns casos, você pode precisar reconfigurar uma assinatura para usar uma credencial diferente se quiser alterar a maneira como ela é cobrada. A credencial associada a uma assinatura deve ser uma credencial que também esteja associada a um conetor.</block>
+  <block id="56bba40e5f5cc68b12fbc07db999847e" category="paragraph">O formato da credencial depende do mercado que você está usando. Por exemplo, as assinaturas do Azure Marketplace estão associadas ao nome da assinatura do Azure, enquanto as assinaturas do AWS Marketplace usam o ID da conta da AWS. Você pode ver uma lista de credenciais disponíveis na página credenciais.</block>
+  <block id="ccc5335acd730af69ab0b427088bef46" category="paragraph">A opção Configurar fica cinza se você tiver cancelado uma assinatura.</block>
+  <block id="114bfa63105a2d23514e606861c49818" category="list-text">Selecione o menu de ação na linha que corresponde à assinatura que você deseja configurar e escolha *Configurar*.</block>
+  <block id="a02d5bdda2c413e728f48f77a424c9a4" category="list-text">Na caixa de diálogo _Configurar_, escolha uma credencial para a qual configurar a assinatura. Você só pode escolher entre as credenciais associadas ao conetor selecionado no momento. Se não vir a credencial que pretende utilizar, tente mudar para uma vista de conetor diferente. isso é descrito com precisão? N.o</block>
+  <block id="5a66070f9f0ecd83dd28335db5efc481" category="section-title">Associar uma assinatura a uma organização do BlueXP </block>
+  <block id="8b0d95a41f38606f34e0ab449b5ee46d" category="paragraph">Associar uma assinatura a uma organização garante que os membros dessa organização possam usar essa assinatura para cobrança.</block>
+  <block id="9b5a99aec31dce1baddb14dc161239a5" category="paragraph">Você pode limitar o uso de uma assinatura a uma organização específica ou compartilhar a assinatura entre várias organizações. Você também pode substituir a assinatura de uma organização existente se surgir a necessidade.</block>
+  <block id="3c966102b2078c31428f6f529f1d49df" category="paragraph">Você deve ter a função de administrador da organização para associar uma assinatura a uma organização.</block>
+  <block id="23fa25e10ada436e3690c33daf78f47f" category="admonition">O BlueXP  oferece suporte ao gerenciamento de identidade e acesso (IAM) no modo padrão que usa organizações para gerenciar usuários e recursos. Se você estiver usando o BlueXP  em modo privado ou restrito, use uma conta _BlueXP _ para gerenciar usuários e recursos, incluindo assinaturas.</block>
+  <block id="e8d4d17604edcb01795d2dec29046b8c" category="list-text">Selecione o menu de ação na linha que corresponde à assinatura que você deseja associar e escolha *Associate*.</block>
+  <block id="712bf394985d0b4e0af760f8e8abd91c" category="list-text">Na caixa de diálogo *associar a assinatura*, escolha uma(s) organização(ões) à qual associar esta assinatura.</block>
+  <block id="bf82031efce8f265bece8bef7a61504f" category="list-text">Opcionalmente, use o controle deslizante para indicar que você está substituindo uma assinatura existente para a organização selecionada.</block>
+  <block id="e43ddb0fd3dbaee9a42e954a181ab141" category="list-text">Selecione *Associate*.</block>
+  <block id="3b446cd4e304253a8a5be3d76f1f7d85" category="section-title">Exibir credenciais associadas a uma assinatura</block>
+  <block id="f9a62957a3b5c40b90446ae870786bb9" category="paragraph">Você pode visualizar as credenciais de uma assinatura específica na página *assinaturas do Marketplace* na carteira digital. Isso permite verificar como a assinatura está sendo cobrada. Como as credenciais também estão vinculadas ao conetor que você está usando, você deve selecionar o conetor associado à assinatura que deseja ver</block>
+  <block id="c2c1fba9bd77826ae21ba53eaa6f5a8e" category="admonition">Use o conetor suspenso na barra de navegação superior para alternar os conetores, se necessário.</block>
+  <block id="45cdea95a34c9590c63f84497bc5f85c" category="list-text">Na linha que contém a assinatura cujas credenciais você deseja exibir, selecione Exibir. Se houver várias credenciais associadas a uma assinatura, nenhuma credencial poderá ser exibida e você será direcionado para selecionar um conetor diferente.</block>
+  <block id="aea9c467234db8f0360906cb49a2233c" category="section-title">Adicionar uma nova subscrição do marketplace</block>
+  <block id="1dddde7c2f6ddd15e49ee71278dbd33c" category="paragraph">Você pode assinar uma assinatura do marketplace diretamente da carteira digital.</block>
+  <block id="4847e034bb0a55fcbc8a3380d6a3ab80" category="open-title">AWS</block>
+  <block id="67f44df0b66677509cb8a85769f34ee3" category="paragraph">O vídeo a seguir mostra as etapas para se inscrever no BlueXP  no AWS Marketplace:</block>
+  <block id="8ddd07f4c199accad92d619cc396eaef" category="video-title">Inscreva-se no BlueXP  no AWS Marketplace</block>
+  <block id="3a580f142203677f1f0bc30898f63f53" category="open-title">Azure</block>
+  <block id="89d8b3b4c08395fc5dbef0d35cb50529" category="paragraph">O vídeo a seguir mostra as etapas para se inscrever no Azure Marketplace:</block>
+  <block id="040832c90148c5bba767901a4a55ebe4" category="video-title">Inscreva-se no BlueXP  a partir do Azure Marketplace</block>
+  <block id="56ef2682280ac110060b881925a87b80" category="open-title">Google Cloud</block>
+  <block id="a6b7d96f53186edb463f8f8611f97cd9" category="paragraph">O vídeo a seguir mostra as etapas para se inscrever no Google Cloud Marketplace:</block>
+  <block id="c6e17aa071476599f5e5fc5b8bc42431" category="video-title">Inscreva-se no BlueXP  no Google Cloud Marketplace</block>
+  <block id="5aa066be2a651f3b22275be1f4cc2b4e" category="list-text">Acima da tabela *assinaturas*, selecione *Adicionar assinatura*.</block>
+  <block id="abbbcd839916bf9079703f6bfafad8cd" category="list-text">Na caixa de diálogo _Adicionar assinatura_, selecione um provedor de nuvem.</block>
+  <block id="03863fd8ecb98c1d2286d087aaa70e52" category="list-text">Ao escolher uma assinatura da AWS, escolha se você deseja um contrato anual ou uma assinatura PAYGO.</block>
+  <block id="89f1420866c2affefa2fdea6d7fd8b8d" category="list-text">Selecione *Adicionar assinatura* para navegar até o mercado do provedor e concluir as etapas fornecidas.</block>
+  <block id="abc1b48a324b3a287c423e8a84361474" category="list-text">Quando terminar no mercado do fornecedor de nuvem, volte ao BlueXP  para concluir o processo.</block>
+  <block id="c523b074da0b63e607578686184d5981" category="section-title">10 de fevereiro de 2025</block>
+  <block id="e74b98af0a0d10cc27c402c02fac1fda" category="sidebar">Gerencie assinaturas e contratos do Marketplace</block>
+  <block id="a35e94495c93c5d785f8b1240c15be6a" category="sidebar">Use o painel Visão geral</block>
+  <block id="9f0562c731b8981f21e8a7ac75bd947f" category="sidebar">Gerenciar licenças</block>
+  <block id="494ac06bbc5d38299a90be70b7e29b29" category="sidebar">Gerenciar licenças de serviço de dados</block>
+  <block id="c7031958abe0c6bca3058548b703b37f" category="sidebar">Licenças baseadas em capacidade para Cloud Volumes ONTAP</block>
+  <block id="f34953a70b4a66823b7c335bccdd1df4" category="sidebar">Licenças baseadas em nós para Cloud Volumes ONTAP</block>
+  <block id="b7dddfb63fd700204e12dba0c2972cb4" category="sidebar">Gerenciar assinaturas do Marketplace</block>
 </blocks>

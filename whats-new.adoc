@@ -18,6 +18,36 @@ Saiba o que há de novo com a carteira digital BlueXP .
 
 
 
+== 10 de fevereiro de 2025
+
+A carteira digital BlueXP  foi redesenhada para facilitar o uso e agora fornece gerenciamento adicional de assinaturas e licenças.
+
+
+
+=== Novo painel de visão geral
+
+A página inicial da carteira digital tem um painel atualizado das suas licenças do NetApp e subscrições do Marketplace, com a capacidade de detalhar serviços específicos, tipos de licença e ações necessárias.
+
+
+
+=== Configurando assinaturas para credenciais
+
+A carteira digital BlueXP  agora permite configurar suas assinaturas para credenciais de provedor. Normalmente, você faz isso quando você se inscreve pela primeira vez em uma assinatura do Marketplace ou em um contrato anual. A alteração das credenciais da assinatura anteriormente só poderia ser feita na página credenciais.
+
+
+
+=== Associar assinaturas às organizações
+
+Agora você pode atualizar a organização à qual uma assinatura está associada diretamente da carteira digital.
+
+
+
+=== Gerenciamento de licenças do Cloud volume ONTAP
+
+Agora você gerencia licenças do Cloud Volumes ONTAP através da página inicial ou da guia *licenças de serviço de dados*. Use a guia *assinaturas do Marketplace* para exibir suas informações de assinatura.
+
+
+
 == 5 de março de 2024
 
 

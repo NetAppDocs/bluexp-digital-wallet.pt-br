@@ -22,28 +22,32 @@ sidebar:
       url: "/concept-digital-wallet.html"
   - title: Utilize a carteira digital BlueXP 
     entries:
-    - title: Gerenciar licenças para Cloud Volumes ONTAP
+    - title: Use o painel Visão geral
+      url: "/task-homepage.html"
+    - title: Gerenciar licenças
       entries:
-      - title: Licenças baseadas em capacidade
-        url: "/task-manage-capacity-licenses.html"
-      - title: Licenças baseadas em nós
-        url: "/task-manage-node-based-licenses.html"
-    - title: Gerenciar licenças para serviços de dados do BlueXP 
-      url: "/task-manage-data-services-licenses.html"
-    - title: Gerencie assinaturas e contratos PAYGO
+      - title: Gerenciar licenças de serviço de dados
+        url: "/task-manage-data-services-licenses.html"
+      - title: Gerenciar licenças para Cloud Volumes ONTAP
+        entries:
+        - title: Licenças baseadas em capacidade para Cloud Volumes ONTAP
+          url: "/task-manage-capacity-licenses.html"
+        - title: Licenças baseadas em nós para Cloud Volumes ONTAP
+          url: "/task-manage-node-based-licenses.html"
+    - title: Gerenciar assinaturas do Marketplace
       url: "/task-manage-subscriptions.html"
     - title: Gerenciar assinaturas do Keystone
       url: "/task-manage-keystone.html"
-    - title: Gerenciar licenças para clusters ONTAP no local
+    - title: Gerenciar licenças para ONTAP no local
       url: "/task-manage-on-prem-clusters.html"
-  - title: Conhecimento e apoio
-    entries:
-    - title: Registre-se para obter suporte
-      url: "/task-support-registration.html"
-    - title: Obtenha ajuda
-      url: "/task-get-help.html"
-  - title: Avisos legais
-    url: "/legal-notices.html"
+    - title: Conhecimento e apoio
+      entries:
+      - title: Registre-se para obter suporte
+        url: "/task-support-registration.html"
+      - title: Obtenha ajuda
+        url: "/task-get-help.html"
+    - title: Avisos legais
+      url: "/legal-notices.html"
 product-family:
   name: BlueXP
   repo: bluexp-family

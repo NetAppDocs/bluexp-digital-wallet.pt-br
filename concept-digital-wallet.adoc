@@ -14,24 +14,27 @@ summary: 'A carteira digital da BlueXP  permite que você gerencie e monitore a
 
 
 [role="lead"]
-A carteira digital da BlueXP  permite que você gerencie e monitore as licenças BlueXP  adquiridas na NetApp (BYOL), nas assinaturas do marketplace da BlueXP  e no NetApp Keystone.
+A carteira digital da BlueXP  permite que você gerencie e monitore as licenças BlueXP  adquiridas na NetApp (BYOL), assinaturas do mercado de serviços de dados da BlueXP  (incluindo NetApp Cloud Volumes ONTAP) e NetApp Keystone.
 
 
 
-== Caraterísticas
+== Como as licenças e assinaturas são exibidas na carteira digital
 
-* Gerenciar licenças baseadas em capacidade e baseadas em nós para o Cloud Volumes ONTAP
-* Adicionar e gerenciar licenças para serviços de dados do BlueXP 
-* Gerencie assinaturas para PAYGO e contratos anuais associados à sua organização BlueXP  e ao Astra Control
-* Gerencie os serviços do Keystone Subscription para uso com Cloud Volumes ONTAP e clusters ONTAP no local e solicite alterações na capacidade comprometida
-* Veja as informações de status do contrato de hardware e software para clusters ONTAP on-premises
+Ambas as licenças e assinaturas são exibidas automaticamente na carteira digital quando a conta BlueXP  usada para assinar também é uma conta do site de suporte da NetApp. Se você usou uma conta do BlueXP  que não está associada à sua conta do site de suporte da NetApp (NSS), precisará adicionar e atualizar manualmente as licenças e não verá a alteração de uso, capacidade e outros detalhes.
 
+Enquanto isso, o BlueXP  consulta automaticamente o serviço de licenciamento da NetApp para obter detalhes sobre as licenças associadas à sua conta do site de suporte da NetApp. Se não houver erros, o BlueXP  adiciona automaticamente as licenças à carteira digital.
+
+Se o BlueXP  não conseguir adicionar a licença, você precisará adicioná-la manualmente à carteira digital. Por exemplo, se sua conta de usuário do BlueXP  não estiver associada à conta do site de suporte da NetApp, você precisará adicionar as licenças por conta própria.
+
+Depois de adquirir uma licença do seu representante de vendas da NetApp, a NetApp envia-lhe um e-mail com o número de série e os detalhes de licenciamento adicionais. Você precisará desse número de série para adicionar ou atualizar a respetiva licença na carteira digital.
+
+https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Saiba como adicionar sua conta do site de suporte da NetApp às credenciais de usuário do BlueXP "^].
 
 
 
 == Serviços compatíveis
 
-A carteira digital BlueXP  permite-lhe gerir licenças para os seguintes serviços:
+A carteira digital BlueXP  permite-lhe gerir licenças e subscrições para os seguintes serviços:
 
 * https://docs.netapp.com/us-en/bluexp-backup-recovery/index.html["Backup e recuperação"^]
 * https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html["Cloud Volumes ONTAP"^]
@@ -40,6 +43,3 @@ A carteira digital BlueXP  permite-lhe gerir licenças para os seguintes servi�
 * https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html["Clusters ONTAP no local"^]
 * https://docs.netapp.com/us-en/bluexp-tiering/index.html["Disposição em camadas"^]
 
-
-
-TIP: A carteira digital BlueXP  também permite gerenciar licenças para classificação BlueXP . No entanto, a classificação BlueXP  está agora disponível como uma capacidade principal dentro do BlueXP  sem nenhum custo adicional. Uma licença ou assinatura não é mais necessária. https://docs.netapp.com/us-en/bluexp-classification/concept-cloud-compliance.html["Saiba mais sobre a classificação BlueXP"^]

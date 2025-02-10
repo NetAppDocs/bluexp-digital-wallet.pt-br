@@ -1,0 +1,81 @@
+---
+sidebar: sidebar 
+permalink: task-homepage.html 
+keywords: license, licensing, capacity license, capacity based license, add license, install license, digital wallet, bluexp digital wallet, cloud volumes ontap license, cloud volumes ontap 
+summary: Obtenha uma visão geral de todas as assinaturas e licenças para sua organização na página inicial digital. 
+---
+= Use a visão geral do painel
+:allow-uri-read: 
+
+
+
+
+== Use a visão geral do painel
+
+[role="lead"]
+Use o painel *Visão geral* na carteira digital para monitorar a integridade de suas licenças e assinaturas para garantir que você possa gerenciar custos e manter o serviço à medida que as assinaturas atingem datas de expiração ou limites de capacidade.
+
+Você pode visualizar informações específicas de licença e assinatura sobre cada um dos seus serviços de dados (incluindo o Cloud Volumes ONTAP) e detalhar os detalhes de cada um deles.
+
+Também será alertado para os próximos limites de capacidade ou expirações e ser-lhe-á pedido que tome medidas.
+
+
+
+=== Exibir detalhes sobre um serviço de dados específico
+
+O painel da carteira digital *Visão geral* fornece a capacidade de visualizar detalhes sobre os seguintes serviços de dados:
+
+* Cloud Volumes ONTAP
+* Recuperação de desastres
+* Proteção contra ransomware
+* Backup e recuperação
+* Disposição em camadas
+
+
+Por exemplo, os administradores encarregados de gerenciar recursos do Cloud Volumes ONTAP podem visualizar a capacidade atual de cada licença ou assinatura, o que lhes dá uma visão focada dos recursos dentro do escopo.
+
+Observação: Embora você possa atualizar e remover licenças do painel, não é possível adicionar uma nova licença ou assinatura.
+
+link:task-manage-data-services-licenses.html["Saiba mais sobre como gerenciar licenças"^]. link:task-manage-subscriptions.html["Saiba mais sobre como gerenciar assinaturas"^].
+
+.Passos
+. No menu de navegação BlueXP , selecione *Governança > carteira digital*.
+. Selecione *Visão geral*.
+. Selecione *Exibir* para o respetivo serviço de dados (incluindo Cloud Volumes ONTAP) para visualizar detalhes e gerenciar licenças e assinaturas.
++
+Cada bloco fornece uma visão geral gráfica do status da capacidade, enquanto a página de detalhes permite que você veja e gerencie métodos de pagamento para essa capacidade.
+
+. Selecione a guia *licenças* ou *assinaturas*.
+. Filtre a tabela selecionando um filtro de coluna e um valor para filtrar. Por exemplo, na guia *assinaturas*, você pode filtrar a coluna tipo por Contrato Anual ou assinatura.
++
+image:screenshot_digital_wallet_filter.png["Ação de filtro na tabela de subscrição"]
+
+. Personalize as colunas mostradas na tabela. Você pode adicionar e remover colunas da tabela selecionando o ícone de coluna indicando quais colunas você deseja exibir ou ocultar. A captura de tela a seguir indica que somente as colunas tipo, Data de término, Status e Configuração.
++
+image:screenshot_digital_wallet_show_hide_columns.png["screenshot fornece um exemplo de como mostrar ou ocultar colunas"]
+
+. Expanda qualquer linha para ver detalhes sobre o que a assinatura ou licença inclui, a capacidade comprada e os termos.
+. Use o menu ações para gerenciar uma licença ou assinatura específica, como atualizar uma licença ou associar uma assinatura a uma organização diferente.
++
+Você não pode adicionar novas licenças ou assinaturas da página *Visão geral* para um serviço específico. Você só pode adicionar licenças ou assinaturas da guia *licenças de serviço de dados* ou da guia *assinaturas do Marketplace*, respetivamente.
+
++
+link:task-data-services-licenses.html["Saiba mais sobre como gerenciar licenças."] link:task-manage-subscriptions.html["Saiba mais sobre como gerenciar assinaturas."]
+
+
+
+
+
+=== Resolver problemas de licença ou assinatura
+
+Você pode ver problemas de licença e assinatura que precisam ser resolvidos. Os problemas incluem licenças e assinaturas que estão expirando ou alcançando capacidade.
+
+. No menu de navegação BlueXP , selecione *Governança > carteira digital*.
+. Selecione *Visão geral*.
+. Selecione *resolve* para o mosaico *requires action* para ver os problemas que precisam ser ajustados. Se *resolve* não for exibido, não há problemas que exijam ação neste momento.
+. Na página *exigir ação*, selecione a guia *licenças* ou a guia *assinaturas*.
+. Use o menu de ação para resolver o problema.
++
+link:task-manage-data-services-licenses.html["Saiba mais sobre como gerenciar licenças"^]. link:task-manage-subscriptions.html["Saiba mais sobre como gerenciar assinaturas"^].
+
+

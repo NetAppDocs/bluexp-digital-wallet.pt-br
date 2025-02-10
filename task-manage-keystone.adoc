@@ -28,12 +28,12 @@ Antes de usar e gerenciar assinaturas do Keystone no BlueXP , entre em Contato 
 
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
-. Selecione *Keystone*.
+. Selecione *Keystone Subscriptions*.
 . Se você vir a página *bem-vindo ao NetApp Keystone*, envie um e-mail para o endereço listado na página.
 +
 Um representante da NetApp processará o seu pedido autorizando a sua conta de utilizador a aceder às subscrições.
 
-. Volte para a *Keystone Subscription* para ver suas assinaturas.
+. Volte para a aba *Keystone Subscriptions* para ver suas assinaturas.
 +
 image:screenshot-keystone-overview.png["Uma captura de tela que mostra uma lista de assinaturas do Keystone."]
 
@@ -47,7 +47,7 @@ Depois que o NetApp autorizar sua conta, você poderá vincular as assinaturas d
 
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
-. Selecione *Keystone*.
+. Selecione *Keystone Subscriptions*.
 . Para a assinatura que você deseja vincular, clique image:icon-action.png["Um ícone que é três pontos lado a lado"] e selecione *Link*.
 +
 image:screenshot-keystone-link.png["Uma captura de tela que mostra a opção de link para uma assinatura."]
@@ -65,7 +65,7 @@ Se você quiser alterar a capacidade comprometida dos níveis de serviço da sua
 
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
-. Selecione *Keystone*.
+. Selecione *Keystone Subscriptions*.
 . Para a assinatura que você deseja ajustar a capacidade, clique image:icon-action.png["Um ícone que é três pontos lado a lado"] e selecione *Exibir detalhes e editar*.
 . Insira a capacidade comprometida solicitada para uma ou mais assinaturas.
 +

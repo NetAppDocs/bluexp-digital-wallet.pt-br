@@ -18,7 +18,7 @@ Gerencie licenças baseadas em nós na carteira digital BlueXP  para garantir q
 
 _Licenças baseadas em nós_ são o modelo de licenciamento da geração anterior (e não disponível para novos clientes):
 
-* Licenças BYOL adquiridas na NetApp
+* Traga suas próprias licenças de licença (BYOL) adquiridas na NetApp
 * Assinaturas de pagamento conforme o uso (PAYGO) por hora a partir do mercado do seu provedor de nuvem
 
 
@@ -34,7 +34,9 @@ A página da carteira digital da BlueXP  permite-lhe ver detalhes sobre cada um
 
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
-. Na guia *Cloud Volumes ONTAP*, selecione *licenças baseadas em nós* na lista suspensa.
+. Selecione a guia *Visão geral*.
+. No mosaico Cloud Volumes ONTAP, selecione *Exibir*.
+. Selecione *licenças baseadas em nós* na lista suspensa.
 . Clique em *PAYGO*.
 . Veja detalhes na tabela sobre cada uma das suas licenças PAYGO.
 +
@@ -57,7 +59,9 @@ Adicione uma licença baseada em nós à carteira digital BlueXP  para que voc�
 
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
-. Na guia *Cloud Volumes ONTAP*, selecione *licenças baseadas em nós* na lista suspensa.
+. Selecione a guia *Visão geral*.
+. No mosaico Cloud Volumes ONTAP, selecione *Exibir*.
+. Selecione *licenças baseadas em nós* na lista suspensa.
 . Clique em *Unassigned*.
 . Clique em *Adicionar licenças não atribuídas*.
 . Introduza o número de série da licença ou carregue o ficheiro da licença.
@@ -84,9 +88,13 @@ A troca da licença revoga a licença Cloud Volumes ONTAP e cria uma licença eq
 
 A licença convertida tem a mesma data de validade que a licença Cloud Volumes ONTAP.
 
+link:https://mydemo.netapp.com/player/?demoId=c96ef113-c338-4e44-9bda-81a8d252de63&showGuide=true&showGuidesToolbar=true&showHotspots=true&source=app["Veja o passo a passo sobre como trocar licenças baseadas em nós."^]
+
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
-. Na guia *Cloud Volumes ONTAP*, selecione *licenças baseadas em nós* na lista suspensa.
+. Selecione a guia *Visão geral*.
+. No mosaico Cloud Volumes ONTAP, selecione *Exibir*.
+. Selecione *licenças baseadas em nós* na lista suspensa.
 . Clique em *Unassigned*.
 . Clique em *Licença de Troca*.
 +
@@ -128,7 +136,9 @@ Se o BlueXP  não conseguir acessar o arquivo de licença pela conexão segura 
 
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
-. Na guia *Cloud Volumes ONTAP*, selecione *licenças baseadas em nós* na lista suspensa.
+. Selecione a guia *Visão geral*.
+. No mosaico Cloud Volumes ONTAP, selecione *Exibir*.
+. Selecione *licenças baseadas em nós* na lista suspensa.
 . Na guia *BYOL*, expanda os detalhes de um sistema Cloud Volumes ONTAP.
 . Clique no menu de ação ao lado da licença do sistema e selecione *Atualizar Licença*.
 . Carregue o ficheiro de licença (ou ficheiros se tiver um par de HA).
@@ -154,7 +164,9 @@ Compre uma licença de capacidade extra entrando em Contato conosco através do 
 
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
-. Na guia *Cloud Volumes ONTAP*, selecione *licenças baseadas em nós* na lista suspensa.
+. Selecione a guia *Visão geral*.
+. No mosaico Cloud Volumes ONTAP, selecione *Exibir*.
+. Selecione *licenças baseadas em nós* na lista suspensa.
 . Na guia *BYOL*, expanda os detalhes de um sistema Cloud Volumes ONTAP.
 . Clique em *Adicionar licença de capacidade*.
 . Introduza o número de série ou carregue o ficheiro de licença (ou ficheiros se tiver um par de HA).
@@ -169,7 +181,9 @@ Se você estendeu o prazo de uma licença de capacidade extra, precisará atuali
 
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
-. Na guia *Cloud Volumes ONTAP*, selecione *licenças baseadas em nós* na lista suspensa.
+. Selecione a guia *Visão geral*.
+. No mosaico Cloud Volumes ONTAP, selecione *Exibir*.
+. Selecione *licenças baseadas em nós* na lista suspensa.
 . Na guia *BYOL*, expanda os detalhes de um sistema Cloud Volumes ONTAP.
 . Clique no menu de ação ao lado da licença de capacidade e selecione *Atualizar licença*.
 . Carregue o ficheiro de licença (ou ficheiros se tiver um par de HA).
@@ -184,7 +198,9 @@ Se uma licença de capacidade extra expirou e não está mais em uso, você pode
 
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
-. Na guia *Cloud Volumes ONTAP*, selecione *licenças baseadas em nós* na lista suspensa.
+. Selecione a guia *Visão geral*.
+. No mosaico Cloud Volumes ONTAP, selecione *Exibir*.
+. Selecione *licenças baseadas em nós* na lista suspensa.
 . Na guia *BYOL*, expanda os detalhes de um sistema Cloud Volumes ONTAP.
 . Clique no menu de ação ao lado da licença de capacidade e selecione *Remover licença*.
 . Clique em *Remover*.
@@ -204,7 +220,9 @@ Quando você converte uma licença do Eval para um BYOL, o BlueXP  reinicia o s
 
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
-. Na guia *Cloud Volumes ONTAP*, selecione *licenças baseadas em nós* na lista suspensa.
+. Selecione a guia *Visão geral*.
+. No mosaico Cloud Volumes ONTAP, selecione *Exibir*.
+. Selecione *licenças baseadas em nós* na lista suspensa.
 . Clique em *Eval*.
 . Na tabela, clique em *Converter para Licença BYOL* para um sistema Cloud Volumes ONTAP.
 . Introduza o número de série ou carregue o ficheiro de licença.
@@ -231,3 +249,6 @@ https://docs.netapp.com/us-en/bluexp-replication/task-replicating-data.html["Sai
 https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-deleting-working-env.html["Saiba como excluir um ambiente de trabalho do Cloud Volumes ONTAP"].
 
 
+
+.Links relacionados
+link: link:concept-licensing.html#end-of-availability-of-node-based-licenses["Término da disponibilidade de licenças baseadas em nós"] link:task-convert-node-capacity.html["Converta licenças baseadas em nós em capacidade"]

@@ -14,28 +14,32 @@ summary: Quando você se inscreve no BlueXP  a partir do mercado de um provedor
 
 
 [role="lead"]
-Quando você se inscreve no BlueXP  a partir do mercado de um provedor de nuvem, você é redirecionado para o site da BlueXP , onde você precisa salvar sua assinatura e associá-la a contas específicas. Depois de se inscrever, cada assinatura estará disponível para gerenciar a partir da carteira digital BlueXP .
+Quando você assina os serviços de dados do BlueXP  (incluindo o Cloud Volumes ONTAP) do mercado de um fornecedor de nuvem, você é redirecionado para o site do BlueXP , onde você precisa salvar sua assinatura e associá-la à sua organização do BlueXP . Depois de se inscrever, cada assinatura estará disponível para gerenciar a partir da carteira digital BlueXP .
 
-* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-standard-mode.html["Saiba como se inscrever no BlueXP  (modo padrão)"^]
-* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-restricted-mode.html["Saiba como se inscrever no BlueXP  (modo restrito)"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-standard-mode.html["Saiba como se inscrever nos serviços de dados do BlueXP  (modo padrão)"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-restricted-mode.html["Saiba como se inscrever em serviços de dados do BlueXP  (modo restrito)"^]
 
+
+
+NOTE: A página *assinaturas do Marketplace* lista todas as licenças. Se você quiser detalhes de licença para um serviço de dados específico, use os blocos de serviço de dados no painel *Visão geral*. link:task-homepage.html#overview-page["Saiba mais sobre o painel Visão geral"].
 
 
 
 == Ver as suas subscrições
 
-A carteira digital da BlueXP  fornece detalhes sobre cada assinatura PAYGO e contrato anual associados à sua organização ou conta da BlueXP  e ao Astra Control (o Astra Control usa o serviço de cobrança da BlueXP ).
+A carteira digital BlueXP  fornece detalhes sobre cada assinatura PAYGO e contrato anual associado à sua organização ou conta BlueXP .
 
 Para o Google Cloud, você também pode identificar assinaturas de mercado associadas a uma oferta privada, o que permite verificar se você aceitou a oferta com sucesso.
 
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
-. Selecione *Subscrições*.
+. Selecione *assinaturas do Marketplace*.
 +
-Você só verá as assinaturas associadas à conta que você está visualizando no momento.
+Você verá apenas as assinaturas associadas à organização que você está visualizando no momento.
 
 . À medida que você visualiza as informações sobre suas assinaturas, você pode interagir com os detalhes da tabela da seguinte forma:
 +
+** Use Pesquisa avançada e filtragem para determinar quais assinaturas são mostradas na tabela. Você pode pesquisar por um nome específico de uma assinatura e filtrar por uma variedade de parâmetros de assinatura, como tipo e configuração.
 ** Expanda uma linha para ver mais detalhes.
 +
 image:screenshot-subscriptions-expand.png["Uma captura de tela da guia assinaturas na carteira digital, onde você pode selecionar a seta no final de uma linha para expandi-la."]
@@ -69,18 +73,112 @@ Contratos::
 
 
 
-== Gerencie suas assinaturas
+== Renomeie uma assinatura
 
-Você pode gerenciar suas assinaturas na carteira digital do BlueXP  renomeando uma assinatura e escolhendo as contas associadas à assinatura.
-
-Por exemplo, digamos que você tem duas contas e cada uma é cobrada através de assinaturas separadas. Você pode desassociar uma assinatura de uma das contas para que os usuários dessa conta não escolham acidentalmente a assinatura errada ao criar um ambiente de trabalho do Cloud Volumes ONTAP.
+Você pode renomear uma assinatura para identificar melhor como ela é usada em sua organização.
 
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
-. Selecione *Subscrições*.
-. Selecione o menu de ação na linha que corresponde à assinatura que você deseja gerenciar.
+. Selecione *assinaturas do Marketplace*.
+. Selecione o menu de ação na linha que corresponde à assinatura que você deseja gerenciar e escolha *Renomear*.
 +
-image:screenshot-subscription-menu.png["Uma captura de tela do menu de ação para uma assinatura."]
+image:screenshot_rename_subscription.png["Uma captura de tela da opção Renomear para uma assinatura."]
 
-. Escolha para renomear a assinatura ou gerenciar as organizações ou contas do BlueXP  associadas à assinatura.
+
+
+
+
+== Configurar uma assinatura com uma credencial do provedor
+
+Normalmente, as assinaturas são configuradas com a credencial do provedor que você criou quando você se inscreveu. Em alguns casos, você pode precisar reconfigurar uma assinatura para usar uma credencial diferente se quiser alterar a maneira como ela é cobrada. A credencial associada a uma assinatura deve ser uma credencial que também esteja associada a um conetor.
+
+O formato da credencial depende do mercado que você está usando. Por exemplo, as assinaturas do Azure Marketplace estão associadas ao nome da assinatura do Azure, enquanto as assinaturas do AWS Marketplace usam o ID da conta da AWS. Você pode ver uma lista de credenciais disponíveis na página credenciais.
+
+A opção Configurar fica cinza se você tiver cancelado uma assinatura.
+
+.Passos
+. No menu de navegação BlueXP , selecione *Governança > carteira digital*.
+. Selecione *assinaturas do Marketplace*.
+. Selecione o menu de ação na linha que corresponde à assinatura que você deseja configurar e escolha *Configurar*.
+. Na caixa de diálogo _Configurar_, escolha uma credencial para a qual configurar a assinatura. Você só pode escolher entre as credenciais associadas ao conetor selecionado no momento. Se não vir a credencial que pretende utilizar, tente mudar para uma vista de conetor diferente. isso é descrito com precisão? N.o
+
+
+
+
+== Associar uma assinatura a uma organização do BlueXP 
+
+Associar uma assinatura a uma organização garante que os membros dessa organização possam usar essa assinatura para cobrança.
+
+Você pode limitar o uso de uma assinatura a uma organização específica ou compartilhar a assinatura entre várias organizações. Você também pode substituir a assinatura de uma organização existente se surgir a necessidade.
+
+Você deve ter a função de administrador da organização para associar uma assinatura a uma organização.
+
+
+NOTE: O BlueXP  oferece suporte ao gerenciamento de identidade e acesso (IAM) no modo padrão que usa organizações para gerenciar usuários e recursos. Se você estiver usando o BlueXP  em modo privado ou restrito, use uma conta _BlueXP _ para gerenciar usuários e recursos, incluindo assinaturas.
+
+.Passos
+. No menu de navegação BlueXP , selecione *Governança > carteira digital*.
+. Selecione *assinaturas do Marketplace*.
+. Selecione o menu de ação na linha que corresponde à assinatura que você deseja associar e escolha *Associate*.
+. Na caixa de diálogo *associar a assinatura*, escolha uma(s) organização(ões) à qual associar esta assinatura.
+. Opcionalmente, use o controle deslizante para indicar que você está substituindo uma assinatura existente para a organização selecionada.
+. Selecione *Associate*.
+
+
+
+
+== Exibir credenciais associadas a uma assinatura
+
+Você pode visualizar as credenciais de uma assinatura específica na página *assinaturas do Marketplace* na carteira digital. Isso permite verificar como a assinatura está sendo cobrada. Como as credenciais também estão vinculadas ao conetor que você está usando, você deve selecionar o conetor associado à assinatura que deseja ver
+
+
+NOTE: Use o conetor suspenso na barra de navegação superior para alternar os conetores, se necessário.
+
+.Passos
+. No menu de navegação BlueXP , selecione *Governança > carteira digital*.
+. Selecione *assinaturas do Marketplace*.
+. Na linha que contém a assinatura cujas credenciais você deseja exibir, selecione Exibir. Se houver várias credenciais associadas a uma assinatura, nenhuma credencial poderá ser exibida e você será direcionado para selecionar um conetor diferente.
+
+
+
+
+== Adicionar uma nova subscrição do marketplace
+
+Você pode assinar uma assinatura do marketplace diretamente da carteira digital.
+
+[role="tabbed-block"]
+====
+.AWS
+--
+O vídeo a seguir mostra as etapas para se inscrever no BlueXP  no AWS Marketplace:
+
+.Inscreva-se no BlueXP  no AWS Marketplace
+video::096e1740-d115-44cf-8c27-b051011611eb[panopto]
+--
+.Azure
+--
+O vídeo a seguir mostra as etapas para se inscrever no Azure Marketplace:
+
+.Inscreva-se no BlueXP  a partir do Azure Marketplace
+video::b7e97509-2ecf-4fa0-b39b-b0510109a318[panopto]
+--
+.Google Cloud
+--
+O vídeo a seguir mostra as etapas para se inscrever no Google Cloud Marketplace:
+
+.Inscreva-se no BlueXP  no Google Cloud Marketplace
+video::373b96de-3691-4d84-b3f3-b05101161638[panopto]
+--
+====
+.Passos
+. No menu de navegação BlueXP , selecione *Governança > carteira digital*.
+. Selecione *assinaturas do Marketplace*.
+. Acima da tabela *assinaturas*, selecione *Adicionar assinatura*.
+. Na caixa de diálogo _Adicionar assinatura_, selecione um provedor de nuvem.
++
+.. Ao escolher uma assinatura da AWS, escolha se você deseja um contrato anual ou uma assinatura PAYGO.
+
+
+. Selecione *Adicionar assinatura* para navegar até o mercado do provedor e concluir as etapas fornecidas.
+. Quando terminar no mercado do fornecedor de nuvem, volte ao BlueXP  para concluir o processo.
 

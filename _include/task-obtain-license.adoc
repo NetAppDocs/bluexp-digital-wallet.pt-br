@@ -1,0 +1,41 @@
+= 
+:allow-uri-read: 
+
+
+Você deve obter um arquivo de licença NetApp para carregar se o BlueXP  não tiver acesso à Internet (instalações em modo privado).
+
+Depois de adquirir uma licença do seu representante de vendas da NetApp, a NetApp envia-lhe um e-mail com o número de série e os detalhes de licenciamento adicionais. No caso em que você não vê suas licenças automaticamente, você precisará desse número de série para obter o respetivo arquivo de licença.
+
+.Passos
+. Encontre o ID da sua conta BlueXP :
++
+.. No canto superior direito do console BlueXP , image:icon-settings-option.png["O ícone de configurações que é exibido no canto superior direito do console da Web do BlueXP ."]selecione > *Gerenciamento de identidade e acesso*.
+.. Na página Organização, procure o ID da sua conta e copie-o.
++
+Se não houver um ID de conta listado e você tiver apenas um ID de organização, precisará copiar os primeiros oito carateres do ID da organização e anexá-lo a _conta-_
+
++
+Por exemplo, digamos que este é o ID da sua organização:
+
++
+ea10e1c6-80cc-4219-8e99-3c3e6b161ba5
+
++
+O seu ID de conta seria o seguinte:
+
++
+conta-ea10e1c6
+
+
+
+. Inicie sessão no https://mysupport.netapp.com["Site de suporte da NetApp"^] e selecione *sistemas > licenças de software*.
+. Introduza o número de série da sua licença.
++
+image:../media/screenshot_cloud_backup_license_step1.gif["Uma captura de tela que mostra uma tabela de licenças depois de pesquisar por número de série."]
+
+. Na coluna *chave de licença*, selecione *obter ficheiro de licença NetApp*.
+. Introduza a sua ID de conta do BlueXP  (chamada ID do locatário no site de suporte) e selecione *Enviar* para transferir o ficheiro de licença.
++
+image:../media/screenshot_cloud_backup_license_step2.gif["Uma captura de tela que mostra a caixa de diálogo obter licença onde você insere seu ID de locatário e, em seguida, selecione Enviar para baixar o arquivo de licença."]
+
+
