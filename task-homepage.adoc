@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-homepage.html 
-keywords: license, licensing, capacity license, capacity based license, add license, install license, digital wallet, bluexp digital wallet, cloud volumes ontap license, cloud volumes ontap 
+keywords: license, licensing, dashboard, capacity license, capacity based license, add license, install license, digital wallet, bluexp digital wallet, cloud volumes ontap license, cloud volumes ontap 
 summary: Obtenha uma visão geral de todas as assinaturas e licenças para sua organização na página inicial digital. 
 ---
 = Use a visão geral do painel
@@ -43,14 +43,14 @@ link:task-manage-data-services-licenses.html["Saiba mais sobre como gerenciar li
 . Selecione *Visão geral*.
 . Selecione *Exibir* para o respetivo serviço de dados (incluindo Cloud Volumes ONTAP) para visualizar detalhes e gerenciar licenças e assinaturas.
 +
-Cada bloco fornece uma visão geral gráfica do status da capacidade, enquanto a página de detalhes permite que você veja e gerencie métodos de pagamento para essa capacidade.
+Cada bloco fornece uma visão geral gráfica da capacidade. Você pode visualizar a página de detalhes para ver e gerenciar métodos de pagamento para essa capacidade.
 
 . Selecione a guia *licenças* ou *assinaturas*.
 . Filtre a tabela selecionando um filtro de coluna e um valor para filtrar. Por exemplo, na guia *assinaturas*, você pode filtrar a coluna tipo por Contrato Anual ou assinatura.
 +
 image:screenshot_digital_wallet_filter.png["Ação de filtro na tabela de subscrição"]
 
-. Personalize as colunas mostradas na tabela. Você pode adicionar e remover colunas da tabela selecionando o ícone de coluna indicando quais colunas você deseja exibir ou ocultar. A captura de tela a seguir indica que somente as colunas tipo, Data de término, Status e Configuração.
+. Personalize as colunas mostradas na tabela. Você pode adicionar e remover colunas da tabela selecionando o ícone *coluna* indicando quais colunas você deseja exibir ou ocultar. A captura de tela a seguir indica que somente as colunas tipo, Data de término, Status e Configuração.
 +
 image:screenshot_digital_wallet_show_hide_columns.png["screenshot fornece um exemplo de como mostrar ou ocultar colunas"]
 
