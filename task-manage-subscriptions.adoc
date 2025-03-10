@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-manage-subscriptions.html 
-keywords: digital wallet, subscriptions, paygo subscriptions, contracts, annual contracts 
+keywords: digital wallet, subscriptions, paygo subscriptions, contracts, annual contracts, capacity 
 summary: Quando você se inscreve no BlueXP  a partir do mercado de um provedor de nuvem, você é redirecionado para o site da BlueXP , onde você precisa salvar sua assinatura e associá-la a contas específicas. Depois de se inscrever, cada assinatura estará disponível para gerenciar a partir da carteira digital BlueXP . 
 ---
 = Gerencie assinaturas e contratos PAYGO
@@ -100,7 +100,7 @@ A opção Configurar fica cinza se você tiver cancelado uma assinatura.
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
 . Selecione *assinaturas do Marketplace*.
 . Selecione o menu de ação na linha que corresponde à assinatura que você deseja configurar e escolha *Configurar*.
-. Na caixa de diálogo _Configurar_, escolha uma credencial para a qual configurar a assinatura. Você só pode escolher entre as credenciais associadas ao conetor selecionado no momento. Se não vir a credencial que pretende utilizar, tente mudar para uma vista de conetor diferente. isso é descrito com precisão? N.o
+. Na caixa de diálogo _Configurar_, escolha uma credencial para a qual configurar a assinatura. Você só pode escolher entre as credenciais associadas ao conetor selecionado no momento. Se não vir a credencial que pretende utilizar, tente mudar para uma vista de conetor diferente.
 
 
 
@@ -129,7 +129,7 @@ NOTE: O BlueXP  oferece suporte ao gerenciamento de identidade e acesso (IAM) n
 
 == Exibir credenciais associadas a uma assinatura
 
-Você pode visualizar as credenciais de uma assinatura específica na página *assinaturas do Marketplace* na carteira digital. Isso permite verificar como a assinatura está sendo cobrada. Como as credenciais também estão vinculadas ao conetor que você está usando, você deve selecionar o conetor associado à assinatura que deseja ver
+Você pode visualizar as credenciais de uma assinatura específica na página *assinaturas do Marketplace* na carteira digital. Isso permite verificar como a assinatura está sendo cobrada. Como as credenciais também estão vinculadas ao conetor que você está usando, você deve selecionar o conetor associado à assinatura que deseja ver.
 
 
 NOTE: Use o conetor suspenso na barra de navegação superior para alternar os conetores, se necessário.
@@ -181,4 +181,22 @@ video::373b96de-3691-4d84-b3f3-b05101161638[panopto]
 
 . Selecione *Adicionar assinatura* para navegar até o mercado do provedor e concluir as etapas fornecidas.
 . Quando terminar no mercado do fornecedor de nuvem, volte ao BlueXP  para concluir o processo.
+
+
+
+
+=== Remover uma subscrição
+
+Quando você cancelar a assinatura de uma assinatura do BlueXP  no hyperscaler (AWS Google Cloud ou Azure), a carteira digital exibe o status da assinatura como *não subscrito*.
+
+Você pode remover assinaturas não assinadas da carteira digital para que elas não sejam mais exibidas.
+
+.Passos
+. No menu de navegação BlueXP , selecione *Governança > carteira digital*.
+. Selecione *assinaturas do Marketplace*.
+. Selecione o menu de ação na linha que corresponde à assinatura que você deseja remover escolha *Remover*.
++
+Você só pode remover assinaturas que tenham o status *Unsubscribed*.
+
+. Na caixa de diálogo *Remover assinatura*, confirme se deseja remover a assinatura.
 

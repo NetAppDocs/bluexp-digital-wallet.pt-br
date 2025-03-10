@@ -683,7 +683,6 @@
   <block id="56bba40e5f5cc68b12fbc07db999847e" category="paragraph">O formato da credencial depende do mercado que você está usando. Por exemplo, as assinaturas do Azure Marketplace estão associadas ao nome da assinatura do Azure, enquanto as assinaturas do AWS Marketplace usam o ID da conta da AWS. Você pode ver uma lista de credenciais disponíveis na página credenciais.</block>
   <block id="ccc5335acd730af69ab0b427088bef46" category="paragraph">A opção Configurar fica cinza se você tiver cancelado uma assinatura.</block>
   <block id="114bfa63105a2d23514e606861c49818" category="list-text">Selecione o menu de ação na linha que corresponde à assinatura que você deseja configurar e escolha *Configurar*.</block>
-  <block id="a02d5bdda2c413e728f48f77a424c9a4" category="list-text">Na caixa de diálogo _Configurar_, escolha uma credencial para a qual configurar a assinatura. Você só pode escolher entre as credenciais associadas ao conetor selecionado no momento. Se não vir a credencial que pretende utilizar, tente mudar para uma vista de conetor diferente. isso é descrito com precisão? N.o</block>
   <block id="5a66070f9f0ecd83dd28335db5efc481" category="section-title">Associar uma assinatura a uma organização do BlueXP </block>
   <block id="8b0d95a41f38606f34e0ab449b5ee46d" category="paragraph">Associar uma assinatura a uma organização garante que os membros dessa organização possam usar essa assinatura para cobrança.</block>
   <block id="9b5a99aec31dce1baddb14dc161239a5" category="paragraph">Você pode limitar o uso de uma assinatura a uma organização específica ou compartilhar a assinatura entre várias organizações. Você também pode substituir a assinatura de uma organização existente se surgir a necessidade.</block>
@@ -694,7 +693,6 @@
   <block id="bf82031efce8f265bece8bef7a61504f" category="list-text">Opcionalmente, use o controle deslizante para indicar que você está substituindo uma assinatura existente para a organização selecionada.</block>
   <block id="e43ddb0fd3dbaee9a42e954a181ab141" category="list-text">Selecione *Associate*.</block>
   <block id="3b446cd4e304253a8a5be3d76f1f7d85" category="section-title">Exibir credenciais associadas a uma assinatura</block>
-  <block id="f9a62957a3b5c40b90446ae870786bb9" category="paragraph">Você pode visualizar as credenciais de uma assinatura específica na página *assinaturas do Marketplace* na carteira digital. Isso permite verificar como a assinatura está sendo cobrada. Como as credenciais também estão vinculadas ao conetor que você está usando, você deve selecionar o conetor associado à assinatura que deseja ver</block>
   <block id="c2c1fba9bd77826ae21ba53eaa6f5a8e" category="admonition">Use o conetor suspenso na barra de navegação superior para alternar os conetores, se necessário.</block>
   <block id="45cdea95a34c9590c63f84497bc5f85c" category="list-text">Na linha que contém a assinatura cujas credenciais você deseja exibir, selecione Exibir. Se houver várias credenciais associadas a uma assinatura, nenhuma credencial poderá ser exibida e você será direcionado para selecionar um conetor diferente.</block>
   <block id="aea9c467234db8f0360906cb49a2233c" category="section-title">Adicionar uma nova subscrição do marketplace</block>
@@ -723,4 +721,17 @@
   <block id="b7dddfb63fd700204e12dba0c2972cb4" category="sidebar">Gerenciar assinaturas do Marketplace</block>
   <block id="77f5141787aa2cd1e98caca9f5ff20ed" category="paragraph">Cada bloco fornece uma visão geral gráfica da capacidade. Você pode visualizar a página de detalhes para ver e gerenciar métodos de pagamento para essa capacidade.</block>
   <block id="8716d9652e3590060e2dac142eea7751" category="list-text">Personalize as colunas mostradas na tabela. Você pode adicionar e remover colunas da tabela selecionando o ícone *coluna* indicando quais colunas você deseja exibir ou ocultar. A captura de tela a seguir indica que somente as colunas tipo, Data de término, Status e Configuração.</block>
+  <block id="626a42c4b175379d9d0e723ada0cf740" category="doc">Capacidade de remover assinaturas</block>
+  <block id="0d4a9d16793bcc1fc3c4982137275a77" category="paragraph">Agora você pode remover assinaturas da carteira digital se você tiver cancelado a assinatura delas.</block>
+  <block id="86eb6e7f10c1d00078e563696c2882c7" category="section-title">Exibir a capacidade consumida para assinaturas do Marketplace</block>
+  <block id="0a85a2f78dadf31d5b3bcc7353bae9d1" category="paragraph">Ao visualizar as assinaturas PAYGO, agora você pode visualizar a capacidade consumida da assinatura.</block>
+  <block id="88b1e2295dd3d145bab292b5d6b7a69d" category="list-text">Na caixa de diálogo _Configurar_, escolha uma credencial para a qual configurar a assinatura. Você só pode escolher entre as credenciais associadas ao conetor selecionado no momento. Se não vir a credencial que pretende utilizar, tente mudar para uma vista de conetor diferente.</block>
+  <block id="36faba60710a43a53c90eeea27395090" category="paragraph">Você pode visualizar as credenciais de uma assinatura específica na página *assinaturas do Marketplace* na carteira digital. Isso permite verificar como a assinatura está sendo cobrada. Como as credenciais também estão vinculadas ao conetor que você está usando, você deve selecionar o conetor associado à assinatura que deseja ver.</block>
+  <block id="c9db549b3c47c258a77389c2a1310393" category="section-title">Remover uma subscrição</block>
+  <block id="2cac1e5bd6e0f02534855a25f0ddf98b" category="paragraph">Quando você cancelar a assinatura de uma assinatura do BlueXP  no hyperscaler (AWS Google Cloud ou Azure), a carteira digital exibe o status da assinatura como *não subscrito*.</block>
+  <block id="6b083541bf531a238745c888c414e6af" category="paragraph">Você pode remover assinaturas não assinadas da carteira digital para que elas não sejam mais exibidas.</block>
+  <block id="ff0876f12c0b09da7a5bae608ec5986f" category="list-text">Selecione o menu de ação na linha que corresponde à assinatura que você deseja remover escolha *Remover*.</block>
+  <block id="2b6dc47a20b39f901a45db5ed6695823" category="paragraph">Você só pode remover assinaturas que tenham o status *Unsubscribed*.</block>
+  <block id="328bc94c6a18dd3a8b5eacb533435091" category="list-text">Na caixa de diálogo *Remover assinatura*, confirme se deseja remover a assinatura.</block>
+  <block id="f070435ef55d6c7cc1db59f0a41a4609" category="section-title">10 de março de 2025</block>
 </blocks>
