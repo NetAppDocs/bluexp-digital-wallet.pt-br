@@ -22,6 +22,9 @@ A carteira digital da BlueXP  permite que você gerencie e monitore as licença
 
 Ambas as licenças e assinaturas são exibidas automaticamente na carteira digital quando a conta BlueXP  usada para assinar também é uma conta do site de suporte da NetApp. Se você usou uma conta do BlueXP  que não está associada à sua conta do site de suporte da NetApp (NSS), precisará adicionar e atualizar manualmente as licenças e não verá a alteração de uso, capacidade e outros detalhes.
 
+
+NOTE: Você precisa ter implantado um conetor para visualizar as informações de assinatura na carteira digital. Um conetor também é necessário para visualizar as licenças de nós para o Cloud Volumes ONTAP.
+
 Enquanto isso, o BlueXP  consulta automaticamente o serviço de licenciamento da NetApp para obter detalhes sobre as licenças associadas à sua conta do site de suporte da NetApp. Se não houver erros, o BlueXP  adiciona automaticamente as licenças à carteira digital.
 
 Se o BlueXP  não conseguir adicionar a licença, você precisará adicioná-la manualmente à carteira digital. Por exemplo, se sua conta de usuário do BlueXP  não estiver associada à conta do site de suporte da NetApp, você precisará adicionar as licenças por conta própria.

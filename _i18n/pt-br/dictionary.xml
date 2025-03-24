@@ -734,4 +734,5 @@
   <block id="2b6dc47a20b39f901a45db5ed6695823" category="paragraph">Você só pode remover assinaturas que tenham o status *Unsubscribed*.</block>
   <block id="328bc94c6a18dd3a8b5eacb533435091" category="list-text">Na caixa de diálogo *Remover assinatura*, confirme se deseja remover a assinatura.</block>
   <block id="f070435ef55d6c7cc1db59f0a41a4609" category="section-title">10 de março de 2025</block>
+  <block id="341aea52571ed6aae4899a6ea183248a" category="admonition">Você precisa ter implantado um conetor para visualizar as informações de assinatura na carteira digital. Um conetor também é necessário para visualizar as licenças de nós para o Cloud Volumes ONTAP.</block>
 </blocks>
