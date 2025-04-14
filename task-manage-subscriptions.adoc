@@ -109,7 +109,7 @@ A opção Configurar fica cinza se você tiver cancelado uma assinatura.
 
 Associar uma assinatura a uma organização garante que os membros dessa organização possam usar essa assinatura para cobrança.
 
-Você pode limitar o uso de uma assinatura a uma organização específica ou compartilhar a assinatura entre várias organizações. Você também pode substituir a assinatura de uma organização existente se surgir a necessidade.
+Você pode limitar o uso de uma assinatura a uma organização específica ou compartilhar a assinatura entre várias organizações.
 
 Você deve ter a função de administrador da organização para associar uma assinatura a uma organização.
 
@@ -119,9 +119,8 @@ NOTE: O BlueXP  oferece suporte ao gerenciamento de identidade e acesso (IAM) n
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
 . Selecione *assinaturas do Marketplace*.
-. Selecione o menu de ação na linha que corresponde à assinatura que você deseja associar e escolha *Associate*.
-. Na caixa de diálogo *associar a assinatura*, escolha uma(s) organização(ões) à qual associar esta assinatura.
-. Opcionalmente, use o controle deslizante para indicar que você está substituindo uma assinatura existente para a organização selecionada.
+. Na linha da assinatura que você deseja associar, abra o menu de ação e selecione *Associate*.
+. Na caixa de diálogo *associar a subscrição*, selecione uma ou mais organizações para associar à subscrição.
 . Selecione *Associate*.
 
 
@@ -185,18 +184,39 @@ video::373b96de-3691-4d84-b3f3-b05101161638[panopto]
 
 
 
-=== Remover uma subscrição
+=== Desconfigurar uma subscrição
 
-Quando você cancelar a assinatura de uma assinatura do BlueXP  no hyperscaler (AWS Google Cloud ou Azure), a carteira digital exibe o status da assinatura como *não subscrito*.
-
-Você pode remover assinaturas não assinadas da carteira digital para que elas não sejam mais exibidas.
+Antes de remover uma assinatura, você deve desconfigurá-la. Isso limpa todos os dados e configurações associados.
 
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
 . Selecione *assinaturas do Marketplace*.
-. Selecione o menu de ação na linha que corresponde à assinatura que você deseja remover escolha *Remover*.
+. Na linha da assinatura que você deseja desconfigurar, clique no menu de ação e selecione *Unconfigure*.
+. Siga as instruções para remover ou redefinir quaisquer configurações ou dados associados.
+. Aguarde até que o status seja atualizado para *Unconfigured*.
+
+
+
+
+=== Remover uma subscrição
+
+Quando você cancelar a assinatura de uma assinatura do BlueXP  em seu provedor de nuvem (AWS, Google Cloud ou Azure), a carteira digital mostra o status da assinatura como *Unsubscribed*.
+
+Você pode remover as assinaturas *Unsubscribed* da carteira digital para que elas não apareçam mais.
+
+[NOTE]
+====
+Você só pode remover uma assinatura se ela for *unsubscribed* e *unconfigured*. Isso significa que todas as configurações, dados e configurações relacionadas devem ser apagados ou redefinidos antes da remoção.
+
+Se a assinatura ainda estiver configurada, a opção *Remover* não será exibida. Para tornar a opção disponível, desconfigure a assinatura limpando quaisquer configurações, serviços ou dados associados.
+
+====
+.Passos
+. No menu de navegação BlueXP , selecione *Governança > carteira digital*.
+. Selecione *assinaturas do Marketplace*.
+. Na linha da assinatura que você deseja remover, abra o menu de ação e selecione *Remover*.
 +
-Você só pode remover assinaturas que tenham o status *Unsubscribed*.
+Você só pode remover assinaturas com o status *Unsubscribed* e *unconfigured*.
 
 . Na caixa de diálogo *Remover assinatura*, confirme se deseja remover a assinatura.
 

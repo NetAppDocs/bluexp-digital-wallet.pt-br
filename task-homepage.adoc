@@ -57,7 +57,7 @@ image:screenshot_digital_wallet_show_hide_columns.png["screenshot fornece um exe
 . Expanda qualquer linha para ver detalhes sobre o que a assinatura ou licença inclui, a capacidade comprada e os termos.
 . Use o menu ações para gerenciar uma licença ou assinatura específica, como atualizar uma licença ou associar uma assinatura a uma organização diferente.
 +
-Você não pode adicionar novas licenças ou assinaturas da página *Visão geral* para um serviço específico. Você só pode adicionar licenças ou assinaturas da guia *licenças de serviço de dados* ou da guia *assinaturas do Marketplace*, respetivamente.
+Você não pode adicionar novas licenças ou assinaturas da página *Visão geral* para um serviço específico. Você só pode adicionar licenças ou assinaturas da guia *licenças diretas* ou da guia *assinaturas do Marketplace*, respetivamente.
 
 +
 link:task-data-services-licenses.html["Saiba mais sobre como gerenciar licenças."] link:task-manage-subscriptions.html["Saiba mais sobre como gerenciar assinaturas."]

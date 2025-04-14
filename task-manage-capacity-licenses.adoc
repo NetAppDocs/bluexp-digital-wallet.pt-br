@@ -33,7 +33,7 @@ Depois de adquirir uma licença do seu representante de vendas da NetApp, a NetA
 
 Enquanto isso, o BlueXP  consulta automaticamente o serviço de licenciamento da NetApp para obter detalhes sobre as licenças associadas à sua conta do site de suporte da NetApp. Se não houver erros, o BlueXP  adiciona automaticamente as licenças à carteira digital.
 
-Se o BlueXP  não conseguir adicionar a licença, você precisará adicioná-los manualmente à carteira digital. Por exemplo, se o conetor estiver instalado em um local que não tenha acesso à Internet, você precisará adicionar as licenças por conta própria. <<Add purchased licenses to your account,Saiba como adicionar licenças compradas à sua conta>>.
+Se o BlueXP  não conseguir adicionar a licença, você precisará adicioná-los manualmente à carteira digital. Por exemplo, se o conetor estiver instalado em um local que não tenha acesso à Internet, você precisará adicionar as licenças por conta própria. https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-data-services-licenses.html#add-a-license["Saiba como adicionar licenças compradas à sua conta"^].
 
 
 
@@ -48,7 +48,7 @@ A carteira digital BlueXP  mostra a capacidade total consumida na sua conta e a
 image:screenshot_cvo_overview_digital_wallet.png["Uma captura de tela exibindo o resumo de capacidade para suas licenças e assinaturas do Cloud Volumes ONTAP."]
 
 +
-** _Licença de serviço de dados_ é a capacidade total provisionada de todos os sistemas Cloud Volumes ONTAP em sua conta do NetApp. O carregamento é baseado no tamanho provisionado de cada volume, independentemente do espaço local, usado, armazenado ou efetivo dentro do volume.
+** _Licença direta_ é a capacidade total provisionada de todos os sistemas Cloud Volumes ONTAP em sua conta do NetApp. O carregamento é baseado no tamanho provisionado de cada volume, independentemente do espaço local, usado, armazenado ou efetivo dentro do volume.
 ** _Contrato anual_ é a capacidade total licenciada (traga sua própria licença (BYOL) ou Contrato de mercado) que você comprou da NetApp.
 ** _PAYGO_ é a capacidade total provisionada usando assinaturas do mercado de nuvem. O carregamento via PAYGO é usado somente se a capacidade consumida for superior à capacidade licenciada ou se não houver licença BYOL disponível na carteira digital BlueXP .
 
@@ -112,14 +112,11 @@ O BlueXP  sempre tenta cobrar uma licença primeiro. Se uma licença não estiv
 +
 image:screenshot_digital_wallet_legacy_view.png["Uma captura de tela do botão mudar para a exibição Legacy"]
 
-. Role para baixo até a tabela *Licença baseada em capacidade* e selecione *alterar método de carregamento*.
+. Role para baixo até a tabela *licença baseada em capacidade* e selecione *alterar método de carregamento*.
 +
-image:screenshot-digital-wallet-charging-method-button.png["Uma captura de tela da página Cloud Volumes ONTAP na carteira digital do BlueXP , onde o botão alterar método de carregamento está logo acima da tabela."]
+image:screenshot-digital-wallet-charging-method-button.png["Uma captura de tela da página Cloud Volumes ONTAP na carteira digital BlueXP , onde o botão alterar método de carregamento está logo acima da tabela."]
 
-. Selecione um ambiente de trabalho, escolha o novo método de carregamento e, em seguida, confirme que a alteração do tipo de pacote afetará as taxas de serviço.
-+
-image:screenshot-digital-wallet-charging-method.png["Uma captura de tela da caixa de diálogo alterar método de carregamento, na qual você escolhe um novo método de carregamento para um ambiente de trabalho do Cloud Volumes ONTAP."]
-
+. No pop-up *Change charging Method*, selecione um ambiente de trabalho, escolha o novo método de carregamento e, em seguida, confirme que a alteração do tipo de pacote afetará as taxas de serviço.
 . Selecione *alterar método de carregamento*.
 
 

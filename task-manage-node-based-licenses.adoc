@@ -82,8 +82,8 @@ Se você tiver uma licença não atribuída baseada em nó para Cloud Volumes ON
 
 A troca da licença revoga a licença Cloud Volumes ONTAP e cria uma licença equivalente a dólar para o serviço:
 
-* O licenciamento de um par de HA do Cloud Volumes ONTAP é convertido para uma licença de serviço de dados TIB de 51 TB
-* O licenciamento para um nó único do Cloud Volumes ONTAP é convertido em uma licença de serviço de dados TIB de 32 TB
+* O licenciamento de um par de HA da Cloud Volumes ONTAP é convertido em uma licença direta de 51 TIB
+* O licenciamento para um nó único do Cloud Volumes ONTAP é convertido em uma licença direta de 32 TIB
 
 
 A licença convertida tem a mesma data de validade que a licença Cloud Volumes ONTAP.

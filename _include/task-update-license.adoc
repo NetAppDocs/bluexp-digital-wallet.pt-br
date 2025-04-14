@@ -18,9 +18,9 @@ NOTE: Se pretender introduzir o número de série, primeiro tem de https://docs.
 .Passos
 . Entre em Contato com seu representante da NetApp para comprar uma nova licença.
 +
-Depois de pagar a licença e esta ser registada no site de suporte da NetApp, a BlueXP  atualiza automaticamente a licença na carteira digital da BlueXP  e a página de licenças de serviço de dados refletirá a alteração em 5 a 10 minutos.
+Depois de pagar a licença e ela estiver registrada no site de suporte da NetApp, a BlueXP  atualiza automaticamente a licença na carteira digital da BlueXP  e a página *licenças diretas* refletirá a alteração em 5 a 10 minutos.
 
 . Se o BlueXP  não conseguir atualizar automaticamente a licença (por exemplo, ao usar o BlueXP  no modo privado), você precisará obter um arquivo de licença do NetApp do suporte e fazer o upload manual do arquivo de licença. <<obtain-license,Saiba como obter um arquivo de licença.>>
-. Na guia _licenças de serviço de dados_, image:icon-action.png["Ícone mais"]selecione para o número de série que você está atualizando e selecione *Atualizar licença*.
-. Na página _Atualizar licença_, carregue o arquivo de licença e selecione *Atualizar licença*.
+. Na guia *licenças diretas*, image:icon-action.png["Ícone mais"]selecione para o número de série que está atualizando e selecione *Atualizar licença*.
+. Na página *Atualizar licença*, carregue o ficheiro de licença e selecione *Atualizar licença*.
 

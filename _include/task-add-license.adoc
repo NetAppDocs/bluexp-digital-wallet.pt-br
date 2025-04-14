@@ -12,7 +12,7 @@ Depois de adquirir uma licença do seu representante de vendas da NetApp, a NetA
 NOTE: Se pretender introduzir o número de série, primeiro tem de https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Adicione sua conta do site de suporte da NetApp ao BlueXP"^]. Esta é a conta do site de suporte da NetApp que está autorizada a acessar o número de série.
 
 .Passos
-. No menu BlueXP , selecione *Governança > carteira digital* e, em seguida, selecione a guia *licenças de serviços de dados*.
+. No menu BlueXP , selecione *Governança > carteira digital* e, em seguida, selecione a guia *licenças diretas*.
 . Selecione *Adicionar licença*.
 . Na caixa de diálogo _Adicionar licença_, insira as informações da licença e selecione *Adicionar licença*:
 +

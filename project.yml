@@ -26,7 +26,7 @@ sidebar:
       url: "/task-homepage.html"
     - title: Gerenciar licenças
       entries:
-      - title: Gerenciar licenças de serviço de dados
+      - title: Gerenciar licenças diretas
         url: "/task-manage-data-services-licenses.html"
       - title: Gerenciar licenças para Cloud Volumes ONTAP
         entries:

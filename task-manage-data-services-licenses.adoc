@@ -17,7 +17,7 @@ summary: 'A carteira digital da BlueXP  permite gerenciar as licenças adquirid
 A carteira digital da BlueXP  permite que você gerencie as licenças adquiridas diretamente do NetApp (BYOL) para uso com serviços de dados da BlueXP , incluindo o Cloud volumes for ONTAP. Você pode ver a capacidade de licença usada, a quantidade de capacidade livre que você deixou e verá notificações se você atingiu o limite de capacidade ou a data de expiração.
 
 
-NOTE: A página *licenças de serviço de dados* lista todas as licenças. Se você quiser detalhes de licença para um serviço de dados específico, use os blocos de serviço de dados no painel *Visão geral*. link:task-homepage.html#overview-page["Saiba mais sobre o painel Visão geral"].
+NOTE: A página *licenças diretas* lista todas as licenças. Se você quiser detalhes de licença para um serviço de dados específico, use os blocos de serviço de dados no painel *Visão geral*. link:task-homepage.html#overview-page["Saiba mais sobre o painel Visão geral"].
 
 As instruções nesta página fornecem informações que se aplicam a cada serviço. Para obter informações mais específicas sobre o licenciamento desses serviços, consulte as páginas a seguir:
 
@@ -84,7 +84,7 @@ Depois de adquirir uma licença do seu representante de vendas da NetApp, a NetA
 NOTE: Se pretender introduzir o número de série, primeiro tem de https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Adicione sua conta do site de suporte da NetApp ao BlueXP"^]. Esta é a conta do site de suporte da NetApp que está autorizada a acessar o número de série.
 
 .Passos
-. No menu BlueXP , selecione *Governança > carteira digital* e, em seguida, selecione a guia *licenças de serviços de dados*.
+. No menu BlueXP , selecione *Governança > carteira digital* e, em seguida, selecione a guia *licenças diretas*.
 . Selecione *Adicionar licença*.
 . Na caixa de diálogo _Adicionar licença_, insira as informações da licença e selecione *Adicionar licença*:
 +
@@ -120,9 +120,20 @@ NOTE: Se pretender introduzir o número de série, primeiro tem de https://docs.
 .Passos
 . Entre em Contato com seu representante da NetApp para comprar uma nova licença.
 +
-Depois de pagar a licença e esta ser registada no site de suporte da NetApp, a BlueXP  atualiza automaticamente a licença na carteira digital da BlueXP  e a página de licenças de serviço de dados refletirá a alteração em 5 a 10 minutos.
+Depois de pagar a licença e ela estiver registrada no site de suporte da NetApp, a BlueXP  atualiza automaticamente a licença na carteira digital da BlueXP  e a página *licenças diretas* refletirá a alteração em 5 a 10 minutos.
 
 . Se o BlueXP  não conseguir atualizar automaticamente a licença (por exemplo, ao usar o BlueXP  no modo privado), você precisará obter um arquivo de licença do NetApp do suporte e fazer o upload manual do arquivo de licença. <<obtain-license,Saiba como obter um arquivo de licença.>>
-. Na guia _licenças de serviço de dados_, image:icon-action.png["Ícone mais"]selecione para o número de série que você está atualizando e selecione *Atualizar licença*.
-. Na página _Atualizar licença_, carregue o arquivo de licença e selecione *Atualizar licença*.
+. Na guia *licenças diretas*, image:icon-action.png["Ícone mais"]selecione para o número de série que está atualizando e selecione *Atualizar licença*.
+. Na página *Atualizar licença*, carregue o ficheiro de licença e selecione *Atualizar licença*.
+
+
+
+
+== Ver o estado da licença
+
+Para gerenciar licenças, você pode agrupar licenças com base no nome do serviço. Isso permite que você veja todas as licenças relacionadas a um serviço específico. Você pode expandir uma linha para exibir informações detalhadas sobre cada licença relacionada ao serviço. A linha raiz de cada serviço exibe o nome do serviço e a capacidade usada para esse serviço. As licenças são agrupadas automaticamente pelo nome do serviço. A linha raiz de cada serviço mostra o nome do serviço e a capacidade usada para esse serviço.
+
+.Passos
+. No menu BlueXP , selecione *Governança* > *carteira digital* e, em seguida, selecione a guia *licenças diretas*.
+. Clique em uma linha de nome de serviço para expandi-la. Isso exibe todas as licenças relacionadas a esse serviço. Cada linha expandida exibe informações detalhadas sobre as licenças, incluindo ID da licença, número de série, capacidade e data de expiração.
 
