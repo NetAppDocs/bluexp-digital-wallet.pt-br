@@ -307,16 +307,6 @@
   <block id="9906134ee224bc081497b19c4269cc34" category="paragraph">Se uma licença de capacidade extra expirou e não está mais em uso, você pode removê-la a qualquer momento.</block>
   <block id="c320af21170d1ca43751b7580a1125f4" category="list-text">Clique no menu de ação ao lado da licença de capacidade e selecione *Remover licença*.</block>
   <block id="03b194a23dcb353466fbfb7acff64363" category="list-text">Clique em *Remover*.</block>
-  <block id="b38317f372e5ede5e8e7662a6abf56de" category="section-title">Converta uma licença Eval em um BYOL</block>
-  <block id="6f3e45030426e1b86c424d2780111d20" category="paragraph">Uma licença de avaliação é boa por 30 dias. Você pode aplicar uma nova licença BYOL além da licença de avaliação para uma atualização no local.</block>
-  <block id="6e7fc6b7eae0415b78955003531a799e" category="paragraph">Quando você converte uma licença do Eval para um BYOL, o BlueXP  reinicia o sistema Cloud Volumes ONTAP.</block>
-  <block id="9a640fdf29d0376d44625fbe7757592a" category="list-text">Para um sistema de nó único, a reinicialização resulta em interrupção de e/S durante o processo de reinicialização.</block>
-  <block id="a1b2198d5e77e52b34a9567f6e8204f9" category="list-text">Para um par de HA, a reinicialização inicia o takeover e a giveback para continuar fornecendo e/S aos clientes.</block>
-  <block id="b7c7df7a1f738eeeb402c8feafc80dba" category="list-text">Clique em *Eval*.</block>
-  <block id="fcb9420dfbbc4a57ba1b1a992a71d207" category="list-text">Na tabela, clique em *Converter para Licença BYOL* para um sistema Cloud Volumes ONTAP.</block>
-  <block id="e539cbd6aefe9d1fb7bc951680944206" category="list-text">Introduza o número de série ou carregue o ficheiro de licença.</block>
-  <block id="b171537681ac6ab38d6353435252c4f1" category="list-text">Clique em *Converter Licença*.</block>
-  <block id="629b6ceff1a1b74de909c5f304f623b9" category="paragraph">O BlueXP  inicia o processo de conversão. O Cloud Volumes ONTAP reinicia automaticamente como parte desse processo. Quando for feita uma cópia de segurança, as informações de licenciamento refletirão a nova licença.</block>
   <block id="594cb44c6500d8855ad820b0653e02c7" category="section-title">Mudança entre PAYGO e BYOL</block>
   <block id="a704128156d562fe5860508e9584ee34" category="paragraph">A conversão de um sistema do licenciamento por nó PAYGO para o licenciamento por nó BYOL (e vice-versa) não é suportada. Se você quiser alternar entre uma assinatura paga conforme o uso e uma assinatura BYOL, precisará implantar um novo sistema e replicar dados do sistema existente para o novo sistema.</block>
   <block id="7f7c7e70efe0e6e29f5d0b207145f30e" category="list-text">Crie um novo ambiente de trabalho do Cloud Volumes ONTAP.</block>
@@ -618,7 +608,6 @@
   <block id="8ac1ecc7ceb7a49d071b4f1b71f0e176" category="section-title">Visualização dos detalhes do pacote</block>
   <block id="f88e8fee4b6b78cbc9779b73098653b5" category="paragraph">Você pode exibir detalhes sobre a capacidade usada por pacote, alternando para o modo legado na página Cloud Volumes ONTAP.</block>
   <block id="4a95292c803539c8cf72591c54db0644" category="list-text">Selecione *View* para ver a capacidade provisionada para cada um dos seus pacotes de licenciamento.</block>
-  <block id="28db6f5e86482ae58b9becef415d1abc" category="list-text">Selecione *mudar para a visualização Legacy*.</block>
   <block id="13bb1907bdca20408e78b483332beab6" category="inline-image-macro">Uma captura de tela do botão mudar para a exibição Legacy</block>
   <block id="ad8dd0162f38eb308d880b20d20ab47e" category="paragraph"><block ref="ad8dd0162f38eb308d880b20d20ab47e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="31ccaa5879eee7a69ef3c48f1004c59c" category="list-text">A alteração do método de cobrança não afeta se você é cobrado por meio de uma licença comprada da NetApp (BYOL) ou da assinatura do mercado do seu provedor de nuvem de pagamento conforme o uso (PAYGO).</block>
@@ -744,4 +733,10 @@
   <block id="f718d4efc769e352af879333b97563c1" category="list-text">Na linha da assinatura que você deseja remover, abra o menu de ação e selecione *Remover*.</block>
   <block id="d945569d4f85da82c21c1eedda61f245" category="paragraph">Você só pode remover assinaturas com o status *Unsubscribed* e *unconfigured*.</block>
   <block id="22a93e112ce29f0d1e8dfc0ede83e119" category="sidebar">Gerenciar licenças diretas</block>
+  <block id="40d1f3228e91a00383279859612f7ba5" category="list-text">Selecione *mudar para vista avançada*.</block>
+  <block id="3df898a44cd4e747f0651fff3683bca8" category="inline-image-macro">Uma captura de tela do botão alternar para visualização avançada</block>
+  <block id="d4de4fdd26abe13af932d9682aa962d4" category="paragraph"><block ref="d4de4fdd26abe13af932d9682aa962d4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cf5e0e2d5e3b97433dcea18ed2c97b91" category="list-text">Veja os detalhes do pacote que você deseja ver.</block>
+  <block id="f651647ac9ca970bf81f92917731dcbb" category="inline-image-macro">Uma captura de tela do botão alternar para a exibição padrão</block>
+  <block id="20dbfe4510a959e2d164802031656e83" category="paragraph"><block ref="20dbfe4510a959e2d164802031656e83" category="inline-image-macro-rx" type="image"></block></block>
 </blocks>

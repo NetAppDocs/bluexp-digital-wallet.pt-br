@@ -82,9 +82,13 @@ Você pode exibir detalhes sobre a capacidade usada por pacote, alternando para 
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
 . Na guia *Visão geral*, o bloco Cloud Volumes ONTAP exibe a capacidade atual provisionada para sua conta.
 . Selecione *View* para ver a capacidade provisionada para cada um dos seus pacotes de licenciamento.
-. Selecione *mudar para a visualização Legacy*.
+. Selecione *mudar para vista avançada*.
 +
-image:screenshot_digital_wallet_legacy_view.png["Uma captura de tela do botão mudar para a exibição Legacy"]
+image:screenshot_digital_wallet_legacy_view.png["Uma captura de tela do botão alternar para visualização avançada"]
+
+. Veja os detalhes do pacote que você deseja ver.
++
+image:screenshot_digital_wallet_standard_view.png["Uma captura de tela do botão alternar para a exibição padrão"]
 
 
 
@@ -108,7 +112,7 @@ O BlueXP  sempre tenta cobrar uma licença primeiro. Se uma licença não estiv
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
 . Selecione a guia *Visão geral*.
 . No mosaico Cloud Volumes ONTAP, selecione *Exibir*.
-. Selecione *mudar para a visualização Legacy*.
+. Selecione *mudar para vista avançada*.
 +
 image:screenshot_digital_wallet_legacy_view.png["Uma captura de tela do botão mudar para a exibição Legacy"]
 
