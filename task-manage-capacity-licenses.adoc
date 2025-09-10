@@ -143,7 +143,7 @@ Os seguintes relatórios estão disponíveis para download. Os valores de capaci
 ** Capacidade total PAYGO
 
 
-* *Uso do pacote Cloud Volumes ONTAP*: Este relatório inclui as seguintes informações para cada pacote, exceto o pacote de e/S otimizado:
+* * Uso do pacote Cloud Volumes ONTAP *: Este relatório inclui as seguintes informações para cada pacote:
 +
 ** Capacidade total consumida
 ** Capacidade total pré-comprometida

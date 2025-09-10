@@ -38,15 +38,12 @@
   <block id="52ba8ac12050d2494572b940a0d65b25" category="paragraph"><block ref="52ba8ac12050d2494572b940a0d65b25" category="inline-link-rx"></block></block>
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">O NetApp fornece suporte para BlueXP  de várias maneiras. Amplas opções gratuitas de suporte autônomo estão disponíveis 24 horas por dia, 7 dias por semana, como artigos da base de conhecimento (KB) e um fórum da comunidade. O seu registo de suporte inclui suporte técnico remoto através de Bilheteira na Web.</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">Obtenha ajuda</block>
-  <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">A NetApp oferece suporte ao BlueXP  e seus serviços de nuvem de várias maneiras. Amplas opções gratuitas de suporte autônomo estão disponíveis 24 horas por dia, 7 dias por semana, como artigos da base de conhecimento (KB) e um fórum da comunidade. O seu registo de suporte inclui suporte técnico remoto através de Bilheteira na Web.</block>
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">Obtenha suporte para um serviço de arquivos do provedor de nuvem</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Para obter suporte técnico relacionado a um serviço de arquivo de provedor de nuvem, sua infraestrutura ou qualquer solução usando o serviço, consulte "obter ajuda" na documentação do BlueXP  para esse produto.</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSX para ONTAP</block>
   <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
   <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
-  <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">Cloud Volumes Service para Google Cloud</block>
-  <block id="cf14bff66a8b72d3675db8ffe0f02ee3" category="list-text"><block ref="cf14bff66a8b72d3675db8ffe0f02ee3" category="inline-link-macro-rx"></block></block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Para receber suporte técnico específico da BlueXP  e de suas soluções e serviços de storage, use as opções de suporte descritas abaixo.</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">Use opções de suporte autônomo</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Estas opções estão disponíveis gratuitamente, 24 horas por dia, 7 dias por semana:</block>
@@ -286,8 +283,6 @@
   <block id="c7db6ec8c72cc25c90f19ebafe2ddfbd" category="paragraph"><block ref="c7db6ec8c72cc25c90f19ebafe2ddfbd" category="inline-image-macro-rx" type="image"></block></block>
   <block id="74fd2dac6a51b8a94f6612bae65dcbdf" category="list-text">Escolha se você deseja receber o arquivo JSON serialnumber.NLF por e-mail ou download direto.</block>
   <block id="58f676020d30c00d4b3fb18fc835e7ca" category="section-title">Atualizar uma licença de sistema</block>
-  <block id="34a3a4e91ba83bf9b417b1453a1dbdc6" category="paragraph">Quando você renova uma assinatura BYOL entrando em Contato com um representante da NetApp, o BlueXP  obtém automaticamente a nova licença do NetApp e a instala no sistema Cloud Volumes ONTAP.</block>
-  <block id="579ed3178fe639cd20c8874360f7ff2f" category="paragraph">Se o BlueXP  não conseguir acessar o arquivo de licença pela conexão segura à Internet, você pode obter o arquivo sozinho e, em seguida, carregar o arquivo manualmente para o BlueXP .</block>
   <block id="eda4b0f5ee71694deda064c01799f329" category="list-text">Na guia *BYOL*, expanda os detalhes de um sistema Cloud Volumes ONTAP.</block>
   <block id="d91a847294f18b5d31d438a059c2532d" category="list-text">Clique no menu de ação ao lado da licença do sistema e selecione *Atualizar Licença*.</block>
   <block id="98022931ad96bfc8db710666a48e0416" category="list-text">Carregue o ficheiro de licença (ou ficheiros se tiver um par de HA).</block>
@@ -399,8 +394,6 @@
   <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">Selecione *Adicionar credenciais NSS* e siga o prompt de autenticação do site de suporte da NetApp (NSS).</block>
   <block id="cfc5506589d5a4d055e721267d5f0732" category="list-text">Para confirmar que o processo de Registro foi bem-sucedido, selecione o ícone Ajuda e selecione *suporte*.</block>
   <block id="2ba7f9eae7a02f9c3ac0fc07517d1c48" category="paragraph">A página *recursos* deve mostrar que sua organização do BlueXP  está registrada para suporte.</block>
-  <block id="10c56875db7a47f791d653e5d5bff0e9" category="inline-image-macro">Uma captura de tela que mostra um número de série de conta e uma caixa de seleção verde e o texto registrado para suporte.</block>
-  <block id="3d183819a15163ef2e2e7d9d764254a9" category="paragraph"><block ref="3d183819a15163ef2e2e7d9d764254a9" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c05e530d1466e986d570cfe3f92656c3" category="paragraph">Observe que outros usuários do BlueXP  não verão esse mesmo status de Registro de suporte se não tiverem associado uma conta do site de suporte da NetApp ao login do BlueXP . No entanto, isso não significa que sua organização do BlueXP  não esteja registrada para suporte. Desde que um usuário na organização tenha seguido esses passos, sua organização foi registrada.</block>
   <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">Cliente existente, mas sem conta NSS</block>
   <block id="bdd862f49d428a850400bcf2f53cdaf2" category="paragraph">Se você já é um cliente NetApp com licenças e números de série existentes, mas _no_ conta NSS, você precisa criar uma conta NSS e associá-la ao seu login no BlueXP .</block>
@@ -614,7 +607,6 @@
   <block id="2daabc6822724771970f17e8ae6a4cee" category="list-text">Selecione a guia *Visão geral*.</block>
   <block id="5b37c7034b369fcc6d9b931180eef46f" category="list-text">No mosaico Cloud Volumes ONTAP, selecione *Exibir*.</block>
   <block id="a9bcc09a5114887c29b3f365ee72e9e5" category="list-text">*Uso de alto nível*: Este relatório inclui as seguintes informações:</block>
-  <block id="4600869c8040d8603fe9dbe6d56a2b2a" category="list-text">*Uso do pacote Cloud Volumes ONTAP*: Este relatório inclui as seguintes informações para cada pacote, exceto o pacote de e/S otimizado:</block>
   <block id="a65d4ec7ff2941ad2ea2bc688a6dbbb3" category="list-text">*Uso de VMs de armazenamento*: Este relatório mostra como a capacidade carregada é dividida em sistemas Cloud Volumes ONTAP e máquinas virtuais de armazenamento (SVMs). Esta informação só está disponível no relatório. Contém as seguintes informações:</block>
   <block id="b2b74732b80350970fadfac4db3ba17e" category="list-text">Na guia *Visão geral*, selecione *Exibir* no bloco Cloud Volumes ONTAP.</block>
   <block id="f4c2ce2a853a74c3742ccc54482c074e" category="list-text">Selecione *Relatório de uso*.</block>
@@ -739,4 +731,238 @@
   <block id="cf5e0e2d5e3b97433dcea18ed2c97b91" category="list-text">Veja os detalhes do pacote que você deseja ver.</block>
   <block id="f651647ac9ca970bf81f92917731dcbb" category="inline-image-macro">Uma captura de tela do botão alternar para a exibição padrão</block>
   <block id="20dbfe4510a959e2d164802031656e83" category="paragraph"><block ref="20dbfe4510a959e2d164802031656e83" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="486c0e58304417d548694e3073643b23" category="summary">Gerencie seu Processo de Oferta Privada de ponta a ponta, geral e específico do Hyperscaler, e os guias de aceitação e ativação do NetApp Intelligent Services para AWS, Azure e Google Cloud.</block>
+  <block id="287a1dce8b83044abd5ba4b137cc9356" category="doc">Aceitar e configurar uma oferta privada do AWS Marketplace para o NetApp Cloud Insights</block>
+  <block id="560fba0230ed4fcc4aa5b550943e5c6e" category="paragraph">Aceite uma oferta privada do Marketplace para o NetApp Cloud Insights no console da AWS.  Conecte a assinatura da AWS a um ambiente de trabalho do Cloud Insights .</block>
+  <block id="e38cc8289ffa475f2f52eb3626b0751a" category="list-text">Trabalhe com as vendas da NetApp para criar uma oferta privada e obter o link da oferta.</block>
+  <block id="a7ff81dfc486abee13341131466e6038" category="list-text">Trabalhe com as vendas da NetApp para criar um ambiente de trabalho do Cloud Insights e adicione seu e-mail com a função *Proprietário*.</block>
+  <block id="7bdb1970dfaaab5dac12a9d4105e0f76" category="inline-link-macro">Permissões do AWS Marketplace</block>
+  <block id="5291ea6312230025a44105528f9ae707" category="list-text">Certifique-se de ter o necessário<block ref="263b0644c4910f8bdcb4766350c819a3" category="inline-link-macro-rx"></block></block>
+  <block id="09d9df0afa016eba24d822b0fab07ad9" category="section-title">Aceite a oferta privada no console da AWS</block>
+  <block id="b92d9c0960b55910e18fa0cba585a0e6" category="paragraph">Você deve concluir todas as etapas para ativar sua oferta privada.  Pular etapas pode causar problemas de ativação ou erros de cobrança, incluindo cobrança dupla.</block>
+  <block id="82c11d575f59d1f0633f2ab1f72cf2fb" category="list-text">Clique no link de ativação da oferta privada fornecido pela sua equipe de vendas da NetApp .  O link deve ser semelhante ao seguinte:<block ref="e8da69261a2e7defb7c8e446536dda38" prefix=" " category="inline-code"></block></block>
+  <block id="76c2641fba3d253c350ef7435f955f42" category="paragraph">Se você não recebeu um link de ativação, poderá visualizar todas as ofertas privadas no console da AWS.</block>
+  <block id="ab6a2a55861781608c66e0b9965983e1" category="list-text">Políticas gerenciadas necessárias: *AWSMarketplaceRead-only*, *AWSMarketplaceManageSubscriptions* ou *AWSMarketplaceFullAccess*</block>
+  <block id="c8a06e7e3b12ddb42900b632a628af3c" category="list-text">Se estiver usando políticas de IAM personalizadas:<block ref="ff04429efaed7625c69c6d08008313b5" prefix=" " category="inline-code"></block> e<block ref="326720e7bae8966d6ca9815f71034380" prefix=" " category="inline-code"></block></block>
+  <block id="272f877168d816197d5b7d7249493794" category="list-text">Você será redirecionado ao AWS Marketplace para visualizar e aceitar a oferta privada.</block>
+  <block id="ed531c62409749839128abc4ac3024b2" category="paragraph">Ofertas privadas são criadas com base em listagens públicas.  Use o menu suspenso *Seleção de oferta* para alternar entre ofertas públicas e privadas.</block>
+  <block id="0b94c882930f40c2c741363078d2ee74" category="list-text">Revise os detalhes da oferta privada e confirme se eles correspondem ao seu acordo.</block>
+  <block id="ade95ed1635e6e04c5fc70243e91b88b" category="list-text">Se as informações estiverem incorretas, não aceite.  Entre em contato com a equipe de vendas da NetApp para alterar a oferta.</block>
+  <block id="dbfca4d00890fc1d9a6c8223fb50f6c2" category="list-text">A cobrança começa quando você seleciona *Assinar*.</block>
+  <block id="1aa0cd62a671b8f1ba9f6e1bbdcfaba3" category="paragraph">Existem dois tipos de ofertas privadas na AWS:</block>
+  <block id="b1f68330f38d69d3686f740e31c6d5b1" category="list-text">*Uso sob demanda*</block>
+  <block id="989c9d336b48f059c4d11f6a24942a33" category="list-text">Informações sobre preços</block>
+  <block id="b0f259fa317864ce24dbbe5ad867e3a4" category="list-text">Termos legais</block>
+  <block id="38051ece51b996f233648f7f33667245" category="list-text">*Contrato*</block>
+  <block id="9a827e338cd6868f9e816f40ee21a2ad" category="list-text">Duração e datas</block>
+  <block id="877816703aaff9a793d10b57c4f3d74b" category="list-text">Configurações de renovação</block>
+  <block id="3c2829dbb4c3ce0e6c77b1ca57204aac" category="list-text">Opções de contrato</block>
+  <block id="dde6c83692973edca761850557257be5" category="list-text">Preço total do contrato</block>
+  <block id="194070daee8c3e04c357ae6e369b3441" category="paragraph">Para ofertas de contrato, insira o número de unidades gerenciadas conforme acordado.</block>
+  <block id="ad4d2096632e8dd41126e7bbcc740197" category="list-text">Para aceitar a oferta privada:</block>
+  <block id="6e0d4ea20631710cd0475440fa61cba7" category="list-text">Para uso sob demanda, clique em *Inscrever-se*.</block>
+  <block id="2328a0802fe5ec750c1ee07b93108711" category="list-text">Para ofertas de contrato, insira o número de unidades gerenciadas para cada serviço e clique em *Criar contrato*.</block>
+  <block id="5f1a0798d0df80b1a31e0c8e4d4fd174" category="list-text">Após a aceitação, um banner confirma que você se inscreveu com sucesso e fornece as próximas etapas.</block>
+  <block id="dabae0fd96038da09b825a44b9cb885a" category="list-text">Clique em *Configurar sua conta*.  Isso redireciona você para o NetApp Cloud Insights para configurar sua assinatura do Marketplace.</block>
+  <block id="5ba471c397a6aa5cb7905734ced8cba5" category="paragraph">Se a oferta foi aceita, mas o registro não foi concluído, retorne à página do produto.  Você será solicitado a concluir o registro.</block>
+  <block id="4dfcec3f4a2c5d3ce1a39ed9226340a3" category="paragraph">Para ofertas de contrato, clique em *Exibir opções de compra* para visualizar a oferta privada e, em seguida, selecione *Configurar sua conta*.</block>
+  <block id="c820d1cfe9ec14fd8a9ec4a3bf722904" category="section-title">Conecte a assinatura ao Cloud Insights</block>
+  <block id="c2be9474300ae59f234b8d4b65edc5c6" category="list-text">Você é redirecionado para<block ref="e5bb5326e5083abca13227bdaf5c074f" category="inline-link-rx"></block> e será solicitado a fazer login com sua conta BlueXP .</block>
+  <block id="e74dac098e1e1a1653bb3c6ae20e4373" category="list-text">Efetue login com uma conta que tenha a função *Proprietário*.  A assinatura está associada ao seu ambiente de trabalho do Cloud Insights .</block>
+  <block id="2bf4dc14f7dcacd1058fd0fdf204e2ec" category="paragraph">Esta etapa é necessária apenas uma vez para cada assinatura.  Renovações e complementos são aplicados automaticamente.</block>
+  <block id="8d39edd9872c95cf6228e7cdd1548d9c" category="list-text">A assinatura agora está conectada.</block>
+  <block id="4344fe263afb8c66660fa11af0b31a35" category="doc">Aceitar e configurar uma oferta privada do AWS Marketplace para o NetApp BlueXP</block>
+  <block id="7a119be870b49688f8c438b7a7119786" category="paragraph">Aceite uma oferta privada do Marketplace para o NetApp BlueXP no console da AWS e configure as credenciais da AWS no NetApp BlueXP.</block>
+  <block id="e42fe00103b11c26a130efa909bb5a84" category="list-text">Trabalhe com as vendas da NetApp para criar uma oferta privada e obter o link de ativação.</block>
+  <block id="514210ca19d963f85ab4ed1d6e72df32" category="list-text">Certifique-se de ter as permissões necessárias do AWS Marketplace:</block>
+  <block id="9b0cad6850cfb6b3550c8a17e7be435b" category="inline-link-macro">Visualizar e assinar uma oferta privada</block>
+  <block id="c3f1185d398ba0919b1e1de888c27261" category="list-text"><block ref="c3f1185d398ba0919b1e1de888c27261" category="inline-link-macro-rx"></block></block>
+  <block id="eddabc606d42f919a6957cf8c062b45b" category="inline-link-macro">Validação de permissões do comprador</block>
+  <block id="5669e814cce268752252c43ffbb097b9" category="list-text"><block ref="5669e814cce268752252c43ffbb097b9" category="inline-link-macro-rx"></block></block>
+  <block id="e6b00c26f9031fc70d0668c4aaca18c9" category="paragraph">É necessário concluir a atribuição de assinatura na Carteira Digital para ativar a compra e aplicar o preço com desconto.</block>
+  <block id="5277c9848e0bbe319cb5f8129fe4c77b" category="paragraph">Você deve concluir todas as etapas para ativar sua oferta privada.  Pular etapas pode resultar em erros de cobrança.  Aceitar e ativar a oferta várias vezes resulta em cobrança dupla.</block>
+  <block id="69ab7cbfb20290fc5a153bd4d1e77e2d" category="list-text">Clique no link de ativação da oferta privada da sua equipe de vendas da NetApp .  O link deve ser semelhante ao seguinte:<block ref="e8da69261a2e7defb7c8e446536dda38" prefix=" " category="inline-code"></block></block>
+  <block id="3aa206f6a7574e314eb4973a2b96b331" category="list-text">Usando políticas gerenciadas pela AWS: *AWSMarketplaceRead-only*, *AWSMarketplaceManageSubscriptions* ou *AWSMarketplaceFullAccess*</block>
+  <block id="bc5572c241330df8ef51ced4284b0bdf" category="list-text">Usando políticas de IAM personalizadas:<block ref="ff04429efaed7625c69c6d08008313b5" prefix=" " category="inline-code"></block> e<block ref="326720e7bae8966d6ca9815f71034380" prefix=" " category="inline-code"></block></block>
+  <block id="e0d6be37107f0e0cac8ae690935c3953" category="list-text">Você será redirecionado ao AWS Marketplace para visualizar a oferta privada.</block>
+  <block id="1052057eae38b60ef2718c5db26314fd" category="list-text">Revise os detalhes da oferta privada e confirme se eles correspondem ao seu acordo.  Se estiverem incorretas, não aceite.  Entre em contato com sua equipe de contas da NetApp .</block>
+  <block id="137e4e5a2d3b2312abe2fdc399f7a015" category="paragraph">Existem dois tipos de ofertas privadas:</block>
+  <block id="b43c2b4893351e438e51acfa55e878f2" category="paragraph">Para ofertas de contrato, insira o número de unidades acordadas.  Para o Cloud Volumes ONTAP, certifique-se de selecionar a licença correta antes de assinar.</block>
+  <block id="260570d179a259556c7bafc6eb55af17" category="list-text">Para aceitar a oferta privada, faça o seguinte:</block>
+  <block id="2120ac26a0fb66eb1e68af4f82592f26" category="list-text">Para ofertas de contrato, insira o número de unidades para cada serviço e clique em *Criar contrato*.</block>
+  <block id="20d4f676d944ace93b6fd5ea20a1cd60" category="list-text">Após a aceitação, um banner confirma a inscrição e fornece instruções de registro.</block>
+  <block id="67453003d932a1508a60d62c5c6dea95" category="list-text">Clique em *Configurar sua conta*.  Isso redireciona para o NetApp BlueXP para configurar a assinatura.</block>
+  <block id="45a07e7bbaedb6a22c302c7002488d2a" category="paragraph">Se você aceitou a oferta, mas não concluiu o registro, retorne à página do produto.  Para listagens de contratos, clique em *Exibir opções de compra* para exibir a oferta e, em seguida, selecione *Configurar sua conta*.</block>
+  <block id="a951786ed9d0f6fd98f01bf32ebd8871" category="list-text">Sign in em<block ref="30942e7e22a1858175e4b73944183c47" category="inline-link-rx"></block> com sua conta BlueXP .</block>
+  <block id="912c9ce3dfaa0efa9e23628863505fff" category="list-text">Após efetuar login, navegue até<block ref="e8caae0a1896f407154116371a0c7398" category="inline-link-rx"></block> .  Você será solicitado a:</block>
+  <block id="e6927100ca6999c8078a1524ea9d9039" category="list-text">Insira um *Nome de exibição* para a assinatura do Marketplace.</block>
+  <block id="3dc57008557a43222c3c1dcf3b13dbe9" category="list-text">Selecione as *Contas* do BlueXP com acesso à assinatura.</block>
+  <block id="0d44bad6f11273328ea95f1f049c4238" category="list-text">[Opcional] Habilite *Substituir assinatura existente* para substituir uma assinatura existente para uma conta.</block>
+  <block id="70d0125e4b5d4e703f8eb90a5ddf8be8" category="list-text">A substituição se aplica apenas a uma conta BlueXP .</block>
+  <block id="3de849c536c7d2a1b083f7cc3a929f1e" category="list-text">Para associar várias contas à mesma assinatura, configure contas adicionais manualmente.</block>
+  <block id="ac15313b1dc2741a5095bcc225efa2d9" category="list-text">Se as credenciais nunca foram associadas a uma assinatura, associe-as manualmente, conforme descrito na próxima seção.</block>
+  <block id="db4240b8b0057b7e98188fd2b9da80e5" category="list-text">Clique em *Associar* e depois em *Concluído*.</block>
+  <block id="5daea3d2e0e3dd56df84d4371b0c0b76" category="paragraph">É necessário concluir a tarefa de assinatura na Carteira Digital para aplicar o preço com desconto.</block>
+  <block id="c0c0e5a70f02630ad210596fabf7c505" category="section-title">Configurar a assinatura com credenciais da AWS</block>
+  <block id="1b43003a854c9949a3a41b3ba9597d6f" category="list-text">No BlueXP, acesse *Carteira Digital* e selecione a aba *Assinaturas do Marketplace*.</block>
+  <block id="c2253c97c00d425ebdbe6658a33a6113" category="list-text">Localize a assinatura criada anteriormente.  Expanda a linha para confirmar se ela está associada à sua conta BlueXP .</block>
+  <block id="31755614a692882f0fd1545120b934e4" category="paragraph">Devido às limitações do AWS Marketplace, alguns detalhes de ofertas privadas não são expostos fora do console da AWS.  Se um campo exibir<block ref="382b0f5185773fa0f67a8ed8056c7759" prefix=" " category="inline-code"></block> , verifique as informações diretamente no console da AWS.</block>
+  <block id="2cf5224bbe9daa91b23d4edc583a8e45" category="list-text">Clique no menu de três pontos ao lado da assinatura e selecione *Configurar*.</block>
+  <block id="8a8c90cee4f37eb6a5c4592bc73448b8" category="list-text">Selecione a *credencial de conta AWS* apropriada e clique em *Configurar*.</block>
+  <block id="231e32eb4ed511a6945d523370b753b4" category="paragraph">As taxas do Marketplace para essas credenciais são cobradas usando a assinatura do Marketplace.  Para contratos anuais, os custos são contabilizados no uso do contrato.</block>
+  <block id="85841ffd20a8dfe9a6978cf27c2ad33d" category="paragraph">Repita as etapas 1 a 4 para cada credencial da AWS na sua conta BlueXP que você deseja associar à assinatura.</block>
+  <block id="fcdb0510c0e23de827a7074ed7ceaa90" category="list-text">Para credenciais em outras organizações BlueXP , use o menu suspenso *Organização* e repita as etapas.</block>
+  <block id="6f3f33b919af1c15d87b3f21753e2272" category="list-text">Para credenciais em outros conectores, use o menu suspenso *Conector* e repita as etapas.</block>
+  <block id="50259c64a2dc79da38b2b415dbbad7be" category="doc">Aceitar e ativar uma oferta privada do Azure para o NetApp Data Infrastructure Insights</block>
+  <block id="450b4f59b19609737d7bfc1db7f11ca1" category="paragraph">Aceite e assine uma oferta privada do Marketplace para o NetApp Data Infrastructure Insights no portal do Azure.  Confirme e ative a assinatura no NetApp Data Infrastructure Insights.</block>
+  <block id="dc4e613e69e859f3be40de01f63ef1a2" category="list-text">Trabalhe com as vendas da NetApp para criar uma oferta privada para sua ID de cobrança do Azure.</block>
+  <block id="46908715e6c72aa83ba1a214711dd030" category="list-text">Colete os seguintes itens de dados relacionados à oferta privada:</block>
+  <block id="813a98fb6452445b3dd35ef4d8f2d6a6" category="list-text">URL do ambiente de trabalho do Data Infrastructure Insights</block>
+  <block id="4c266a14f4d9617d47d5c0f25edecc1d" category="list-text">Data de término da assinatura</block>
+  <block id="79a1f74f1e44398b25596c7b7d699067" category="list-text">Número de unidades gerenciadas</block>
+  <block id="9615d8a100d02f0179c42f9b4c94a270" category="list-text">Certifique-se de ter as permissões necessárias para aceitar uma oferta privada no Azure Marketplace:</block>
+  <block id="3882306bc383e0907d92c44200b57542" category="list-text">Contrato Empresarial (EA): *Administrador empresarial*</block>
+  <block id="5a17015c1797f9b3611d0d9767abd522" category="list-text">Contrato de Cliente da Microsoft (MCA): *Proprietário da conta de cobrança* ou *Colaborador da conta de cobrança*</block>
+  <block id="43b7088a3a1fc3292522fbdaf96e9f4e" category="list-text">Certifique-se de ter as permissões necessárias para comprar uma oferta privada e criar uma assinatura:</block>
+  <block id="0df5d9a9ae7c8623fef019f860f731c5" category="list-text">*Proprietário da assinatura* ou *Colaborador da assinatura* da assinatura do Azure que está sendo usada</block>
+  <block id="28be4e001e5c461eec635e9e5e19df22" category="list-text">Uma pessoa pode aceitar e comprar a oferta privada se tiver as permissões necessárias.</block>
+  <block id="29f4b900ac582f230f1238611aed3ed9" category="list-text">Determine a assinatura do Azure e o grupo de recursos a serem associados ao Data Infrastructure Insights.</block>
+  <block id="cf76a106489c34d8d815ce8e836402f9" category="section-title">Aceite e assine a oferta privada no portal do Azure</block>
+  <block id="1bb8b9fb4e56cd56effe50f633dc7e38" category="paragraph">Conclua todas as etapas para aceitar e ativar sua oferta privada.  Pular etapas pode causar problemas de ativação ou cobrança dupla.</block>
+  <block id="946d050e9f40044e84f413c93083535a" category="paragraph">Se os termos, preços ou detalhes da oferta estiverem incorretos, ou se você não tiver certeza de qual oferta aceitar, não aceite a oferta.  Entre em contato com sua equipe de vendas da NetApp .</block>
+  <block id="80fe6f318fd4a7ea6ad9a4a59226a8d4" category="list-text">Clique no link da oferta privada fornecido pela sua equipe de vendas da NetApp e entre. Se nenhum link estiver disponível, entre diretamente no portal do Azure.</block>
+  <block id="b8d22f94e23c3841d89314fa73eee281" category="list-text">Pesquise ou selecione *Marketplace* nos serviços do Azure.</block>
+  <block id="01d52254404cff7607242f7525a5d9b5" category="list-text">Na página Marketplace, clique em *Gerenciamento de ofertas privadas* na seção *Gerenciamento*.</block>
+  <block id="0a0f4af873ce479f6cd264bdbc69c46a" category="list-text">Clique em *Exibir + aceitar* para revisar os detalhes da oferta privada.</block>
+  <block id="cfd7239b76f04504bfbeaddc348bd9df" category="list-text">Valide a *quantidade*, *prazo* e *preço* de cada produto.</block>
+  <block id="2e875515d0c4ffc7b932a081dce75482" category="list-text">Se os detalhes estiverem incorretos, não assine.  Entre em contato com a equipe de vendas da NetApp para corrigir a oferta.</block>
+  <block id="75d15cf3a199a24423c04db8c6229fa7" category="list-text">Confirme e clique em *Aceitar oferta privada*.</block>
+  <block id="ff840a8e44a1e10e7d8f108f33d39971" category="list-text">Clique em *Comprar* para concluir o processo de compra.</block>
+  <block id="c835e219d7545abd5344ea09fe7ba5b9" category="paragraph">Se o botão *Comprar* não estiver disponível, confirme se você tem as permissões de compra necessárias.  Caso contrário, copie e compartilhe o link da janela de compra com alguém autorizado na sua organização.</block>
+  <block id="f5e55f8f93d46fa2e348730347e0114b" category="list-text">No fluxo de trabalho de compras:</block>
+  <block id="2534cb5d04f0975d7a2199aeca4e7fec" category="list-text">Selecione a *Assinatura do Azure*.</block>
+  <block id="5e540e21ae1ed6c4166772948acb8d11" category="list-text">Selecione o *Grupo de recursos*.</block>
+  <block id="8eca803eab6a65681b87d1ee4e176522" category="list-text">Digite um *Nome* para a nova assinatura.</block>
+  <block id="92e9f0cb05397641fd4fb0798dac4eda" category="paragraph">Nenhum recurso é provisionado no grupo de recursos.</block>
+  <block id="98043c1f703c2f986cde43a8e2cf3cac" category="list-text">Opcionalmente, defina *Tags* como produto, localização do site, definição de carga de trabalho ou convenção de nomenclatura.</block>
+  <block id="22dd7877c016465cdacc0c970aa7698d" category="list-text">Clique em *Revisar e assinar* para validar os detalhes e depois clique em *Inscrever-se*.</block>
+  <block id="789e7c93c25cf7213f70e16d5ec2eb04" category="list-text">Quando a assinatura for criada, clique em *Configurar conta agora*.  Você será redirecionado para o NetApp Data Infrastructure Insights.</block>
+  <block id="f3c77038c5ead385a99bbc3f196ce6a5" category="paragraph">A automação do Azure normalmente é concluída em 30 segundos a 5 minutos antes que o botão *Configurar conta agora* apareça.</block>
+  <block id="c6f949a50757107a7ca75c36e85bfc75" category="paragraph">Se a página fechar antes de você selecionar *Configurar conta agora*, retorne ao serviço no portal do Azure.  O status da assinatura é exibido como *Configuração pendente*.  Selecione-o para continuar a configuração.</block>
+  <block id="afb84665c596089b8d7a846d62094bbc" category="section-title">Confirme e ative a assinatura</block>
+  <block id="9b528122e788a2e6253ea9451515cbc4" category="list-text">Em um navegador, vá para<block ref="4c59e7a78057b1d504f34c67a32c35c2" category="inline-link-rx"></block> e faça login.</block>
+  <block id="deb78dc4aa83fba162fc8876739e7a34" category="list-text">Confirme os detalhes da assinatura para garantir que a oferta privada foi criada corretamente:</block>
+  <block id="d8a45ceedf176912d68a6fd3b5d30a83" category="list-text">Insira a *URL* do ambiente de trabalho do Data Infrastructure Insights .</block>
+  <block id="02ce808f389f62265b0474bfe68bc528" category="list-text">Insira a *Data de término da assinatura*.</block>
+  <block id="cc30addda753d570e5770821e25de437" category="list-text">Insira o *Número de unidades gerenciadas*.</block>
+  <block id="2fbcdf3770da0b17fe911c3329e93c04" category="list-text">Clique em *Inscrever-se*.  A assinatura entra no estado *Ativação Pendente*.</block>
+  <block id="4e0ebdac68ae7876633d2603862f3292" category="list-text">A ativação é concluída em 48–72 horas.  Durante esse período, o ambiente de trabalho opera em modo de teste gratuito com uso ilimitado.  Adicione o URL aos favoritos para acompanhar o progresso da ativação.</block>
+  <block id="ea02fb706fda43ba24f6c042066421ef" category="list-text">Após a conclusão da ativação, o console do Data Infrastructure Insights exibirá os detalhes da assinatura.  Um usuário com permissões de *Administrador* ou superiores pode visualizá-los navegando até *Administrador → Assinatura*.</block>
+  <block id="3a3e1c0d4efcb724ad48529ca01a3651" category="doc">Aceitar e ativar uma oferta privada do Azure para o NetApp BlueXP</block>
+  <block id="f120df1a72a76ef0828242b3b86201f7" category="paragraph">Aceite e assine uma oferta privada do Marketplace para o NetApp BlueXP no portal do Azure.  Configurar credenciais do Azure no NetApp BlueXP.</block>
+  <block id="cbd25df866b9c26c2205191e25632c69" category="list-text">Você tem as permissões necessárias para aceitar uma oferta privada no Azure Marketplace:</block>
+  <block id="b7ecccb6d9814347f79dd394e0ce015d" category="list-text">Você deve ter as permissões necessárias para comprar uma oferta privada no Azure Marketplace e criar uma assinatura:</block>
+  <block id="2e4c4ee48a5f2caac03de8943a1fdc43" category="list-text">Um único indivíduo pode aceitar e comprar a oferta privada se tiver as permissões necessárias.</block>
+  <block id="c98f183131eb496e36a008b2c291279c" category="paragraph">Uma assinatura do Azure pode ser associada a apenas uma assinatura do Marketplace.  Se quiser usar duas assinaturas diferentes do Marketplace para cargas de trabalho na mesma assinatura do Azure, você deverá criar duas contas separadas do NetApp BlueXP , uma para cada assinatura.  Se você tiver várias instâncias do Cloud Volumes ONTAP e quiser dividir o faturamento entre diferentes assinaturas, crie contas BlueXP separadas para cada assinatura.</block>
+  <block id="47f26de5d5f809041d484473468f9e1e" category="paragraph">Você deve concluir todas as etapas para aceitar e ativar sua oferta privada.  Pular etapas pode resultar em problemas de ativação ou cobrança dupla.</block>
+  <block id="5b91f544615def8157e9739a509448c2" category="paragraph">Se você notar discrepâncias nos termos, preços ou detalhes da oferta, ou se não tiver certeza de qual oferta aceitar, não aceite a oferta.  Entre em contato com sua equipe de vendas da NetApp .</block>
+  <block id="8894c60d409fc720e1cb540f53b239d5" category="paragraph">Aceitar e ativar a oferta várias vezes resulta em cobrança dupla.</block>
+  <block id="d6d5f4c87a78b99fabcaa4703996f9f1" category="list-text">Valide se os *detalhes do plano*, *prazo* e *preço* estão corretos.</block>
+  <block id="f6c5449120372658cd480801157add92" category="list-text">Clique em *Comprar* para concluir o processo de compra.</block>
+  <block id="91a14b2790c4789bde6375a6c412e970" category="list-text">Selecione a *assinatura do Azure* a ser usada.</block>
+  <block id="aa41804b7f278699a1900d8c288a14a3" category="list-text">Selecione o *Grupo de recursos* onde a assinatura será criada.</block>
+  <block id="3460a7ac34077d5cddfc99b0f205478c" category="list-text">Opcionalmente, defina *Tags* (para produto, local do site, definição de carga de trabalho ou convenção de nomenclatura).</block>
+  <block id="1a3a645cf42eafbdd06b4843afc9596f" category="list-text">Clique em *Revisar e assinar*, valide os detalhes e depois clique em *Inscrever-se*.</block>
+  <block id="251fd5e4f0a34d89a1fc017802dac4a5" category="list-text">Quando a assinatura for criada com sucesso, clique em *Configurar conta agora*.  Isso redireciona você para o NetApp BlueXP para concluir a configuração.</block>
+  <block id="9a563c483cf139d09ed5790b6644bd40" category="paragraph">A automação do lado do Azure pode levar de 30 segundos a 5 minutos para ser concluída.  Se a página foi fechada antes de você clicar em *Configurar conta agora*, retorne ao serviço no portal do Azure.  A assinatura é exibida como *Configuração pendente*.  Selecione-o para continuar a configuração.</block>
+  <block id="0a32b305ac01f900505c561727f28bea" category="list-text">Você é redirecionado para<block ref="30942e7e22a1858175e4b73944183c47" category="inline-link-rx"></block> e solicitado a fazer login.</block>
+  <block id="a8630a25fb4ef5912c2dea5b6c59ab2d" category="list-text">Após efetuar login, você será redirecionado para<block ref="e8caae0a1896f407154116371a0c7398" category="inline-link-rx"></block> .  Você será solicitado a:</block>
+  <block id="39adb4da3012b43be809229537dd4480" category="list-text">Insira um *Nome de exibição* para a assinatura do Marketplace.</block>
+  <block id="6364661fafbe6588db006a076d8190fa" category="list-text">Selecione as *Contas* do NetApp BlueXP que devem ter acesso a esta assinatura.</block>
+  <block id="9c3c7d3274a11a5a4894522adc628e75" category="list-text">Opcionalmente, você pode habilitar *Substituir assinatura existente* para substituir automaticamente uma assinatura existente do Marketplace em uma conta NetApp BlueXP .</block>
+  <block id="cf1cb8e8b8f821c8136103fb7cf2ba5f" category="list-text">Esta opção de substituição é limitada a uma única conta NetApp BlueXP .</block>
+  <block id="52a5719315feeb9c3efcc19c90c838d5" category="list-text">Para associar várias contas BlueXP à mesma assinatura do Marketplace, configure as contas adicionais manualmente.</block>
+  <block id="69151c9dd8707f2cba6598ff83dc176b" category="paragraph">É necessário concluir a tarefa de assinatura na *Carteira Digital* para ativar a compra e aplicar o preço com desconto.</block>
+  <block id="901d81e7a9533af8349427e17f415710" category="section-title">Configurar a assinatura com credenciais do Azure</block>
+  <block id="b341a3d298535291adc28f4788d6bda4" category="list-text">Valide os detalhes da assinatura:</block>
+  <block id="83c3810644be0d2dacba1e7e4c54862d" category="list-text">Localize a assinatura do Marketplace que você criou.</block>
+  <block id="74e521a71f2e4891625df2e7de44dadd" category="list-text">Expanda a linha para revisar os detalhes e confirmar se a assinatura está associada à sua conta BlueXP .</block>
+  <block id="ae1a47c80571694a1b615759eb3b5cd8" category="list-text">Clique no *menu de três pontos* ao lado da assinatura e selecione *Configurar*.</block>
+  <block id="ac76c135e0b2e37bb199dfccf3e593e0" category="list-text">Selecione a *assinatura do Azure* apropriada e clique em *Configurar*.</block>
+  <block id="af4e61dcda0487052f8f263523f3b339" category="paragraph">As cobranças do Marketplace para essa credencial do Azure agora são cobradas por meio da assinatura do Marketplace.  Para contratos anuais, o uso desta credencial é contabilizado no contrato anual.</block>
+  <block id="700150f977a574c978f873c86f512046" category="paragraph">Repita as etapas 1 a 4 para cada credencial do Azure na sua conta BlueXP que você deseja associar à assinatura.</block>
+  <block id="9d4e2368126567c9681abe7d7f0e3d0f" category="list-text">Para associar credenciais de outra organização BlueXP , use o menu suspenso *Organização* para alternar entre organizações e repita as etapas.</block>
+  <block id="58fe11e521ef08e7b807c78a9c84d14a" category="list-text">Para associar credenciais de outro Conector, use o menu suspenso *Conector* para alternar e repetir as etapas.</block>
+  <block id="c965ce960bbd02234da5f37006d6d52f" category="doc">Aceitar e configurar uma oferta privada do Google Cloud para o NetApp BlueXP</block>
+  <block id="09b00d23dd469b00a74ba4c34958316a" category="paragraph">Aceite uma oferta privada do Marketplace para a listagem do NetApp BlueXP no console do Google Cloud.  Configure as credenciais do Google Cloud no NetApp BlueXP.</block>
+  <block id="51f02975d44e73cb2d235f25a2f0cef5" category="list-text">Trabalhe com as vendas da NetApp para criar uma oferta privada.  Sua equipe de vendas deve fornecer o link da oferta.</block>
+  <block id="feeb32431af9e3e0a47bfb99af23c132" category="list-text">Sua conta de cobrança não deve estar em um teste gratuito.  Contas de teste gratuitas não podem aceitar ofertas privadas.  Se você tentar usar uma conta de cobrança de teste, receberá uma mensagem de erro e precisará de assistência da equipe de nuvem da NetApp .</block>
+  <block id="60f5daee3203a778fb9602ff72136dca" category="list-text">As seguintes permissões do Google Cloud são necessárias para aceitar a oferta:</block>
+  <block id="1e0f04e311f715ce8ea177fbb1e72905" category="list-text"><block ref="31e027d96bb2f1edadd2510bb8aef75e" prefix="" category="inline-code"></block>para a conta de faturamento do Cloud ou organização do Google Cloud de destino</block>
+  <block id="dd254233486ecf83785247cac06950fc" category="list-text"><block ref="9aaa5b08341c4d5f1dd465ffcfa419fd" prefix="" category="inline-code"></block>para o projeto faturado na conta de faturamento da nuvem</block>
+  <block id="311615f7a28830db91d86814354b2ebc" category="section-title">Aceite a oferta privada no Google Cloud</block>
+  <block id="a88c50d1b6d348c293c6e20b094bc542" category="paragraph">Um projeto do Google Cloud pode ser associado a apenas uma assinatura do Marketplace.  Se quiser usar duas assinaturas diferentes para cargas de trabalho no mesmo projeto do Google Cloud, você deverá criar duas contas separadas do NetApp BlueXP , uma para cada assinatura.</block>
+  <block id="54ea7f5728b4fe3047e1bed3564400bf" category="paragraph">Você deve concluir todas as etapas para ativar sua oferta privada.  Pular etapas pode causar problemas como cobrança dupla.</block>
+  <block id="0f42a5bd113a6793bdfb54ff1c208d97" category="paragraph">Se você notar discrepâncias nos termos, preços ou detalhes da oferta, ou se não tiver certeza de qual oferta aceitar, não aceite a oferta.  Entre em contato com sua equipe de contas da NetApp para obter esclarecimentos.</block>
+  <block id="a1b6e6321b135eb6a5c905e52b3ce76b" category="paragraph">Se você já possui uma assinatura PAYGO ativa ou uma oferta privada alterada, você só precisa realizar as etapas de aceitação.  Nesses casos, o Marketplace atualiza o plano dentro do mesmo anúncio e mantém o mesmo ID de assinatura, de modo que a associação da assinatura no BlueXP permanece intacta.</block>
+  <block id="290bbb83a89ab08e84b67b872e1882b9" category="list-text">Clique no link de ativação da oferta privada fornecido pela sua equipe de vendas da NetApp .  O link deve ser semelhante ao seguinte:<block ref="7d9578c0f61bb46b3c15bbcf093caa47" prefix=" " category="inline-code"></block></block>
+  <block id="c06f390cc77930ad800760399f795901" category="list-text">Você será redirecionado para o Google Cloud Marketplace, onde poderá revisar os detalhes da oferta:</block>
+  <block id="6c3d8751216e46ce88977f0a36da3bcd" category="list-text">**Conta de cobrança**</block>
+  <block id="1883f05e8045c14172513d205624ed7d" category="list-text">**Produto**: NetApp BlueXP</block>
+  <block id="a370fb40448c1a9cfd60035cbf486153" category="list-text">**Detalhes da oferta**</block>
+  <block id="d187556677277eb1fac2454e9173b115" category="list-text">**Preços**</block>
+  <block id="dbafd25ecc4a1bd157a51b6df56ad0c4" category="paragraph">Revise cuidadosamente os detalhes, o prazo e o preço do plano.  Se algo estiver incorreto, não aceite a oferta.  Entre em contato com sua equipe de contas da NetApp para solicitar uma alteração.</block>
+  <block id="c5cd3c98a99c425040223e4b93fa3292" category="list-text">Confirme se as informações estão corretas, aceite os termos e clique em **Aceitar**.</block>
+  <block id="85d9763d3791c88a822fb6f9a7689d51" category="list-text">Um ícone de carregamento aparece enquanto a assinatura é criada.</block>
+  <block id="bd57a36b79c39cc2107f5d54656ea4e2" category="list-text">Quando a assinatura for criada com sucesso, uma janela pop-up será exibida: *Sua solicitação de pedido foi enviada para a NetApp, Inc.*</block>
+  <block id="8b5b044f5a256217102b408c14b635e6" category="list-text">Clique em **REGISTRAR-SE NA NETAPP, Inc.**.  Você será redirecionado para o NetApp BlueXP para concluir a configuração da sua assinatura.  Se a oferta privada foi aceita por outro indivíduo em sua organização:</block>
+  <block id="4eb83948e70f96f003401374e672121a" category="list-text">No Google Cloud Marketplace, acesse **Pedidos**.</block>
+  <block id="988a06cb0560fd8ac30cad8db115da85" category="list-text">Localize a oferta com status **Pendente**.</block>
+  <block id="0418114406a14ea85606e27fbe1ee330" category="list-text">Clique no menu de três pontos e selecione **Registrar-se na NetApp, Inc.**</block>
+  <block id="382a2b9ff54c608829ee5bb84b9c1f75" category="list-text">Você é redirecionado para<block ref="43e196fd7d1a86adce26084a27e3d664" prefix=" " category="inline-code"></block> e solicitado a fazer login.</block>
+  <block id="a19087b422996ed382ea9248b23f3389" category="list-text">Após efetuar login, você será redirecionado para<block ref="d4df7b36ea1f36e5edded4e6414f05be" prefix=" " category="inline-code"></block> .  Um pop-up será exibido onde você deve:</block>
+  <block id="109deb83c524752969863db2154396e3" category="list-text">Insira um nome de exibição para a *Assinatura do SaaS Marketplace*.</block>
+  <block id="aa3283a28b29d18b697a59a9e81521d1" category="list-text">Selecione as **Contas** do NetApp BlueXP que devem ter acesso à assinatura.</block>
+  <block id="c2db462dc9ebdd4a86083e4f526c170c" category="list-text">Opcionalmente, você pode habilitar **Substituir assinatura existente** se quiser substituir automaticamente uma assinatura existente do Marketplace em uma conta NetApp BlueXP .</block>
+  <block id="f4f26ce82d96f80b854ceefb28464c61" category="list-text">Se precisar associar várias contas do NetApp BlueXP à mesma assinatura do Marketplace, você deverá configurar as contas adicionais manualmente.</block>
+  <block id="5d80793259e7331456ddff3f91a5456b" category="list-text">Clique em **Associar** e depois em **Concluído**.</block>
+  <block id="a378083fbc7ec3f353dbe9d5b064d0f6" category="section-title">Associe a assinatura às credenciais do Google Cloud</block>
+  <block id="ad2e06ffa1c65465cf053aff5fca1fe9" category="list-text">No BlueXP, acesse **Carteira Digital** e selecione a aba **Assinaturas do Marketplace**.</block>
+  <block id="8fbe217ff0b9b7194904a0d5b0c3cb0d" category="list-text">Localize a assinatura criada no processo de aceitação.</block>
+  <block id="099fe4ce960f301e1509b85f07456fec" category="list-text">Verifique se o plano correto é exibido.</block>
+  <block id="a7dd4d4083c70bf36edc2215bcf1d392" category="list-text">Expanda a linha para confirmar a associação da oferta privada.</block>
+  <block id="df5938543de3aeab258d6bb444cb19bb" category="paragraph">Devido às limitações do Google Cloud Marketplace, alguns campos podem ser exibidos<block ref="382b0f5185773fa0f67a8ed8056c7759" prefix=" " category="inline-code"></block> .  Essas informações estão disponíveis somente no console do Google Cloud.</block>
+  <block id="95672b9c651ec0ed6ec25a849f943b6d" category="list-text">[Opcional] Para renomear a assinatura:</block>
+  <block id="102533fc3349affbde8eed3f0119055a" category="list-text">Clique no **menu de três pontos** ao lado da assinatura.</block>
+  <block id="bb9d726ae34d1dd317cb722b46752963" category="list-text">Selecione **Renomear assinatura**.</block>
+  <block id="14652e6a008507211ad2e3f7ec7082c0" category="list-text">Clique no **menu de três pontos** novamente e selecione **Configurar**.</block>
+  <block id="a2716289bc8357bf8ed654777881b95b" category="list-text">Selecione a credencial da conta do Google Cloud apropriada e clique em **Configurar**.</block>
+  <block id="84656ffcb4b3afd9fc277e779c534a20" category="paragraph">As cobranças do Marketplace para esta credencial do Google Cloud agora são cobradas por meio da assinatura do Marketplace.  Para contratos anuais, o uso desta credencial é contabilizado no contrato anual.</block>
+  <block id="0e10f57d49dfeee371cbc646a960b99b" category="paragraph">Repita as etapas 1 a 5 para cada credencial do Google Cloud na sua conta BlueXP que você deseja associar à assinatura do Marketplace.</block>
+  <block id="5103b8202b72216b1b1df4cd78b87166" category="list-text">Para associar credenciais de outra conta BlueXP , use o menu suspenso **Conta** para alternar as contas e repita as etapas.</block>
+  <block id="9f60377ef9a5e22e0bdc821d995c2574" category="list-text">Para associar credenciais para outro Conector, use o menu suspenso **Conector** e repita as etapas.</block>
+  <block id="390eba2474f396f3e3c52f5eda09bd78" category="section-title">Ver o uso do Google Cloud</block>
+  <block id="b22fe978436068666bd5697ee5f14cf8" category="paragraph">Para visualizar o status e o uso dos créditos do Google Cloud:</block>
+  <block id="1afb41bd6758d43e8e21093a19c57c09" category="list-text">No console do Google Cloud, acesse **Cloud Marketplace**.</block>
+  <block id="4ff28d68fee060aaa1dc530e74b6dfd5" category="list-text">Clique em **Seus pedidos**.</block>
+  <block id="9bf1f05e9fbef21e2ad4a15f4f8f4069" category="list-text">No menu suspenso **Selecionar conta de cobrança**, escolha a conta de cobrança associada à sua oferta privada.</block>
+  <block id="c33037b135d0f0c2a1ec0f24e1d17c91" category="list-text">Encontre sua oferta privada na tabela, clique no **menu de três pontos** e selecione **Ver crédito**.</block>
+  <block id="bbbc9b55f08bfe80f146b5207bdb7728" category="paragraph">A NetApp oferece suporte para o BlueXP e seus serviços de nuvem de diversas maneiras. Oferecemos amplas opções gratuitas de autossuporte 24 horas por dia, 7 dias por semana, como artigos da base de conhecimento (KB) e um fórum da comunidade. Seu cadastro no suporte inclui suporte técnico remoto por meio de tickets online.</block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="inline-link-macro">Google Cloud NetApp Volumes</block>
+  <block id="cb4bf32603c89d08cad17e7e7dd302f2" category="list-text"><block ref="cb4bf32603c89d08cad17e7e7dd302f2" category="inline-link-macro-rx"></block></block>
+  <block id="219fa750a13ad456df1d25524d9f6ad9" category="list-text">* Uso do pacote Cloud Volumes ONTAP *: Este relatório inclui as seguintes informações para cada pacote:</block>
+  <block id="6bcfb67e751fc7a3d8dba22f37cbb570" category="inline-link">Disponibilidade restrita de licenciamento BYOL para Cloud Volumes ONTAP</block>
+  <block id="ceb2294714463ec73c3bb76a991ef103" category="admonition">A NetApp restringiu a compra, extensão e renovação de licenças BYOL. Para obter mais informações, consulte <block ref="73dc1b5468c2405a47da63a28335f079" category="inline-link-rx"></block> .</block>
+  <block id="1001b88d8ff7d289c57c8816aa6ffa49" category="paragraph">Ao renovar uma assinatura BYOL entrando em contato com um representante da NetApp , a BlueXP obtém automaticamente a nova licença da NetApp e a instala no sistema Cloud Volumes ONTAP . Se a BlueXP não conseguir acessar o arquivo de licença pela conexão segura com a internet, você poderá obtê-lo e carregá-lo manualmente para a BlueXP.</block>
+  <block id="759d32287efdf88cd8ac71dccc0ecf8d" category="inline-image-macro">Uma captura de tela que mostra um número de série da conta, uma caixa de seleção verde e o texto Registrado para suporte.</block>
+  <block id="4c441b388bebcddf8c08fb782095b864" category="paragraph"><block ref="4c441b388bebcddf8c08fb782095b864" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="03d8ffc661918290fbea573239c62f5a" category="sidebar">Gerenciar ofertas privadas</block>
+  <block id="4efe0192c79df441a41da0744ecf3669" category="sidebar">Gerenciar ofertas privadas da AWS</block>
+  <block id="c5a7b3a0d72357f8021b9c0a87292b7d" category="sidebar">Gerenciar uma oferta privada da AWS para BlueXP</block>
+  <block id="9656eeeb9e937eb67d609df0258423fe" category="sidebar">Gerenciar uma oferta privada da AWS para o Data Infrastructure Insights</block>
+  <block id="aea29cc4f3c81c7813c16f88bb99f5f7" category="sidebar">Gerenciar ofertas privadas do Azure</block>
+  <block id="4b1ed9ce2942ec5116672ef19503654f" category="sidebar">Gerenciar uma oferta privada do Azure para BlueXP</block>
+  <block id="a75875639ba528f8850019947118007c" category="sidebar">Gerenciar uma oferta privada do Azure para o NetApp Cloud Insights</block>
+  <block id="d442ea41bda9b1d8784f8a8d8bae7bb4" category="sidebar">Gerenciar ofertas privadas do Google Cloud</block>
+  <block id="051806976137f9456e5cc2d7cd30bd63" category="sidebar">Gerenciar uma oferta privada do Google Cloud para o NetApp BlueXP</block>
 </blocks>

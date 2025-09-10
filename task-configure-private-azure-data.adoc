@@ -1,0 +1,113 @@
+---
+sidebar: sidebar 
+permalink: task-manage-private-azure-data.html 
+keywords: activate,license, licensing, install, request capacity, link subscription, digital wallet, keystone flex, digital wallet, bluexp digital wallet 
+summary: Gerencie seu Processo de Oferta Privada de ponta a ponta, geral e específico do Hyperscaler, e os guias de aceitação e ativação do NetApp Intelligent Services para AWS, Azure e Google Cloud. 
+---
+= Aceitar e ativar uma oferta privada do Azure para o NetApp Data Infrastructure Insights
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Aceite e assine uma oferta privada do Marketplace para o NetApp Data Infrastructure Insights no portal do Azure.  Confirme e ative a assinatura no NetApp Data Infrastructure Insights.
+
+.Antes de começar
+* Trabalhe com as vendas da NetApp para criar uma oferta privada para sua ID de cobrança do Azure.
+* Colete os seguintes itens de dados relacionados à oferta privada:
++
+** URL do ambiente de trabalho do Data Infrastructure Insights
+** Data de término da assinatura
+** Número de unidades gerenciadas
+
+
+* Certifique-se de ter as permissões necessárias para aceitar uma oferta privada no Azure Marketplace:
++
+** Contrato Empresarial (EA): *Administrador empresarial*
+** Contrato de Cliente da Microsoft (MCA): *Proprietário da conta de cobrança* ou *Colaborador da conta de cobrança*
+
+
+* Certifique-se de ter as permissões necessárias para comprar uma oferta privada e criar uma assinatura:
++
+** *Proprietário da assinatura* ou *Colaborador da assinatura* da assinatura do Azure que está sendo usada
+
+
+* Uma pessoa pode aceitar e comprar a oferta privada se tiver as permissões necessárias.
+* Determine a assinatura do Azure e o grupo de recursos a serem associados ao Data Infrastructure Insights.
+
+
+
+
+== Aceite e assine a oferta privada no portal do Azure
+
+[IMPORTANT]
+====
+Conclua todas as etapas para aceitar e ativar sua oferta privada.  Pular etapas pode causar problemas de ativação ou cobrança dupla.
+
+Se os termos, preços ou detalhes da oferta estiverem incorretos, ou se você não tiver certeza de qual oferta aceitar, não aceite a oferta.  Entre em contato com sua equipe de vendas da NetApp .
+
+====
+.Passos
+. Clique no link da oferta privada fornecido pela sua equipe de vendas da NetApp e entre. Se nenhum link estiver disponível, entre diretamente no portal do Azure.
+. Pesquise ou selecione *Marketplace* nos serviços do Azure.
+. Na página Marketplace, clique em *Gerenciamento de ofertas privadas* na seção *Gerenciamento*.
+. Clique em *Exibir + aceitar* para revisar os detalhes da oferta privada.
++
+.. Valide a *quantidade*, *prazo* e *preço* de cada produto.
+.. Se os detalhes estiverem incorretos, não assine.  Entre em contato com a equipe de vendas da NetApp para corrigir a oferta.
+
+
+. Confirme e clique em *Aceitar oferta privada*.
+. Clique em *Comprar* para concluir o processo de compra.
++
+[NOTE]
+====
+Se o botão *Comprar* não estiver disponível, confirme se você tem as permissões de compra necessárias.  Caso contrário, copie e compartilhe o link da janela de compra com alguém autorizado na sua organização.
+
+====
+. No fluxo de trabalho de compras:
++
+.. Selecione a *Assinatura do Azure*.
+.. Selecione o *Grupo de recursos*.
+.. Digite um *Nome* para a nova assinatura.
++
+[NOTE]
+====
+Nenhum recurso é provisionado no grupo de recursos.
+
+====
+
+
+. Opcionalmente, defina *Tags* como produto, localização do site, definição de carga de trabalho ou convenção de nomenclatura.
+. Clique em *Revisar e assinar* para validar os detalhes e depois clique em *Inscrever-se*.
+. Quando a assinatura for criada, clique em *Configurar conta agora*.  Você será redirecionado para o NetApp Data Infrastructure Insights.
+
+
+[NOTE]
+====
+A automação do Azure normalmente é concluída em 30 segundos a 5 minutos antes que o botão *Configurar conta agora* apareça.
+
+Se a página fechar antes de você selecionar *Configurar conta agora*, retorne ao serviço no portal do Azure.  O status da assinatura é exibido como *Configuração pendente*.  Selecione-o para continuar a configuração.
+
+====
+
+
+== Confirme e ative a assinatura
+
+.Passos
+. Em um navegador, vá para https://cloud-insights-portal.azurewebsites.net/[] e faça login.
+. Confirme os detalhes da assinatura para garantir que a oferta privada foi criada corretamente:
++
+.. Insira a *URL* do ambiente de trabalho do Data Infrastructure Insights .
+.. Insira a *Data de término da assinatura*.
+.. Insira o *Número de unidades gerenciadas*.
+
+
+. Clique em *Inscrever-se*.  A assinatura entra no estado *Ativação Pendente*.
+. A ativação é concluída em 48–72 horas.  Durante esse período, o ambiente de trabalho opera em modo de teste gratuito com uso ilimitado.  Adicione o URL aos favoritos para acompanhar o progresso da ativação.
+. Após a conclusão da ativação, o console do Data Infrastructure Insights exibirá os detalhes da assinatura.  Um usuário com permissões de *Administrador* ou superiores pode visualizá-los navegando até *Administrador → Assinatura*.
+

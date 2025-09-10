@@ -52,6 +52,9 @@ image:screenshot_paygo_licenses.png["Uma captura de tela que mostra uma tabela n
 Gerencie as licenças que você comprou diretamente do NetApp adicionando e removendo licenças de sistema e licenças de capacidade extra.
 
 
+NOTE: A NetApp restringiu a compra, extensão e renovação de licenças BYOL. Para obter mais informações, consulte  https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/whats-new.html#restricted-availability-of-byol-licensing-for-cloud-volumes-ontap["Disponibilidade restrita de licenciamento BYOL para Cloud Volumes ONTAP"^] .
+
+
 
 === Adicionar licenças não atribuídas
 
@@ -130,9 +133,7 @@ image:screenshot-license-generator.png["Captura de tela: Mostra um exemplo da p�
 
 === Atualizar uma licença de sistema
 
-Quando você renova uma assinatura BYOL entrando em Contato com um representante da NetApp, o BlueXP  obtém automaticamente a nova licença do NetApp e a instala no sistema Cloud Volumes ONTAP.
-
-Se o BlueXP  não conseguir acessar o arquivo de licença pela conexão segura à Internet, você pode obter o arquivo sozinho e, em seguida, carregar o arquivo manualmente para o BlueXP .
+Ao renovar uma assinatura BYOL entrando em contato com um representante da NetApp , a BlueXP obtém automaticamente a nova licença da NetApp e a instala no sistema Cloud Volumes ONTAP . Se a BlueXP não conseguir acessar o arquivo de licença pela conexão segura com a internet, você poderá obtê-lo e carregá-lo manualmente para a BlueXP.
 
 .Passos
 . No menu de navegação BlueXP , selecione *Governança > carteira digital*.
